@@ -1,7 +1,7 @@
 [![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=362944&assignment_repo_type=GroupAssignmentRepo)
-# Group 1022 - {Short snappy Title of your project}
+# Group 1022 - Trends in BC Surgical Wait Times
 
-BC Surgical Waitlist Analysis Over THe Last Decade
+BC Surgical Waitlist Analysis Over The Last Decade
 
 ## Milestones
 
@@ -13,13 +13,13 @@ On January 6th, 2021 Adrain Dix, the BC Minister of Health, announced that 90% o
 
 Even before Covid-19 thrust health care delivery into the spotlight of popular media, measures of surgical wait times were used as a key marker for the efficiency and robustness of health systems in BC and worldwide (4,5,6).  Minimizing surgical waitlists is deemed an important factor in keeping individuals and populations healthy and productive. 
 
-There are many factors that may impact surgical waitlists and wait times(7,8).  These could include political will, financial stability, healhtcare infrastructure, human resources and even legal and ethical proceedings such as the recent Supreme Court case of Cambies Surgical Corporation v. BC.  
+There are many factors that may impact surgical waitlists and wait times(7,8,9).  These could include political will, financial stability, healhtcare infrastructure, human resources and even legal and ethical proceedings such as the recent Supreme Court case of Cambies Surgical Corporation v. BC.  
 
 By analyzing BC waitlists and surgery completions from 2009 to 2020, we hope to gain insight into the possible factors that impact this important metric of our provincial healthcare system.
 
 ## Describe your dataset in about 150-200 words
 
-Taken from the British Columbia Data Catalogue, the 2009-2020 Annual Surgical Wait Times database (1) has a plethora of information for our analysis.  Spanning more than a decade, this database provides annual values for all waitlisted and completed surgeries in BC.  The information is categorized by year, health region, facility and surgical type.  The data is also summarized by totals for all regions, all facilities and all surgical types.  The dataset also provides the median waiting time and the time waiting that 90% of people waited for their surgeries (in weeks).  The BC Data Catalogue contains Surgical Wait Time information for the 2009-2020 time period broken down by fiscal quarters as well as the 2020-2021 Quarterly Surgical Wait Times data should this information be required for further analysis.  Additionally, the BC Surgical Wait Times webpage has useful background information, however it only presents the most recent 3 year worth of summary data (9).
+The 2009-2020 Annual Surgical Wait Times database (1) is published by the BC Ministry of Health and licensed under Open Government Licence - British Columbia (10).  Spanning more than a decade, this database provides annual values for all waitlisted and completed scheduled surgeries in BC captured annually at a single time point.  The information is categorized by year, health region, facility and surgical type.  The data is also summarized by totals for all regions, all facilities and all surgical types.  The dataset also provides the median wait duration and the duration that 90% of people wait for their surgerical completion (in weeks).  A patient is entered onto a waitlist manually or electronically via the submission of their surgical booking form.  Durations are determined from submission date to their surgical completion date. The data is collected as a means for the Ministry of Health to monitor surgical productivity.  The BC Data Catalogue also contains Surgical Wait Time information for the 2009-2020 time period broken down by fiscal quarters as well as the 2020-2021 Quarterly Surgical Wait Times data should this information be required for further analysis.  Additionally, the BC Surgical Wait Times webpage has useful background information, however it only presents the most recent 3 year worth of summary data .
 
 ## Team Members
 
@@ -38,3 +38,4 @@ Taken from the British Columbia Data Catalogue, the 2009-2020 Annual Surgical Wa
 (7) https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3036749/
 (8) https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-019-4199-6
 (9) https://swt.hlth.gov.bc.ca/Home.xhtml
+(10) https://catalogue.data.gov.bc.ca/dataset/bc-surgical-wait-times
