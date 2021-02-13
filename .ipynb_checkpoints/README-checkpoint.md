@@ -11,7 +11,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 On January 6th, 2021 Adrain Dix, the BC Minister of Health, announced that 90% of surgeries that were postponed due to Covid-19 shutdowns had now been completed and despite ongoing Covid strain, BC hospitals had achieved a 12% reduction in total surgical waitlists (2). Minister Dix deemed this post-Covid progress "remarkable" (3).
 
-Even before Covid-19 thrust health care delivery into the spotlight of popular media, measures of surgical wait times were used as a key marker for the efficiency and robustness of health systems in BC and worldwide (4,5,6).  Minimizing surgical waitlists is deemed an important factor in keeping individuals and populations healthy and productive. 
+Even before Covid-19 thrusted health care delivery into the spotlight of popular media, measures of surgical wait times were used as a key marker for the efficiency and robustness of health systems in BC and worldwide (4,5,6).  Minimizing surgical waitlists is deemed an important factor in keeping individuals and populations healthy and productive. 
 
 There are many factors that may impact surgical waitlists and wait times(7,8,9).  These could include political will, financial stability, healhtcare infrastructure, human resources and even legal and ethical proceedings such as the recent Supreme Court case of Cambies Surgical Corporation v. BC.  
 
