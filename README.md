@@ -23,7 +23,7 @@ The 2009-2020 Annual Surgical Wait Times database (1) is published by the BC Min
 
 ## Team Members
 
-- Person 1: one sentence about you!
+- Akshaj: As a BSc Computer Science major, with a minor in Data Science at UBC Okanagan, I am familiar with data analytics, API and web development, and various programming languages. I am excited to work on projects with my teammates. 
 - Monica: I am an unclassified student and although my experience with formal data analytics and computer sciences is limited, I have years of experience in basic science analysis and healthcare delivery which I hope will be an asset for our team as we work on this project.   
 - Rynelle: I am third year MGMT student who has taken Java and C++ courses in APSC but I'm very inexperienced with programming, so I hope that with this project and the help of my teammates I will have a better understanding and be able to understand this field a little better.
 
