@@ -1,6 +1,8 @@
-My project analysis
+## My project analysis
 
 
-Feb 9th: Created CODE OF CONDUCT and LICENSE files.
+**Feb 9th:** Created CODE OF CONDUCT and LICENSE files.
 
-Feb 13th: Loaded dataset into jupyter notebook using pandas, outputed dataset as proof. 
+**Feb 13th:** Loaded dataset into jupyter notebook using pandas, outputed dataset as proof. 
+
+**March 9th:** Created *funWithMardown* file and demonstrated the use of different markdown functions. 
