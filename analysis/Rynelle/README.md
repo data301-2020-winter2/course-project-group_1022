@@ -1,3 +1,14 @@
-12 February 2021
-Having difficulty with program; jupyter lab, terminal
-Have created a directory (Task 1) with a 'README' file
+## Rynelle's Project Log ##
+
+*12 February 2021*
+1. Having difficulty with program; jupyter lab, terminal
+2. Have created a directory (Task 1) with a 'README' file
+
+*9 March 2021*
+1. took a step away from the project, but have now come back for the **PM2 due date**
+2. currently, I am trying to read through the tasks for PM2 just so I can understand what is going on. I definitely **struggle** with this class; just figuring what I'm supposed to do and how to string functions together; so I want to make sure I am understanding what is being asked of us
+3. I also took Monica's idea of creating a **blank markdown** to keep helpful notes, practice, and other things that will help me complete the project
+4. I am definitely **stressed out** but feeling confident that we'll get it done and I won't dragmy group down
+![https://giphy.com/gifs/angry-mad-office-l49JXho10VKz27htK]
+5. Task 4: Find an EDA; must use two columns of data, have three visuals, and notes/commentary
+6. Task 5: Using the EDA, answer the research questions propsed. Use visuals and commentary. (can change questions if need be)
