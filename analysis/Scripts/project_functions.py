@@ -41,9 +41,38 @@ def no_duplicates_all_h_a(df):
     
     return df_h_a
 
+<<<<<<< HEAD
 def no_duplicates_all_prcd(df):
     # This gives us the "All Procedure" data for each hospital
     df_prcd = df[(df['prcd'] == 'All Procedures')]
     df_prcd = df_prcd[~(df['hosp'] == 'All Facilities')] 
     
     return df_prcd
+=======
+def main_Allsummary_data(wd):
+    wd_all = wd[(wd['h_a'] == 'All Health Authorities') & (wd['prcd'] == 'All Procedures')]
+    return wd_all
+
+
+
+def basic_data(wd):
+    wd = wd[~(wd['h_a'] == 'All Health Authorities')] 
+    wd = wd[~(wd['hosp'] == 'All Facilities')] 
+    wd = wd[~(wd['prcd'] == 'All Procedures')]
+    return wd
+
+
+
+def all_procd(wd):
+    wd_all_prcd = wd[(wd['prcd'] == 'All Procedures')]
+    wd_all_prcd = wd_all_prcd[~(wd_all_prcd['hosp'] == 'All Facilities')] 
+    return wd_all_prcd
+    
+    
+    
+def all_h_a:
+    wd_all_ha = wd[(wd['h_a'] == 'All Health Authorities')]
+    wd_all_ha = wd_all_ha[~(wd_all_ha['prcd'] == 'All Procedures')]
+    return wd_all_ha
+
+>>>>>>> f195a1c3371d2ff9e6c0019895f5caece905a49c
