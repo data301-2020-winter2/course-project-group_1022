@@ -27,7 +27,6 @@ def load_and_process(url_or_path_to_csv_file):
     
     return ddata
 
-
 def main_Allsummary_data(wd):
     wd_all = wd[(wd['h_a'] == 'All Health Authorities') & (wd['prcd'] == 'All Procedures')]
     return wd_all
@@ -49,8 +48,9 @@ def all_procd(wd):
     
     
     
-def all_h_a:
+def all_h_a(wd):
     wd_all_ha = wd[(wd['h_a'] == 'All Health Authorities')]
     wd_all_ha = wd_all_ha[~(wd_all_ha['prcd'] == 'All Procedures')]
     return wd_all_ha
+
 
