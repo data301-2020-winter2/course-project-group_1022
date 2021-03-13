@@ -3,10 +3,6 @@
 
 **BC Surgical Waitlist Analysis Over The Last Decade**
 
-## Milestones
-
-Details for Milestone are available on Canvas (left sidebar, Course Project) or [here](https://firas.moosvi.com/courses/data301/project/milestone01.html).
-
 ## Describe your topic/interest in about 150-200 words
 
 On January 6th, 2021 Adrain Dix, the BC Minister of Health, announced that 90% of surgeries that were postponed due to Covid-19 shutdowns had now been completed and despite ongoing Covid strain, BC hospitals had achieved a 12% reduction in total surgical waitlists (2). Minister Dix deemed this post-Covid progress 
@@ -22,11 +18,17 @@ There are many factors that may impact surgical waitlists and wait times(7,8,9).
 - human resources 
 - and even legal and ethical proceedings such as the recent Supreme Court case of Cambies Surgical Corporation v. BC.  
 
-By analyzing BC waitlists and surgery completions from 2009 to 2020, we hope to gain insight into the possible factors that impact this important metric of our provincial healthcare system.
+By analyzing BC waitlists and surgery completions from 2009 to 2020, we hope to gain insight into the possible factors that impact this important metric of our provincial healthcare system.  
+*Our initial analysis focuses on the relationship between the number of patients on surgical waitlists at year end compared to the number of surgical procedures completed annually.*
+
 
 ## Describe your dataset in about 150-200 words
 
-The 2009-2020 Annual Surgical Wait Times database (1) is published by the BC Ministry of Health and licensed under Open Government Licence - British Columbia (10).  Spanning more than a decade, this database provides annual values for all waitlisted and completed scheduled surgeries in BC captured annually at a single time point.  The information is categorized by year, health region, facility and surgical type.  The data is also summarized by totals for all regions, all facilities and all surgical types.  The dataset also provides the median wait time and the duration that 90% of people wait for their surgerical completion (in weeks).  A patient is entered onto a waitlist manually or electronically via the submission of their surgical booking form.  Durations are determined from submission date to their surgical completion date. The data is collected as a means for the Ministry of Health to monitor surgical productivity.  The BC Data Catalogue also contains Surgical Wait Time information for the 2009-2020 time period broken down by fiscal quarters as well as the 2020-2021 Quarterly Surgical Wait Times data should this information be required for further analysis.  Additionally, the BC Surgical Wait Times webpage has useful background information, however it only presents the most recent 3 years worth of summary data .
+The 2009-2020 Annual Surgical Wait Times database (1) is published by the BC Ministry of Health and licensed under Open Government Licence - British Columbia (10).  
+Spanning more than a decade, this database provides annual values for all waitlisted and completed scheduled surgeries in BC captured annually at a single time point.  The information is categorized by year, health region, facility and surgical type.  The data is also summarized by totals for all regions, all facilities and all surgical types.  The dataset also provides the median wait time and the duration that 90% of people wait for their surgerical completion (in weeks).  
+A patient is entered onto a waitlist manually or electronically via the submission of their surgical booking form.  Durations are determined from submission date to their surgical completion date. 
+The data is collected as a means for the Ministry of Health to monitor surgical productivity.  
+The BC Data Catalogue also contains Surgical Wait Time information for the 2009-2020 time period broken down by fiscal quarters as well as the 2020-2021 Quarterly Surgical Wait Times data should this information be required for further analysis.  Additionally, the BC Surgical Wait Times webpage has useful background information, however it only presents the most recent 3 years worth of summary data .
 
 ## Team Members
 
