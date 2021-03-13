@@ -12,3 +12,8 @@
 ![https://giphy.com/gifs/angry-mad-office-l49JXho10VKz27htK]
 5. Task 4: Find an EDA; must use two columns of data, have three visuals, and notes/commentary
 6. Task 5: Using the EDA, answer the research questions propsed. Use visuals and commentary. (can change questions if need be)
+
+*12 March 2021*
+1. Have been attempting to work on PM2 but it has been going well
+2. A huge **struggle** because it keeps saying my file can not be found
+3. I am currently working on Task 5 before moving to Task 4
