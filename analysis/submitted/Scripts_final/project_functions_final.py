@@ -49,7 +49,7 @@ def all_procd(wd):
     
     
 def all_h_a(wd):
-    wd_all_ha = wd[~(wd['h_a'] == 'All Health Authorities')]
     wd_all_ha = wd[(wd['hosp'] == 'All Facilities')]
+    wd_all_ha = wd_all_ha[~(wd_all_ha['h_a'] == 'All Health Authorities')]
     wd_all_ha = wd_all_ha[~(wd_all_ha['prcd'] == 'All Procedures')]
     return wd_all_ha
