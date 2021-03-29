@@ -17,3 +17,13 @@
 1. Have been attempting to work on PM2 but it has been going well
 2. A huge **struggle** because it keeps saying my file can not be found
 3. I am currently working on Task 5 before moving to Task 4
+
+*22 March 2021*
+1. Began looking at PM3 to see what the criteria entailed
+2. Divided up the work between members
+3. Seems like a relatively easy milestone, but it's a good set up for the final project
+
+*29 March 2021*
+1. We have been having some **complications** with Akshaj's push/pull
+2. Monica and I are trying to see what the problem is
+3. Last restort, one of us will input his work for him
