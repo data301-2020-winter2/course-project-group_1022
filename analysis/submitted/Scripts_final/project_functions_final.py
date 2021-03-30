@@ -53,3 +53,11 @@ def all_h_a(wd):
     wd_all_ha = wd_all_ha[~(wd_all_ha['h_a'] == 'All Health Authorities')]
     wd_all_ha = wd_all_ha[~(wd_all_ha['prcd'] == 'All Procedures')]
     return wd_all_ha
+
+def prcd(wd):
+    wd_prcd = wd[~(wd['prcd'] == 'All Procedures')]
+    wd_prcd = wd_prcd[(wd_prcd['hosp'] == 'All Facilities')] 
+    wd_prcd = wd_prcd[(wd_prcd['h_a'] == 'All Health Authorities')] 
+    return wd_prcd
+    
+    

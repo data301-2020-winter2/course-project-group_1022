@@ -1,0 +1,12 @@
+,year,h_a,hosp,prcd,waiting,comp,wait_med,wait_90,wait_median_d,wait_90_d
+2,2009/10,All Health Authorities,All Facilities,All Procedures,72056,219284,5.3,24.3,37.1,170.1
+3356,2010/11,All Health Authorities,All Facilities,All Procedures,75716,225674,5.7,25.9,39.9,181.29999999999998
+6793,2011/12,All Health Authorities,All Facilities,All Procedures,75698,232922,5.7,26.1,39.9,182.70000000000002
+10262,2012/13,All Health Authorities,All Facilities,All Procedures,73367,228053,5.3,25.9,37.1,181.29999999999998
+13727,2013/14,All Health Authorities,All Facilities,All Procedures,75560,225798,5.6,27.0,39.199999999999996,189.0
+17176,2014/15,All Health Authorities,All Facilities,All Procedures,76770,226409,6.3,30.6,44.1,214.20000000000002
+20587,2015/16,All Health Authorities,All Facilities,All Procedures,79353,229281,6.9,32.0,48.300000000000004,224.0
+23993,2016/17,All Health Authorities,All Facilities,All Procedures,85404,233422,7.1,32.3,49.699999999999996,226.09999999999997
+27431,2017/18,All Health Authorities,All Facilities,All Procedures,86566,236943,7.1,33.0,49.699999999999996,231.0
+30880,2018/19,All Health Authorities,All Facilities,All Procedures,87061,248901,7.1,31.7,49.699999999999996,221.9
+34275,2019/20,All Health Authorities,All Facilities,All Procedures,93941,248462,7.0,30.9,49.0,216.29999999999998
