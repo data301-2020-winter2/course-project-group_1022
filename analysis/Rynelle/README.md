@@ -27,3 +27,8 @@
 1. We have been having some **complications** with Akshaj's push/pull
 2. Monica and I are trying to see what the problem is
 3. Last restort, one of us will input his work for him
+
+*4 April 2021*
+1. We have begun working on **Lab 7** as a group
+2. Monica will be looking at wait-times vs procedure at specific hospitals while I will be looking at waitlists vs procedures across Health Authorities
+3. We have decided to work on Lab 7 as a group to make it easier but to also prep for **PM4**
