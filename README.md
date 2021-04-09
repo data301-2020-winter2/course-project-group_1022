@@ -48,3 +48,6 @@ The BC Data Catalogue also contains Surgical Wait Time information for the 2009-
 8. (https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-019-4199-6)
 9. (https://swt.hlth.gov.bc.ca/Home.xhtml)
 10. (https://catalogue.data.gov.bc.ca/dataset/bc-surgical-wait-times)
+
+Lab 7 Tableau Links:
+Rynelle [https://us-west-2b.online.tableau.com/#/site/data301/workbooks/346375?:origin=card_share_link]

@@ -32,3 +32,5 @@
 1. We have begun working on **Lab 7** as a group
 2. Monica will be looking at wait-times vs procedure at specific hospitals while I will be looking at waitlists vs procedures across Health Authorities
 3. We have decided to work on Lab 7 as a group to make it easier but to also prep for **PM4**
+
+This is my link for Lab 7: [https://us-west-2b.online.tableau.com/#/site/data301/workbooks/346375?:origin=card_share_link]
