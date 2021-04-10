@@ -1,0 +1,914 @@
+,year,h_a,hosp,prcd,waiting,comp,wait_med,wait_90,wait_median_d,wait_90_d
+0,2009/10,All Health Authorities,All Facilities,Abdominoplasty,52,100,9.1,42.6,63.699999999999996,298.2
+1,2009/10,All Health Authorities,All Facilities,All Other Procedures,1347,6287,4.0,17.1,28.0,119.70000000000002
+3,2009/10,All Health Authorities,All Facilities,Aortic Aneurysm Repair,96,365,3.7,13.5,25.900000000000002,94.5
+4,2009/10,All Health Authorities,All Facilities,Appendectomy,19,88,3.7,9.1,25.900000000000002,63.699999999999996
+5,2009/10,All Health Authorities,All Facilities,Bariatric Surgery,530,201,16.6,151.7,116.20000000000002,1061.8999999999999
+6,2009/10,All Health Authorities,All Facilities,Biopsy in OR,438,2918,2.9,10.7,20.3,74.89999999999999
+7,2009/10,All Health Authorities,All Facilities,Bladder Surgery,1830,6003,4.4,23.3,30.800000000000004,163.1
+8,2009/10,All Health Authorities,All Facilities,Bowel Resection,376,2732,2.6,9.9,18.2,69.3
+9,2009/10,All Health Authorities,All Facilities,Breast Biopsy,230,2571,2.4,6.4,16.8,44.800000000000004
+10,2009/10,All Health Authorities,All Facilities,Breast Reconstruction,473,1112,6.0,29.6,42.0,207.20000000000002
+11,2009/10,All Health Authorities,All Facilities,Breast Reduction,1449,1743,14.0,46.0,98.0,322.0
+12,2009/10,All Health Authorities,All Facilities,Cataract Surgery,12982,47146,6.6,25.1,46.199999999999996,175.70000000000002
+13,2009/10,All Health Authorities,All Facilities,Cholecystectomy,1608,5713,5.0,19.1,35.0,133.70000000000002
+14,2009/10,All Health Authorities,All Facilities,Colostomy/Ileostomy,185,625,5.1,19.6,35.699999999999996,137.20000000000002
+15,2009/10,All Health Authorities,All Facilities,Cone Biopsy,77,662,3.0,9.1,21.0,63.699999999999996
+16,2009/10,All Health Authorities,All Facilities,Cranial Surgery,85,929,1.1,7.7,7.700000000000001,53.9
+17,2009/10,All Health Authorities,All Facilities,CSF Drainage,5,63,1.9,8.2,13.299999999999999,57.39999999999999
+18,2009/10,All Health Authorities,All Facilities,Cyst/Ganglion Removal,465,1469,5.4,20.6,37.800000000000004,144.20000000000002
+19,2009/10,All Health Authorities,All Facilities,D&C and Related Surgery,1063,5702,3.7,14.4,25.900000000000002,100.8
+20,2009/10,All Health Authorities,All Facilities,Dental Surgery,2158,5251,7.0,26.1,49.0,182.70000000000002
+21,2009/10,All Health Authorities,All Facilities,Endarterectomy,131,619,3.3,12.3,23.099999999999998,86.10000000000001
+22,2009/10,All Health Authorities,All Facilities,Esophagectomy,17,119,2.7,12.4,18.900000000000002,86.8
+23,2009/10,All Health Authorities,All Facilities,Examination Under Anaesthetic,134,611,3.9,13.9,27.3,97.3
+24,2009/10,All Health Authorities,All Facilities,Excision Gynecomastia,87,200,7.4,39.2,51.800000000000004,274.40000000000003
+25,2009/10,All Health Authorities,All Facilities,Excision Lesion/Tumour,485,2160,3.3,14.3,23.099999999999998,100.10000000000001
+26,2009/10,All Health Authorities,All Facilities,Facial Bone Reconstruction,410,829,4.1,41.0,28.699999999999996,287.0
+27,2009/10,All Health Authorities,All Facilities,Fallopian Tube/Ovarian Surgery,1277,3957,5.7,20.1,39.9,140.70000000000002
+28,2009/10,All Health Authorities,All Facilities,Fistula Repair - Non Vascular,37,145,4.9,22.2,34.300000000000004,155.4
+29,2009/10,All Health Authorities,All Facilities,Foot/Ankle Surgery,416,770,6.7,35.6,46.9,249.20000000000002
+30,2009/10,All Health Authorities,All Facilities,Foreign Body Removal Surgery,52,247,2.3,16.9,16.099999999999998,118.29999999999998
+31,2009/10,All Health Authorities,All Facilities,Fracture Repair,237,1452,0.4,9.6,2.8000000000000003,67.2
+32,2009/10,All Health Authorities,All Facilities,Free Flap Graft,26,116,3.0,16.9,21.0,118.29999999999998
+33,2009/10,All Health Authorities,All Facilities,Gastrostomy/Jejunostomy,3,57,1.1,7.7,7.700000000000001,53.9
+34,2009/10,All Health Authorities,All Facilities,Hand/Wrist Surgery,838,2236,6.3,24.0,44.1,168.0
+35,2009/10,All Health Authorities,All Facilities,Hernia Repair - Abdominal,4105,10479,7.0,27.1,49.0,189.70000000000002
+37,2009/10,All Health Authorities,All Facilities,Hernia Repair - Hiatal,206,269,10.9,35.9,76.3,251.29999999999998
+38,2009/10,All Health Authorities,All Facilities,Hip Replacement,1576,4242,10.4,27.6,72.8,193.20000000000002
+39,2009/10,All Health Authorities,All Facilities,Kidney/Bladder Stone Removal,168,1237,3.1,10.0,21.7,70.0
+40,2009/10,All Health Authorities,All Facilities,Knee - ACL Repair,726,1731,8.1,28.7,56.699999999999996,200.9
+41,2009/10,All Health Authorities,All Facilities,Knee - Meniscectomy,668,2003,6.0,29.8,42.0,208.6
+42,2009/10,All Health Authorities,All Facilities,Knee Arthroscopy,2751,6810,6.4,27.7,44.800000000000004,193.9
+43,2009/10,All Health Authorities,All Facilities,Knee Replacement,3354,6466,12.0,35.7,84.0,249.90000000000003
+44,2009/10,All Health Authorities,All Facilities,Laparoscopy,462,1868,4.6,16.0,32.199999999999996,112.0
+45,2009/10,All Health Authorities,All Facilities,Laparotomy,54,508,2.6,9.8,18.2,68.60000000000001
+46,2009/10,All Health Authorities,All Facilities,Lens & Vitreous (non-cataract) Surgery,442,2716,1.6,13.4,11.200000000000001,93.8
+47,2009/10,All Health Authorities,All Facilities,Ligament Surgery,52,162,6.8,25.0,47.6,175.0
+48,2009/10,All Health Authorities,All Facilities,Lipectomy,37,146,6.3,27.6,44.1,193.20000000000002
+49,2009/10,All Health Authorities,All Facilities,Lung Surgery,61,582,2.4,5.0,16.8,35.0
+50,2009/10,All Health Authorities,All Facilities,Male Reproductive Surgery,805,2117,5.6,22.5,39.199999999999996,157.5
+51,2009/10,All Health Authorities,All Facilities,Mastectomy,346,3780,1.9,5.6,13.299999999999999,39.199999999999996
+52,2009/10,All Health Authorities,All Facilities,Mastoidectomy,111,259,9.7,38.7,67.89999999999999,270.90000000000003
+53,2009/10,All Health Authorities,All Facilities,Myringotomy,321,1387,4.7,13.3,32.9,93.10000000000001
+54,2009/10,All Health Authorities,All Facilities,Nasal Surgery,2050,3004,10.0,40.0,70.0,280.0
+55,2009/10,All Health Authorities,All Facilities,Nerve Surgery,596,1109,5.0,33.6,35.0,235.20000000000002
+56,2009/10,All Health Authorities,All Facilities,Oral Cavity & Pharynx Surgery,87,341,6.6,24.7,46.199999999999996,172.9
+57,2009/10,All Health Authorities,All Facilities,Other Ear Surgery,84,182,9.9,37.9,69.3,265.3
+58,2009/10,All Health Authorities,All Facilities,Other Eye Surgery,1299,4005,4.6,27.1,32.199999999999996,189.70000000000002
+59,2009/10,All Health Authorities,All Facilities,Other Joint Reconstruction,898,1819,7.9,41.6,55.300000000000004,291.2
+60,2009/10,All Health Authorities,All Facilities,Other Orthopaedic Surgery,2568,6422,5.6,28.9,39.199999999999996,202.29999999999998
+61,2009/10,All Health Authorities,All Facilities,Other Urology Surgery,1528,6699,3.7,16.9,25.900000000000002,118.29999999999998
+62,2009/10,All Health Authorities,All Facilities,Parotidectomy,109,311,5.0,21.9,35.0,153.29999999999998
+63,2009/10,All Health Authorities,All Facilities,Prostate Surgery,1330,5113,4.9,19.6,34.300000000000004,137.20000000000002
+64,2009/10,All Health Authorities,All Facilities,Rectal Surgery,815,1581,7.0,27.7,49.0,193.9
+65,2009/10,All Health Authorities,All Facilities,Rib Resection,47,50,27.4,68.9,191.79999999999998,482.30000000000007
+66,2009/10,All Health Authorities,All Facilities,Scope of Chest,69,714,2.0,5.0,14.0,35.0
+67,2009/10,All Health Authorities,All Facilities,Shoulder Surgery,2010,2884,10.1,41.9,70.7,293.3
+68,2009/10,All Health Authorities,All Facilities,Shunt Insertion/Removal,10,69,1.0,5.3,7.0,37.1
+69,2009/10,All Health Authorities,All Facilities,Sinus Surgery,1304,1686,10.4,41.6,72.8,291.2
+70,2009/10,All Health Authorities,All Facilities,Skin Surgery,267,920,3.9,25.9,27.3,181.29999999999998
+71,2009/10,All Health Authorities,All Facilities,Skin Tumour Removal,691,2901,3.4,17.3,23.8,121.10000000000001
+72,2009/10,All Health Authorities,All Facilities,Sphincterotomy,75,190,4.0,21.6,28.0,151.20000000000002
+73,2009/10,All Health Authorities,All Facilities,Spinal/Back Surgery,1662,3135,5.9,30.0,41.300000000000004,210.0
+74,2009/10,All Health Authorities,All Facilities,Tendon Surgery,231,728,2.0,20.0,14.0,140.0
+75,2009/10,All Health Authorities,All Facilities,Thoracotomy,18,145,3.1,7.1,21.7,49.699999999999996
+76,2009/10,All Health Authorities,All Facilities,Thyroidectomy,309,1263,4.9,16.1,34.300000000000004,112.70000000000002
+77,2009/10,All Health Authorities,All Facilities,Tonsillectomy/Adenoidectomy,1676,3272,9.9,31.0,69.3,217.0
+78,2009/10,All Health Authorities,All Facilities,Tympanoplasty,512,720,12.0,50.0,84.0,350.0
+79,2009/10,All Health Authorities,All Facilities,Uterine Surgery,2773,11980,5.0,17.7,35.0,123.89999999999999
+80,2009/10,All Health Authorities,All Facilities,Vaginal Repair,649,1588,8.1,32.2,56.699999999999996,225.40000000000003
+81,2009/10,All Health Authorities,All Facilities,Varicose Veins Ligation/Stripping,1701,1169,10.0,58.9,70.0,412.3
+82,2009/10,All Health Authorities,All Facilities,Vascular Bypass Graft - Non Cardiac,204,677,4.0,17.5,28.0,122.5
+83,2009/10,All Health Authorities,All Facilities,Vascular Surgery - Other,302,1528,2.3,12.6,16.099999999999998,88.2
+84,2009/10,All Health Authorities,All Facilities,Wound/Laceration Care,318,1118,2.3,18.4,16.099999999999998,128.79999999999998
+3354,2010/11,All Health Authorities,All Facilities,Abdominoplasty,63,92,8.9,51.6,62.300000000000004,361.2
+3355,2010/11,All Health Authorities,All Facilities,All Other Procedures,1302,6189,3.7,17.4,25.900000000000002,121.79999999999998
+3357,2010/11,All Health Authorities,All Facilities,Aortic Aneurysm Repair,71,388,3.9,16.0,27.3,112.0
+3358,2010/11,All Health Authorities,All Facilities,Appendectomy,22,106,3.2,15.5,22.400000000000002,108.5
+3359,2010/11,All Health Authorities,All Facilities,Bariatric Surgery,488,142,9.9,143.9,69.3,1007.3000000000001
+3360,2010/11,All Health Authorities,All Facilities,Biopsy in OR,453,2888,2.9,11.9,20.3,83.3
+3361,2010/11,All Health Authorities,All Facilities,Bladder Surgery,1530,6179,4.3,25.9,30.099999999999998,181.29999999999998
+3362,2010/11,All Health Authorities,All Facilities,Bowel Resection,401,2638,2.7,10.0,18.900000000000002,70.0
+3363,2010/11,All Health Authorities,All Facilities,Breast Biopsy,200,2353,2.6,6.4,18.2,44.800000000000004
+3364,2010/11,All Health Authorities,All Facilities,Breast Reconstruction,591,1148,5.0,28.7,35.0,200.9
+3365,2010/11,All Health Authorities,All Facilities,Breast Reduction,1254,2031,13.7,53.7,95.89999999999999,375.90000000000003
+3366,2010/11,All Health Authorities,All Facilities,Cataract Surgery,14387,49420,7.7,23.7,53.9,165.9
+3367,2010/11,All Health Authorities,All Facilities,Cholecystectomy,1608,5911,5.0,21.1,35.0,147.70000000000002
+3368,2010/11,All Health Authorities,All Facilities,Colostomy/Ileostomy,194,579,6.1,26.1,42.699999999999996,182.70000000000002
+3369,2010/11,All Health Authorities,All Facilities,Cone Biopsy,60,589,3.6,10.3,25.2,72.10000000000001
+3370,2010/11,All Health Authorities,All Facilities,Cranial Surgery,108,953,1.1,7.7,7.700000000000001,53.9
+3371,2010/11,All Health Authorities,All Facilities,CSF Drainage,9,82,1.9,6.1,13.299999999999999,42.699999999999996
+3372,2010/11,All Health Authorities,All Facilities,Cyst/Ganglion Removal,440,1258,5.9,23.6,41.300000000000004,165.20000000000002
+3373,2010/11,All Health Authorities,All Facilities,D&C and Related Surgery,970,5843,4.0,14.9,28.0,104.3
+3374,2010/11,All Health Authorities,All Facilities,Dental Surgery,2365,5299,7.0,31.9,49.0,223.29999999999998
+3375,2010/11,All Health Authorities,All Facilities,Endarterectomy,156,698,2.7,10.5,18.900000000000002,73.5
+3376,2010/11,All Health Authorities,All Facilities,Esophagectomy,17,114,2.9,9.3,20.3,65.10000000000001
+3377,2010/11,All Health Authorities,All Facilities,Examination Under Anaesthetic,189,576,4.5,16.1,31.5,112.70000000000002
+3378,2010/11,All Health Authorities,All Facilities,Excision Gynecomastia,104,201,6.6,33.0,46.199999999999996,231.0
+3379,2010/11,All Health Authorities,All Facilities,Excision Lesion/Tumour,581,2340,3.4,14.0,23.8,98.0
+3380,2010/11,All Health Authorities,All Facilities,Facial Bone Reconstruction,431,781,4.6,40.3,32.199999999999996,282.09999999999997
+3381,2010/11,All Health Authorities,All Facilities,Fallopian Tube/Ovarian Surgery,1223,4060,5.7,22.3,39.9,156.1
+3382,2010/11,All Health Authorities,All Facilities,Fistula Repair - Non Vascular,45,144,4.1,18.6,28.699999999999996,130.20000000000002
+3383,2010/11,All Health Authorities,All Facilities,Foot/Ankle Surgery,482,862,9.7,34.6,67.89999999999999,242.20000000000002
+3384,2010/11,All Health Authorities,All Facilities,Foreign Body Removal Surgery,38,216,3.0,13.1,21.0,91.7
+3385,2010/11,All Health Authorities,All Facilities,Fracture Repair,222,1459,0.6,10.2,4.2,71.39999999999999
+3386,2010/11,All Health Authorities,All Facilities,Free Flap Graft,22,108,2.4,13.5,16.8,94.5
+3387,2010/11,All Health Authorities,All Facilities,Gastrostomy/Jejunostomy,14,44,1.1,5.4,7.700000000000001,37.800000000000004
+3388,2010/11,All Health Authorities,All Facilities,Hand/Wrist Surgery,884,2150,6.9,27.1,48.300000000000004,189.70000000000002
+3389,2010/11,All Health Authorities,All Facilities,Hernia Repair - Abdominal,4089,11340,8.0,32.7,56.0,228.90000000000003
+3391,2010/11,All Health Authorities,All Facilities,Hernia Repair - Hiatal,243,305,10.0,49.1,70.0,343.7
+3392,2010/11,All Health Authorities,All Facilities,Hip Replacement,1948,4419,12.9,29.0,90.3,203.0
+3393,2010/11,All Health Authorities,All Facilities,Kidney/Bladder Stone Removal,224,1285,3.1,10.6,21.7,74.2
+3394,2010/11,All Health Authorities,All Facilities,Knee - ACL Repair,824,1897,8.7,32.1,60.89999999999999,224.70000000000002
+3395,2010/11,All Health Authorities,All Facilities,Knee - Meniscectomy,639,2582,7.4,28.1,51.800000000000004,196.70000000000002
+3396,2010/11,All Health Authorities,All Facilities,Knee Arthroscopy,2659,6347,7.9,31.7,55.300000000000004,221.9
+3397,2010/11,All Health Authorities,All Facilities,Knee Replacement,3943,6867,14.7,34.1,102.89999999999999,238.70000000000002
+3398,2010/11,All Health Authorities,All Facilities,Laparoscopy,439,1805,5.1,19.9,35.699999999999996,139.29999999999998
+3399,2010/11,All Health Authorities,All Facilities,Laparotomy,62,493,2.7,10.3,18.900000000000002,72.10000000000001
+3400,2010/11,All Health Authorities,All Facilities,Lens & Vitreous (non-cataract) Surgery,483,2814,2.0,14.2,14.0,99.39999999999999
+3401,2010/11,All Health Authorities,All Facilities,Ligament Surgery,79,126,3.1,22.6,21.7,158.20000000000002
+3402,2010/11,All Health Authorities,All Facilities,Lipectomy,35,133,6.7,24.0,46.9,168.0
+3403,2010/11,All Health Authorities,All Facilities,Lung Surgery,62,590,2.4,5.9,16.8,41.300000000000004
+3404,2010/11,All Health Authorities,All Facilities,Male Reproductive Surgery,835,2266,5.6,27.8,39.199999999999996,194.6
+3405,2010/11,All Health Authorities,All Facilities,Mastectomy,356,3882,2.0,5.7,14.0,39.9
+3406,2010/11,All Health Authorities,All Facilities,Mastoidectomy,159,250,10.9,42.1,76.3,294.7
+3407,2010/11,All Health Authorities,All Facilities,Myringotomy,534,1478,5.4,16.1,37.800000000000004,112.70000000000002
+3408,2010/11,All Health Authorities,All Facilities,Nasal Surgery,2345,3098,12.7,47.0,88.89999999999999,329.0
+3409,2010/11,All Health Authorities,All Facilities,Nerve Surgery,341,1199,6.1,36.9,42.699999999999996,258.3
+3410,2010/11,All Health Authorities,All Facilities,Oral Cavity & Pharynx Surgery,79,243,6.9,23.9,48.300000000000004,167.29999999999998
+3411,2010/11,All Health Authorities,All Facilities,Other Ear Surgery,136,168,10.9,31.6,76.3,221.20000000000002
+3412,2010/11,All Health Authorities,All Facilities,Other Eye Surgery,1407,3974,4.1,28.1,28.699999999999996,196.70000000000002
+3413,2010/11,All Health Authorities,All Facilities,Other Joint Reconstruction,948,1914,7.6,37.0,53.199999999999996,259.0
+3414,2010/11,All Health Authorities,All Facilities,Other Orthopaedic Surgery,2656,6424,6.1,31.4,42.699999999999996,219.79999999999998
+3415,2010/11,All Health Authorities,All Facilities,Other Urology Surgery,1411,7201,3.9,15.7,27.3,109.89999999999999
+3416,2010/11,All Health Authorities,All Facilities,Parotidectomy,121,362,6.6,28.4,46.199999999999996,198.79999999999998
+3417,2010/11,All Health Authorities,All Facilities,Prostate Surgery,1180,5462,4.4,17.4,30.800000000000004,121.79999999999998
+3418,2010/11,All Health Authorities,All Facilities,Rectal Surgery,901,1695,7.9,35.3,55.300000000000004,247.09999999999997
+3419,2010/11,All Health Authorities,All Facilities,Rib Resection,33,80,15.6,44.6,109.2,312.2
+3420,2010/11,All Health Authorities,All Facilities,Scope of Chest,54,657,1.9,4.6,13.299999999999999,32.199999999999996
+3421,2010/11,All Health Authorities,All Facilities,Shoulder Surgery,2151,3083,11.7,46.7,81.89999999999999,326.90000000000003
+3422,2010/11,All Health Authorities,All Facilities,Shunt Insertion/Removal,7,34,1.9,9.4,13.299999999999999,65.8
+3423,2010/11,All Health Authorities,All Facilities,Sinus Surgery,1763,1748,11.7,49.4,81.89999999999999,345.8
+3424,2010/11,All Health Authorities,All Facilities,Skin Surgery,257,869,3.6,21.0,25.2,147.0
+3425,2010/11,All Health Authorities,All Facilities,Skin Tumour Removal,730,2698,3.4,16.9,23.8,118.29999999999998
+3426,2010/11,All Health Authorities,All Facilities,Sphincterotomy,92,194,5.6,20.7,39.199999999999996,144.9
+3427,2010/11,All Health Authorities,All Facilities,Spinal/Back Surgery,1730,3141,5.9,36.0,41.300000000000004,252.0
+3428,2010/11,All Health Authorities,All Facilities,Tendon Surgery,244,755,2.7,21.6,18.900000000000002,151.20000000000002
+3429,2010/11,All Health Authorities,All Facilities,Thoracotomy,5,103,2.3,7.3,16.099999999999998,51.1
+3430,2010/11,All Health Authorities,All Facilities,Thyroidectomy,330,1238,5.3,22.0,37.1,154.0
+3431,2010/11,All Health Authorities,All Facilities,Tonsillectomy/Adenoidectomy,1778,3646,11.0,34.4,77.0,240.79999999999998
+3432,2010/11,All Health Authorities,All Facilities,Tympanoplasty,584,713,16.1,50.0,112.70000000000002,350.0
+3433,2010/11,All Health Authorities,All Facilities,Uterine Surgery,2623,12031,4.9,19.1,34.300000000000004,133.70000000000002
+3434,2010/11,All Health Authorities,All Facilities,Vaginal Repair,591,1617,8.6,32.4,60.199999999999996,226.79999999999998
+3435,2010/11,All Health Authorities,All Facilities,Varicose Veins Ligation/Stripping,1858,1243,13.1,62.3,91.7,436.09999999999997
+3436,2010/11,All Health Authorities,All Facilities,Vascular Bypass Graft - Non Cardiac,176,764,3.0,15.4,21.0,107.8
+3437,2010/11,All Health Authorities,All Facilities,Vascular Surgery - Other,338,1614,2.3,11.4,16.099999999999998,79.8
+3438,2010/11,All Health Authorities,All Facilities,Wound/Laceration Care,310,985,2.9,22.8,20.3,159.6
+6791,2011/12,All Health Authorities,All Facilities,Abdominoplasty,78,110,7.8,58.2,54.6,407.40000000000003
+6792,2011/12,All Health Authorities,All Facilities,All Other Procedures,1462,6810,4.0,15.0,28.0,105.0
+6794,2011/12,All Health Authorities,All Facilities,Aortic Aneurysm Repair,55,391,3.6,14.6,25.2,102.2
+6795,2011/12,All Health Authorities,All Facilities,Appendectomy,24,91,4.0,18.6,28.0,130.20000000000002
+6796,2011/12,All Health Authorities,All Facilities,Bariatric Surgery,389,167,20.0,202.4,140.0,1416.8
+6797,2011/12,All Health Authorities,All Facilities,Biopsy in OR,414,2667,2.6,11.3,18.2,79.10000000000001
+6798,2011/12,All Health Authorities,All Facilities,Bladder Surgery,1591,5905,4.3,21.7,30.099999999999998,151.9
+6799,2011/12,All Health Authorities,All Facilities,Bowel Resection,445,2843,2.9,10.7,20.3,74.89999999999999
+6800,2011/12,All Health Authorities,All Facilities,Breast Biopsy,255,2188,2.4,6.0,16.8,42.0
+6801,2011/12,All Health Authorities,All Facilities,Breast Reconstruction,741,1207,4.7,28.1,32.9,196.70000000000002
+6802,2011/12,All Health Authorities,All Facilities,Breast Reduction,1340,2030,11.0,42.6,77.0,298.2
+6803,2011/12,All Health Authorities,All Facilities,Cataract Surgery,11407,50967,7.0,25.0,49.0,175.0
+6804,2011/12,All Health Authorities,All Facilities,Cholecystectomy,1707,5874,5.1,21.6,35.699999999999996,151.20000000000002
+6805,2011/12,All Health Authorities,All Facilities,Colostomy/Ileostomy,212,589,6.4,26.2,44.800000000000004,183.4
+6806,2011/12,All Health Authorities,All Facilities,Cone Biopsy,67,559,3.6,10.6,25.2,74.2
+6807,2011/12,All Health Authorities,All Facilities,Cranial Surgery,112,963,1.4,9.1,9.799999999999999,63.699999999999996
+6808,2011/12,All Health Authorities,All Facilities,CSF Drainage,9,185,1.0,2.9,7.0,20.3
+6809,2011/12,All Health Authorities,All Facilities,Cyst/Ganglion Removal,508,1281,5.3,23.9,37.1,167.29999999999998
+6810,2011/12,All Health Authorities,All Facilities,D&C and Related Surgery,1142,5612,3.6,13.3,25.2,93.10000000000001
+6811,2011/12,All Health Authorities,All Facilities,Dental Surgery,2300,6389,7.0,28.0,49.0,196.0
+6812,2011/12,All Health Authorities,All Facilities,Endarterectomy,133,674,3.0,12.9,21.0,90.3
+6813,2011/12,All Health Authorities,All Facilities,Esophagectomy,21,118,2.4,9.1,16.8,63.699999999999996
+6814,2011/12,All Health Authorities,All Facilities,Examination Under Anaesthetic,211,854,4.3,19.4,30.099999999999998,135.79999999999998
+6815,2011/12,All Health Authorities,All Facilities,Excision Gynecomastia,101,201,7.0,37.3,49.0,261.09999999999997
+6816,2011/12,All Health Authorities,All Facilities,Excision Lesion/Tumour,585,2588,4.0,16.0,28.0,112.0
+6817,2011/12,All Health Authorities,All Facilities,Facial Bone Reconstruction,286,778,5.0,41.1,35.0,287.7
+6818,2011/12,All Health Authorities,All Facilities,Fallopian Tube/Ovarian Surgery,1264,3774,6.1,22.1,42.699999999999996,154.70000000000002
+6819,2011/12,All Health Authorities,All Facilities,Fistula Repair - Non Vascular,53,142,4.9,19.9,34.300000000000004,139.29999999999998
+6820,2011/12,All Health Authorities,All Facilities,Foot/Ankle Surgery,566,855,11.9,35.8,83.3,250.59999999999997
+6821,2011/12,All Health Authorities,All Facilities,Foreign Body Removal Surgery,49,220,2.7,13.5,18.900000000000002,94.5
+6822,2011/12,All Health Authorities,All Facilities,Fracture Repair,249,1073,1.0,15.3,7.0,107.10000000000001
+6823,2011/12,All Health Authorities,All Facilities,Free Flap Graft,27,110,3.9,20.6,27.3,144.20000000000002
+6824,2011/12,All Health Authorities,All Facilities,Gastrostomy/Jejunostomy,14,113,2.3,10.9,16.099999999999998,76.3
+6825,2011/12,All Health Authorities,All Facilities,Hand/Wrist Surgery,836,2151,6.6,28.0,46.199999999999996,196.0
+6826,2011/12,All Health Authorities,All Facilities,Hernia Repair - Abdominal,4087,11598,7.1,30.0,49.699999999999996,210.0
+6827,2011/12,All Health Authorities,All Facilities,Hernia Repair - Hiatal,276,256,12.9,46.7,90.3,326.90000000000003
+6828,2011/12,All Health Authorities,All Facilities,Hip Replacement,2220,4768,14.9,31.6,104.3,221.20000000000002
+6829,2011/12,All Health Authorities,All Facilities,Kidney/Bladder Stone Removal,245,1448,3.3,11.0,23.099999999999998,77.0
+6830,2011/12,All Health Authorities,All Facilities,Knee - ACL Repair,944,1991,8.9,30.9,62.300000000000004,216.29999999999998
+6831,2011/12,All Health Authorities,All Facilities,Knee - Meniscectomy,737,2794,7.4,27.0,51.800000000000004,189.0
+6832,2011/12,All Health Authorities,All Facilities,Knee Arthroscopy,2871,5903,7.7,30.5,53.9,213.5
+6833,2011/12,All Health Authorities,All Facilities,Knee Replacement,4163,7018,17.6,36.9,123.20000000000002,258.3
+6834,2011/12,All Health Authorities,All Facilities,Laparoscopy,404,1669,4.9,18.7,34.300000000000004,130.9
+6835,2011/12,All Health Authorities,All Facilities,Laparotomy,75,406,3.1,12.1,21.7,84.7
+6836,2011/12,All Health Authorities,All Facilities,Lens & Vitreous (non-cataract) Surgery,574,2999,3.0,17.0,21.0,119.0
+6837,2011/12,All Health Authorities,All Facilities,Ligament Surgery,91,179,9.7,34.1,67.89999999999999,238.70000000000002
+6838,2011/12,All Health Authorities,All Facilities,Lipectomy,42,107,6.0,21.6,42.0,151.20000000000002
+6839,2011/12,All Health Authorities,All Facilities,Lung Surgery,78,583,2.3,5.3,16.099999999999998,37.1
+6840,2011/12,All Health Authorities,All Facilities,Male Reproductive Surgery,896,2190,6.4,27.1,44.800000000000004,189.70000000000002
+6841,2011/12,All Health Authorities,All Facilities,Mastectomy,360,4089,2.0,5.6,14.0,39.199999999999996
+6842,2011/12,All Health Authorities,All Facilities,Mastoidectomy,150,294,11.6,41.0,81.2,287.0
+6843,2011/12,All Health Authorities,All Facilities,Myringotomy,619,1767,6.0,16.7,42.0,116.89999999999999
+6844,2011/12,All Health Authorities,All Facilities,Nasal Surgery,2456,3238,12.9,43.8,90.3,306.59999999999997
+6845,2011/12,All Health Authorities,All Facilities,Nerve Surgery,392,1025,5.3,24.8,37.1,173.6
+6846,2011/12,All Health Authorities,All Facilities,Oral Cavity & Pharynx Surgery,91,307,6.4,27.2,44.800000000000004,190.4
+6847,2011/12,All Health Authorities,All Facilities,Other Ear Surgery,101,302,11.7,38.1,81.89999999999999,266.7
+6848,2011/12,All Health Authorities,All Facilities,Other Eye Surgery,1231,4651,4.7,26.9,32.9,188.29999999999998
+6849,2011/12,All Health Authorities,All Facilities,Other Joint Reconstruction,1083,2059,7.1,33.9,49.699999999999996,237.29999999999998
+6850,2011/12,All Health Authorities,All Facilities,Other Orthopaedic Surgery,2845,6879,6.0,29.6,42.0,207.20000000000002
+6851,2011/12,All Health Authorities,All Facilities,Other Urology Surgery,1625,7391,4.0,14.6,28.0,102.2
+6852,2011/12,All Health Authorities,All Facilities,Parotidectomy,133,353,8.0,31.2,56.0,218.4
+6853,2011/12,All Health Authorities,All Facilities,Prostate Surgery,1264,5356,5.0,17.7,35.0,123.89999999999999
+6854,2011/12,All Health Authorities,All Facilities,Rectal Surgery,901,1699,7.3,34.5,51.1,241.5
+6855,2011/12,All Health Authorities,All Facilities,Rib Resection,33,74,18.1,39.3,126.70000000000002,275.09999999999997
+6856,2011/12,All Health Authorities,All Facilities,Scope of Chest,57,637,2.0,4.9,14.0,34.300000000000004
+6857,2011/12,All Health Authorities,All Facilities,Shoulder Surgery,2377,3391,11.1,42.1,77.7,294.7
+6858,2011/12,All Health Authorities,All Facilities,Shunt Insertion/Removal,7,28,2.9,20.1,20.3,140.70000000000002
+6859,2011/12,All Health Authorities,All Facilities,Sinus Surgery,1722,2068,16.5,65.8,115.5,460.59999999999997
+6860,2011/12,All Health Authorities,All Facilities,Skin Surgery,316,992,3.6,22.6,25.2,158.20000000000002
+6861,2011/12,All Health Authorities,All Facilities,Skin Tumour Removal,806,2937,3.6,18.0,25.2,126.0
+6862,2011/12,All Health Authorities,All Facilities,Sphincterotomy,131,194,5.6,22.0,39.199999999999996,154.0
+6863,2011/12,All Health Authorities,All Facilities,Spinal/Back Surgery,1697,3806,5.1,34.1,35.699999999999996,238.70000000000002
+6864,2011/12,All Health Authorities,All Facilities,Tendon Surgery,255,750,3.9,24.6,27.3,172.20000000000002
+6865,2011/12,All Health Authorities,All Facilities,Thoracotomy,17,111,2.7,6.1,18.900000000000002,42.699999999999996
+6866,2011/12,All Health Authorities,All Facilities,Thyroidectomy,331,1340,5.6,24.0,39.199999999999996,168.0
+6867,2011/12,All Health Authorities,All Facilities,Tonsillectomy/Adenoidectomy,1676,3890,10.1,28.6,70.7,200.20000000000002
+6868,2011/12,All Health Authorities,All Facilities,Tympanoplasty,587,774,15.4,48.3,107.8,338.09999999999997
+6869,2011/12,All Health Authorities,All Facilities,Uterine Surgery,2658,12004,4.9,18.9,34.300000000000004,132.29999999999998
+6870,2011/12,All Health Authorities,All Facilities,Vaginal Repair,752,1557,7.7,30.5,53.9,213.5
+6871,2011/12,All Health Authorities,All Facilities,Varicose Veins Ligation/Stripping,1827,1231,10.9,75.0,76.3,525.0
+6872,2011/12,All Health Authorities,All Facilities,Vascular Bypass Graft - Non Cardiac,198,643,3.1,16.0,21.7,112.0
+6873,2011/12,All Health Authorities,All Facilities,Vascular Surgery - Other,314,1720,2.3,13.1,16.099999999999998,91.7
+6874,2011/12,All Health Authorities,All Facilities,Wound/Laceration Care,330,977,3.1,21.1,21.7,147.70000000000002
+10260,2012/13,All Health Authorities,All Facilities,Abdominoplasty,92,146,8.9,48.2,62.300000000000004,337.40000000000003
+10261,2012/13,All Health Authorities,All Facilities,All Other Procedures,1395,7087,3.7,15.0,25.900000000000002,105.0
+10263,2012/13,All Health Authorities,All Facilities,Aortic Aneurysm Repair,64,392,4.2,12.0,29.400000000000002,84.0
+10264,2012/13,All Health Authorities,All Facilities,Appendectomy,25,113,3.9,11.3,27.3,79.10000000000001
+10265,2012/13,All Health Authorities,All Facilities,Bariatric Surgery,247,211,9.9,229.0,69.3,1603.0
+10266,2012/13,All Health Authorities,All Facilities,Biopsy in OR,354,2484,2.7,11.6,18.900000000000002,81.2
+10267,2012/13,All Health Authorities,All Facilities,Bladder Surgery,1278,5421,4.0,20.9,28.0,146.29999999999998
+10268,2012/13,All Health Authorities,All Facilities,Bowel Resection,430,2806,2.9,12.6,20.3,88.2
+10269,2012/13,All Health Authorities,All Facilities,Breast Biopsy,183,1836,2.3,6.4,16.099999999999998,44.800000000000004
+10270,2012/13,All Health Authorities,All Facilities,Breast Reconstruction,738,1240,6.3,35.5,44.1,248.5
+10271,2012/13,All Health Authorities,All Facilities,Breast Reduction,1394,1808,10.6,41.4,74.2,289.8
+10272,2012/13,All Health Authorities,All Facilities,Cataract Surgery,12464,48570,5.6,21.1,39.199999999999996,147.70000000000002
+10273,2012/13,All Health Authorities,All Facilities,Cholecystectomy,1548,5761,5.3,22.1,37.1,154.70000000000002
+10274,2012/13,All Health Authorities,All Facilities,Colostomy/Ileostomy,207,691,5.3,23.7,37.1,165.9
+10275,2012/13,All Health Authorities,All Facilities,Cone Biopsy,66,525,3.4,8.7,23.8,60.89999999999999
+10276,2012/13,All Health Authorities,All Facilities,Cranial Surgery,136,912,1.7,10.3,11.9,72.10000000000001
+10277,2012/13,All Health Authorities,All Facilities,CSF Drainage,12,366,0.4,1.8,2.8000000000000003,12.6
+10278,2012/13,All Health Authorities,All Facilities,Cyst/Ganglion Removal,446,1227,6.3,25.0,44.1,175.0
+10279,2012/13,All Health Authorities,All Facilities,D&C and Related Surgery,947,5449,3.6,13.4,25.2,93.8
+10280,2012/13,All Health Authorities,All Facilities,Dental Surgery,2202,6169,6.3,28.0,44.1,196.0
+10281,2012/13,All Health Authorities,All Facilities,Endarterectomy,147,614,3.0,12.0,21.0,84.0
+10282,2012/13,All Health Authorities,All Facilities,Esophagectomy,18,119,3.0,13.3,21.0,93.10000000000001
+10283,2012/13,All Health Authorities,All Facilities,Examination Under Anaesthetic,240,930,4.0,16.9,28.0,118.29999999999998
+10284,2012/13,All Health Authorities,All Facilities,Excision Gynecomastia,85,219,6.0,30.3,42.0,212.1
+10285,2012/13,All Health Authorities,All Facilities,Excision Lesion/Tumour,485,2408,3.3,16.3,23.099999999999998,114.10000000000001
+10286,2012/13,All Health Authorities,All Facilities,Facial Bone Reconstruction,205,777,5.0,24.5,35.0,171.5
+10287,2012/13,All Health Authorities,All Facilities,Fallopian Tube/Ovarian Surgery,1040,3776,5.4,22.0,37.800000000000004,154.0
+10288,2012/13,All Health Authorities,All Facilities,Fistula Repair - Non Vascular,64,189,6.1,22.5,42.699999999999996,157.5
+10289,2012/13,All Health Authorities,All Facilities,Foot/Ankle Surgery,512,762,12.6,38.1,88.2,266.7
+10290,2012/13,All Health Authorities,All Facilities,Foreign Body Removal Surgery,52,211,3.1,19.7,21.7,137.9
+10291,2012/13,All Health Authorities,All Facilities,Fracture Repair,210,1168,1.0,13.9,7.0,97.3
+10292,2012/13,All Health Authorities,All Facilities,Free Flap Graft,23,117,2.9,14.7,20.3,102.89999999999999
+10293,2012/13,All Health Authorities,All Facilities,Gastrostomy/Jejunostomy,10,87,1.4,6.3,9.799999999999999,44.1
+10294,2012/13,All Health Authorities,All Facilities,Hand/Wrist Surgery,909,2003,6.6,29.0,46.199999999999996,203.0
+10295,2012/13,All Health Authorities,All Facilities,Hernia Repair - Abdominal,4097,11287,7.7,32.0,53.9,224.0
+10297,2012/13,All Health Authorities,All Facilities,Hernia Repair - Hiatal,215,279,13.9,54.3,97.3,380.09999999999997
+10298,2012/13,All Health Authorities,All Facilities,Hip Replacement,2194,4997,13.4,31.4,93.8,219.79999999999998
+10299,2012/13,All Health Authorities,All Facilities,Kidney/Bladder Stone Removal,221,1479,3.7,11.1,25.900000000000002,77.7
+10300,2012/13,All Health Authorities,All Facilities,Knee - ACL Repair,909,1916,9.0,34.1,63.0,238.70000000000002
+10301,2012/13,All Health Authorities,All Facilities,Knee - Meniscectomy,716,2700,7.7,31.1,53.9,217.70000000000002
+10302,2012/13,All Health Authorities,All Facilities,Knee Arthroscopy,2761,5627,8.0,30.7,56.0,214.9
+10303,2012/13,All Health Authorities,All Facilities,Knee Replacement,4210,7205,17.6,36.7,123.20000000000002,256.90000000000003
+10304,2012/13,All Health Authorities,All Facilities,Laparoscopy,339,1531,4.3,17.9,30.099999999999998,125.29999999999998
+10305,2012/13,All Health Authorities,All Facilities,Laparotomy,63,362,3.0,12.6,21.0,88.2
+10306,2012/13,All Health Authorities,All Facilities,Lens & Vitreous (non-cataract) Surgery,511,2982,2.9,16.0,20.3,112.0
+10307,2012/13,All Health Authorities,All Facilities,Ligament Surgery,65,167,6.1,25.6,42.699999999999996,179.20000000000002
+10308,2012/13,All Health Authorities,All Facilities,Lipectomy,42,125,5.0,18.3,35.0,128.1
+10309,2012/13,All Health Authorities,All Facilities,Lung Surgery,69,686,2.1,5.3,14.700000000000001,37.1
+10310,2012/13,All Health Authorities,All Facilities,Male Reproductive Surgery,826,2256,6.0,27.4,42.0,191.79999999999998
+10311,2012/13,All Health Authorities,All Facilities,Mastectomy,352,3839,2.1,6.0,14.700000000000001,42.0
+10312,2012/13,All Health Authorities,All Facilities,Mastoidectomy,148,298,9.9,37.2,69.3,260.40000000000003
+10313,2012/13,All Health Authorities,All Facilities,Myringotomy,572,1637,5.0,18.1,35.0,126.70000000000002
+10314,2012/13,All Health Authorities,All Facilities,Nasal Surgery,2071,3433,12.6,44.6,88.2,312.2
+10315,2012/13,All Health Authorities,All Facilities,Nerve Surgery,391,944,6.0,30.6,42.0,214.20000000000002
+10316,2012/13,All Health Authorities,All Facilities,Oral Cavity & Pharynx Surgery,91,352,5.1,24.0,35.699999999999996,168.0
+10317,2012/13,All Health Authorities,All Facilities,Other Ear Surgery,90,264,8.5,34.5,59.5,241.5
+10318,2012/13,All Health Authorities,All Facilities,Other Eye Surgery,1313,4527,4.1,24.6,28.699999999999996,172.20000000000002
+10319,2012/13,All Health Authorities,All Facilities,Other Joint Reconstruction,1241,2007,8.0,38.3,56.0,268.09999999999997
+10320,2012/13,All Health Authorities,All Facilities,Other Orthopaedic Surgery,2546,6735,6.3,32.4,44.1,226.79999999999998
+10321,2012/13,All Health Authorities,All Facilities,Other Urology Surgery,1488,8032,4.0,15.1,28.0,105.7
+10322,2012/13,All Health Authorities,All Facilities,Parotidectomy,118,365,8.7,29.2,60.89999999999999,204.4
+10323,2012/13,All Health Authorities,All Facilities,Prostate Surgery,1308,5199,4.9,19.0,34.300000000000004,133.0
+10324,2012/13,All Health Authorities,All Facilities,Rectal Surgery,818,1605,8.3,37.1,58.10000000000001,259.7
+10325,2012/13,All Health Authorities,All Facilities,Rib Resection,17,82,18.1,55.7,126.70000000000002,389.90000000000003
+10326,2012/13,All Health Authorities,All Facilities,Scope of Chest,43,570,2.1,5.7,14.700000000000001,39.9
+10327,2012/13,All Health Authorities,All Facilities,Shoulder Surgery,2325,3406,11.0,39.6,77.0,277.2
+10328,2012/13,All Health Authorities,All Facilities,Shunt Insertion/Removal,3,28,2.4,12.5,16.8,87.5
+10329,2012/13,All Health Authorities,All Facilities,Sinus Surgery,1707,2036,15.4,62.3,107.8,436.09999999999997
+10330,2012/13,All Health Authorities,All Facilities,Skin Surgery,316,901,4.0,22.6,28.0,158.20000000000002
+10331,2012/13,All Health Authorities,All Facilities,Skin Tumour Removal,703,2970,3.4,17.9,23.8,125.29999999999998
+10332,2012/13,All Health Authorities,All Facilities,Sphincterotomy,117,216,7.9,35.2,55.300000000000004,246.40000000000003
+10333,2012/13,All Health Authorities,All Facilities,Spinal/Back Surgery,1607,3652,5.7,32.0,39.9,224.0
+10334,2012/13,All Health Authorities,All Facilities,Tendon Surgery,281,717,4.0,25.6,28.0,179.20000000000002
+10335,2012/13,All Health Authorities,All Facilities,Thoracotomy,9,122,2.6,5.4,18.2,37.800000000000004
+10336,2012/13,All Health Authorities,All Facilities,Thyroidectomy,374,1249,5.4,24.0,37.800000000000004,168.0
+10337,2012/13,All Health Authorities,All Facilities,Tonsillectomy/Adenoidectomy,1572,3722,8.7,32.0,60.89999999999999,224.0
+10338,2012/13,All Health Authorities,All Facilities,Tympanoplasty,504,863,12.1,41.4,84.7,289.8
+10339,2012/13,All Health Authorities,All Facilities,Uterine Surgery,2646,11820,4.6,18.0,32.199999999999996,126.0
+10340,2012/13,All Health Authorities,All Facilities,Vaginal Repair,669,1686,8.6,36.8,60.199999999999996,257.59999999999997
+10341,2012/13,All Health Authorities,All Facilities,Varicose Veins Ligation/Stripping,1658,1197,13.4,112.4,93.8,786.8000000000001
+10342,2012/13,All Health Authorities,All Facilities,Vascular Bypass Graft - Non Cardiac,159,665,3.3,16.1,23.099999999999998,112.70000000000002
+10343,2012/13,All Health Authorities,All Facilities,Vascular Surgery - Other,303,1711,2.6,12.1,18.2,84.7
+10344,2012/13,All Health Authorities,All Facilities,Wound/Laceration Care,342,1009,3.4,20.9,23.8,146.29999999999998
+13725,2013/14,All Health Authorities,All Facilities,Abdominoplasty,92,155,9.1,46.9,63.699999999999996,328.3
+13726,2013/14,All Health Authorities,All Facilities,All Other Procedures,1142,6433,4.1,15.3,28.699999999999996,107.10000000000001
+13728,2013/14,All Health Authorities,All Facilities,Aortic Aneurysm Repair,54,419,3.3,13.9,23.099999999999998,97.3
+13729,2013/14,All Health Authorities,All Facilities,Appendectomy,19,115,4.6,15.1,32.199999999999996,105.7
+13730,2013/14,All Health Authorities,All Facilities,Bariatric Surgery,173,246,10.5,176.8,73.5,1237.6000000000001
+13731,2013/14,All Health Authorities,All Facilities,Biopsy in OR,384,2512,2.6,11.9,18.2,83.3
+13732,2013/14,All Health Authorities,All Facilities,Bladder Surgery,1216,5529,4.0,19.7,28.0,137.9
+13733,2013/14,All Health Authorities,All Facilities,Bowel Resection,510,3073,2.9,10.1,20.3,70.7
+13734,2013/14,All Health Authorities,All Facilities,Breast Biopsy,153,1729,2.3,6.3,16.099999999999998,44.1
+13735,2013/14,All Health Authorities,All Facilities,Breast Reconstruction,585,1298,9.0,45.3,63.0,317.09999999999997
+13736,2013/14,All Health Authorities,All Facilities,Breast Reduction,1121,1785,14.1,52.3,98.7,366.09999999999997
+13737,2013/14,All Health Authorities,All Facilities,Cataract Surgery,16580,48965,6.1,24.7,42.699999999999996,172.9
+13738,2013/14,All Health Authorities,All Facilities,Cholecystectomy,1621,5666,5.0,20.4,35.0,142.79999999999998
+13739,2013/14,All Health Authorities,All Facilities,Colostomy/Ileostomy,213,745,4.9,24.2,34.300000000000004,169.4
+13740,2013/14,All Health Authorities,All Facilities,Cone Biopsy,53,429,3.6,8.9,25.2,62.300000000000004
+13741,2013/14,All Health Authorities,All Facilities,Cranial Surgery,154,933,2.0,14.0,14.0,98.0
+13742,2013/14,All Health Authorities,All Facilities,CSF Drainage,25,515,0.3,1.1,2.1,7.700000000000001
+13743,2013/14,All Health Authorities,All Facilities,Cyst/Ganglion Removal,438,1272,5.9,25.0,41.300000000000004,175.0
+13744,2013/14,All Health Authorities,All Facilities,D&C and Related Surgery,907,5086,3.4,12.9,23.8,90.3
+13745,2013/14,All Health Authorities,All Facilities,Dental Surgery,2188,6126,6.9,28.9,48.300000000000004,202.29999999999998
+13746,2013/14,All Health Authorities,All Facilities,Endarterectomy,145,630,2.9,13.4,20.3,93.8
+13747,2013/14,All Health Authorities,All Facilities,Esophagectomy,12,119,2.3,8.8,16.099999999999998,61.60000000000001
+13748,2013/14,All Health Authorities,All Facilities,Examination Under Anaesthetic,220,925,4.3,18.6,30.099999999999998,130.20000000000002
+13749,2013/14,All Health Authorities,All Facilities,Excision Gynecomastia,105,219,8.1,31.1,56.699999999999996,217.70000000000002
+13750,2013/14,All Health Authorities,All Facilities,Excision Lesion/Tumour,520,2398,3.4,15.5,23.8,108.5
+13751,2013/14,All Health Authorities,All Facilities,Facial Bone Reconstruction,180,762,5.4,22.1,37.800000000000004,154.70000000000002
+13752,2013/14,All Health Authorities,All Facilities,Fallopian Tube/Ovarian Surgery,1067,3751,5.1,20.0,35.699999999999996,140.0
+13753,2013/14,All Health Authorities,All Facilities,Fistula Repair - Non Vascular,56,195,6.7,25.0,46.9,175.0
+13754,2013/14,All Health Authorities,All Facilities,Foot/Ankle Surgery,506,828,12.9,38.5,90.3,269.5
+13755,2013/14,All Health Authorities,All Facilities,Foreign Body Removal Surgery,43,254,2.9,15.7,20.3,109.89999999999999
+13756,2013/14,All Health Authorities,All Facilities,Fracture Repair,176,1160,0.9,12.0,6.3,84.0
+13757,2013/14,All Health Authorities,All Facilities,Free Flap Graft,24,119,3.0,12.8,21.0,89.60000000000001
+13758,2013/14,All Health Authorities,All Facilities,Gastrostomy/Jejunostomy,9,90,1.3,7.4,9.1,51.800000000000004
+13759,2013/14,All Health Authorities,All Facilities,Hand/Wrist Surgery,674,2206,6.7,28.1,46.9,196.70000000000002
+13760,2013/14,All Health Authorities,All Facilities,Hernia Repair - Abdominal,4252,11549,7.6,30.3,53.199999999999996,212.1
+13762,2013/14,All Health Authorities,All Facilities,Hernia Repair - Hiatal,217,266,11.6,43.2,81.2,302.40000000000003
+13763,2013/14,All Health Authorities,All Facilities,Hip Replacement,2939,4993,14.7,37.0,102.89999999999999,259.0
+13764,2013/14,All Health Authorities,All Facilities,Kidney/Bladder Stone Removal,273,1577,3.6,10.9,25.2,76.3
+13765,2013/14,All Health Authorities,All Facilities,Knee - ACL Repair,800,1944,8.7,38.7,60.89999999999999,270.90000000000003
+13766,2013/14,All Health Authorities,All Facilities,Knee - Meniscectomy,705,2867,7.1,29.0,49.699999999999996,203.0
+13767,2013/14,All Health Authorities,All Facilities,Knee Arthroscopy,2679,5089,8.0,34.6,56.0,242.20000000000002
+13768,2013/14,All Health Authorities,All Facilities,Knee Replacement,5446,6863,18.4,41.1,128.79999999999998,287.7
+13769,2013/14,All Health Authorities,All Facilities,Laparoscopy,269,1337,4.6,17.3,32.199999999999996,121.10000000000001
+13770,2013/14,All Health Authorities,All Facilities,Laparotomy,65,342,3.3,15.7,23.099999999999998,109.89999999999999
+13771,2013/14,All Health Authorities,All Facilities,Lens & Vitreous (non-cataract) Surgery,757,2518,4.1,20.7,28.699999999999996,144.9
+13772,2013/14,All Health Authorities,All Facilities,Ligament Surgery,48,137,5.9,30.9,41.300000000000004,216.29999999999998
+13773,2013/14,All Health Authorities,All Facilities,Lipectomy,30,114,7.0,26.1,49.0,182.70000000000002
+13774,2013/14,All Health Authorities,All Facilities,Lung Surgery,67,628,2.1,5.9,14.700000000000001,41.300000000000004
+13775,2013/14,All Health Authorities,All Facilities,Male Reproductive Surgery,746,2123,6.0,30.4,42.0,212.79999999999998
+13776,2013/14,All Health Authorities,All Facilities,Mastectomy,437,4062,2.1,6.9,14.700000000000001,48.300000000000004
+13777,2013/14,All Health Authorities,All Facilities,Mastoidectomy,157,317,11.0,34.7,77.0,242.90000000000003
+13778,2013/14,All Health Authorities,All Facilities,Myringotomy,557,1659,5.1,22.2,35.699999999999996,155.4
+13779,2013/14,All Health Authorities,All Facilities,Nasal Surgery,1781,3427,10.0,40.3,70.0,282.09999999999997
+13780,2013/14,All Health Authorities,All Facilities,Nerve Surgery,352,907,6.3,34.9,44.1,244.29999999999998
+13781,2013/14,All Health Authorities,All Facilities,Oral Cavity & Pharynx Surgery,96,369,5.6,24.1,39.199999999999996,168.70000000000002
+13782,2013/14,All Health Authorities,All Facilities,Other Ear Surgery,90,258,7.9,30.3,55.300000000000004,212.1
+13783,2013/14,All Health Authorities,All Facilities,Other Eye Surgery,1312,4356,5.0,26.0,35.0,182.0
+13784,2013/14,All Health Authorities,All Facilities,Other Joint Reconstruction,1071,2117,10.9,47.2,76.3,330.40000000000003
+13785,2013/14,All Health Authorities,All Facilities,Other Orthopaedic Surgery,2312,6866,6.4,31.9,44.800000000000004,223.29999999999998
+13786,2013/14,All Health Authorities,All Facilities,Other Urology Surgery,1223,7199,3.4,13.1,23.8,91.7
+13787,2013/14,All Health Authorities,All Facilities,Parotidectomy,140,341,8.4,31.0,58.800000000000004,217.0
+13788,2013/14,All Health Authorities,All Facilities,Prostate Surgery,1161,5014,5.0,21.0,35.0,147.0
+13789,2013/14,All Health Authorities,All Facilities,Rectal Surgery,764,1742,7.7,33.1,53.9,231.70000000000002
+13790,2013/14,All Health Authorities,All Facilities,Rib Resection,9,34,5.8,26.5,40.6,185.5
+13791,2013/14,All Health Authorities,All Facilities,Scope of Chest,64,576,2.3,6.1,16.099999999999998,42.699999999999996
+13792,2013/14,All Health Authorities,All Facilities,Shoulder Surgery,2000,3430,9.7,46.0,67.89999999999999,322.0
+13793,2013/14,All Health Authorities,All Facilities,Shunt Insertion/Removal,3,27,2.1,9.5,14.700000000000001,66.5
+13794,2013/14,All Health Authorities,All Facilities,Sinus Surgery,1155,1951,14.0,61.7,98.0,431.90000000000003
+13795,2013/14,All Health Authorities,All Facilities,Skin Surgery,288,910,5.7,28.7,39.9,200.9
+13796,2013/14,All Health Authorities,All Facilities,Skin Tumour Removal,658,2915,3.7,17.9,25.900000000000002,125.29999999999998
+13797,2013/14,All Health Authorities,All Facilities,Sphincterotomy,74,181,6.0,39.4,42.0,275.8
+13798,2013/14,All Health Authorities,All Facilities,Spinal/Back Surgery,1424,3493,8.0,32.1,56.0,224.70000000000002
+13799,2013/14,All Health Authorities,All Facilities,Tendon Surgery,252,757,4.3,25.1,30.099999999999998,175.70000000000002
+13800,2013/14,All Health Authorities,All Facilities,Thoracotomy,9,131,2.0,5.3,14.0,37.1
+13801,2013/14,All Health Authorities,All Facilities,Thyroidectomy,378,1296,6.3,25.2,44.1,176.4
+13802,2013/14,All Health Authorities,All Facilities,Tonsillectomy/Adenoidectomy,1376,3641,9.0,30.6,63.0,214.20000000000002
+13803,2013/14,All Health Authorities,All Facilities,Tympanoplasty,387,815,10.0,60.9,70.0,426.3
+13804,2013/14,All Health Authorities,All Facilities,Uterine Surgery,2621,11710,4.7,17.1,32.9,119.70000000000002
+13805,2013/14,All Health Authorities,All Facilities,Vaginal Repair,601,1583,7.7,30.6,53.9,214.20000000000002
+13806,2013/14,All Health Authorities,All Facilities,Varicose Veins Ligation/Stripping,1429,1360,15.9,104.0,111.3,728.0
+13807,2013/14,All Health Authorities,All Facilities,Vascular Bypass Graft - Non Cardiac,165,616,2.9,17.8,20.3,124.60000000000001
+13808,2013/14,All Health Authorities,All Facilities,Vascular Surgery - Other,292,1731,2.3,11.0,16.099999999999998,77.0
+13809,2013/14,All Health Authorities,All Facilities,Wound/Laceration Care,263,972,3.3,20.0,23.099999999999998,140.0
+17174,2014/15,All Health Authorities,All Facilities,Abdominoplasty,58,162,15.4,39.0,107.8,273.0
+17175,2014/15,All Health Authorities,All Facilities,All Other Procedures,1026,4989,3.9,17.0,27.3,119.0
+17177,2014/15,All Health Authorities,All Facilities,Aortic Aneurysm Repair,54,446,3.6,12.1,25.2,84.7
+17178,2014/15,All Health Authorities,All Facilities,Appendectomy,44,163,3.3,11.9,23.099999999999998,83.3
+17179,2014/15,All Health Authorities,All Facilities,Bariatric Surgery,68,363,6.6,69.7,46.199999999999996,487.90000000000003
+17180,2014/15,All Health Authorities,All Facilities,Biopsy in OR,342,2424,2.7,11.7,18.900000000000002,81.89999999999999
+17181,2014/15,All Health Authorities,All Facilities,Bladder Surgery,1033,5373,4.0,20.8,28.0,145.6
+17182,2014/15,All Health Authorities,All Facilities,Bowel Resection,470,3218,3.1,11.4,21.7,79.8
+17183,2014/15,All Health Authorities,All Facilities,Breast Biopsy,124,1619,2.4,6.3,16.8,44.1
+17184,2014/15,All Health Authorities,All Facilities,Breast Reconstruction,565,1223,8.1,40.0,56.699999999999996,280.0
+17185,2014/15,All Health Authorities,All Facilities,Breast Reduction,1038,1794,13.6,44.0,95.2,308.0
+17186,2014/15,All Health Authorities,All Facilities,Cataract Surgery,19492,51219,9.1,32.6,63.699999999999996,228.20000000000002
+17187,2014/15,All Health Authorities,All Facilities,Cholecystectomy,1632,5582,5.6,23.6,39.199999999999996,165.20000000000002
+17188,2014/15,All Health Authorities,All Facilities,Colostomy/Ileostomy,211,686,6.0,26.9,42.0,188.29999999999998
+17189,2014/15,All Health Authorities,All Facilities,Cone Biopsy,40,414,3.4,9.5,23.8,66.5
+17190,2014/15,All Health Authorities,All Facilities,Cranial Surgery,148,926,2.1,16.4,14.700000000000001,114.79999999999998
+17191,2014/15,All Health Authorities,All Facilities,CSF Drainage,13,599,0.1,1.0,0.7000000000000001,7.0
+17192,2014/15,All Health Authorities,All Facilities,Cyst/Ganglion Removal,426,1231,6.3,25.6,44.1,179.20000000000002
+17193,2014/15,All Health Authorities,All Facilities,D&C and Related Surgery,989,5291,3.9,13.9,27.3,97.3
+17194,2014/15,All Health Authorities,All Facilities,Dental Surgery,2024,6297,7.1,29.4,49.699999999999996,205.79999999999998
+17195,2014/15,All Health Authorities,All Facilities,Endarterectomy,139,608,2.7,15.5,18.900000000000002,108.5
+17196,2014/15,All Health Authorities,All Facilities,Esophagectomy,26,110,2.7,20.4,18.900000000000002,142.79999999999998
+17197,2014/15,All Health Authorities,All Facilities,Examination Under Anaesthetic,227,977,4.1,21.9,28.699999999999996,153.29999999999998
+17198,2014/15,All Health Authorities,All Facilities,Excision Gynecomastia,76,200,9.9,33.6,69.3,235.20000000000002
+17199,2014/15,All Health Authorities,All Facilities,Excision Lesion/Tumour,506,2422,4.0,17.3,28.0,121.10000000000001
+17200,2014/15,All Health Authorities,All Facilities,Facial Bone Reconstruction,177,676,5.3,22.8,37.1,159.6
+17201,2014/15,All Health Authorities,All Facilities,Fallopian Tube/Ovarian Surgery,965,3727,5.6,20.7,39.199999999999996,144.9
+17202,2014/15,All Health Authorities,All Facilities,Fistula Repair - Non Vascular,53,157,8.6,30.9,60.199999999999996,216.29999999999998
+17203,2014/15,All Health Authorities,All Facilities,Foot/Ankle Surgery,394,850,12.0,39.0,84.0,273.0
+17204,2014/15,All Health Authorities,All Facilities,Foreign Body Removal Surgery,40,199,3.1,15.5,21.7,108.5
+17205,2014/15,All Health Authorities,All Facilities,Fracture Repair,140,1120,0.9,9.7,6.3,67.89999999999999
+17206,2014/15,All Health Authorities,All Facilities,Free Flap Graft,22,115,3.1,16.4,21.7,114.79999999999998
+17207,2014/15,All Health Authorities,All Facilities,Gastrostomy/Jejunostomy,7,93,1.6,10.5,11.200000000000001,73.5
+17208,2014/15,All Health Authorities,All Facilities,Hand/Wrist Surgery,673,2022,7.0,26.3,49.0,184.1
+17209,2014/15,All Health Authorities,All Facilities,Hernia Repair - Abdominal,4264,11310,8.1,33.9,56.699999999999996,237.29999999999998
+17210,2014/15,All Health Authorities,All Facilities,Hernia Repair - Hiatal,198,239,14.7,49.1,102.89999999999999,343.7
+17211,2014/15,All Health Authorities,All Facilities,Hip Replacement,3089,5233,18.6,46.4,130.20000000000002,324.8
+17212,2014/15,All Health Authorities,All Facilities,Kidney/Bladder Stone Removal,294,1891,4.0,12.4,28.0,86.8
+17213,2014/15,All Health Authorities,All Facilities,Knee - ACL Repair,645,1882,8.4,34.3,58.800000000000004,240.09999999999997
+17214,2014/15,All Health Authorities,All Facilities,Knee - Meniscectomy,564,2578,7.4,29.6,51.800000000000004,207.20000000000002
+17215,2014/15,All Health Authorities,All Facilities,Knee Arthroscopy,2046,4714,9.6,36.0,67.2,252.0
+17216,2014/15,All Health Authorities,All Facilities,Knee Replacement,6055,7295,24.0,50.6,168.0,354.2
+17217,2014/15,All Health Authorities,All Facilities,Laparoscopy,232,1259,4.4,18.4,30.800000000000004,128.79999999999998
+17218,2014/15,All Health Authorities,All Facilities,Laparotomy,32,376,3.0,16.0,21.0,112.0
+17219,2014/15,All Health Authorities,All Facilities,Lens & Vitreous (non-cataract) Surgery,911,2739,5.0,26.0,35.0,182.0
+17220,2014/15,All Health Authorities,All Facilities,Ligament Surgery,40,142,5.6,26.9,39.199999999999996,188.29999999999998
+17221,2014/15,All Health Authorities,All Facilities,Lipectomy,34,106,4.9,17.9,34.300000000000004,125.29999999999998
+17222,2014/15,All Health Authorities,All Facilities,Lung Surgery,54,656,2.1,6.2,14.700000000000001,43.4
+17223,2014/15,All Health Authorities,All Facilities,Male Reproductive Surgery,786,2202,7.3,28.0,51.1,196.0
+17224,2014/15,All Health Authorities,All Facilities,Mastectomy,361,4147,2.4,7.0,16.8,49.0
+17225,2014/15,All Health Authorities,All Facilities,Mastoidectomy,155,355,10.1,33.2,70.7,232.40000000000003
+17226,2014/15,All Health Authorities,All Facilities,Myringotomy,493,1533,5.4,20.6,37.800000000000004,144.20000000000002
+17227,2014/15,All Health Authorities,All Facilities,Nasal Surgery,1680,3334,11.0,36.7,77.0,256.90000000000003
+17228,2014/15,All Health Authorities,All Facilities,Nerve Surgery,341,944,6.1,32.1,42.699999999999996,224.70000000000002
+17229,2014/15,All Health Authorities,All Facilities,Oral Cavity & Pharynx Surgery,140,394,7.1,26.0,49.699999999999996,182.0
+17230,2014/15,All Health Authorities,All Facilities,Other Ear Surgery,87,269,6.7,32.8,46.9,229.59999999999997
+17231,2014/15,All Health Authorities,All Facilities,Other Eye Surgery,1461,4512,5.1,26.6,35.699999999999996,186.20000000000002
+17232,2014/15,All Health Authorities,All Facilities,Other Joint Reconstruction,1147,1953,10.6,38.7,74.2,270.90000000000003
+17233,2014/15,All Health Authorities,All Facilities,Other Orthopaedic Surgery,2030,6700,5.7,29.4,39.9,205.79999999999998
+17234,2014/15,All Health Authorities,All Facilities,Other Urology Surgery,1217,6981,3.4,14.7,23.8,102.89999999999999
+17235,2014/15,All Health Authorities,All Facilities,Parotidectomy,186,351,10.7,36.0,74.89999999999999,252.0
+17236,2014/15,All Health Authorities,All Facilities,Prostate Surgery,1232,4871,5.0,19.9,35.0,139.29999999999998
+17237,2014/15,All Health Authorities,All Facilities,Rectal Surgery,683,1712,8.4,35.6,58.800000000000004,249.20000000000002
+17238,2014/15,All Health Authorities,All Facilities,Rib Resection,7,34,5.3,24.1,37.1,168.70000000000002
+17239,2014/15,All Health Authorities,All Facilities,Scope of Chest,67,627,2.9,7.1,20.3,49.699999999999996
+17240,2014/15,All Health Authorities,All Facilities,Shoulder Surgery,1756,3614,10.9,38.9,76.3,272.3
+17241,2014/15,All Health Authorities,All Facilities,Shunt Insertion/Removal,3,23,1.0,4.1,7.0,28.699999999999996
+17242,2014/15,All Health Authorities,All Facilities,Sinus Surgery,1232,1791,12.4,49.1,86.8,343.7
+17243,2014/15,All Health Authorities,All Facilities,Skin Surgery,264,830,6.0,29.9,42.0,209.29999999999998
+17244,2014/15,All Health Authorities,All Facilities,Skin Tumour Removal,635,3144,3.7,16.7,25.900000000000002,116.89999999999999
+17245,2014/15,All Health Authorities,All Facilities,Sphincterotomy,38,169,6.0,33.1,42.0,231.70000000000002
+17246,2014/15,All Health Authorities,All Facilities,Spinal/Back Surgery,1570,3506,8.1,31.3,56.699999999999996,219.1
+17247,2014/15,All Health Authorities,All Facilities,Tendon Surgery,223,741,4.3,25.4,30.099999999999998,177.79999999999998
+17248,2014/15,All Health Authorities,All Facilities,Thoracotomy,12,103,2.7,7.0,18.900000000000002,49.0
+17249,2014/15,All Health Authorities,All Facilities,Thyroidectomy,426,1199,7.0,29.7,49.0,207.9
+17250,2014/15,All Health Authorities,All Facilities,Tonsillectomy/Adenoidectomy,1382,3692,8.7,27.0,60.89999999999999,189.0
+17251,2014/15,All Health Authorities,All Facilities,Tympanoplasty,433,771,11.0,32.1,77.0,224.70000000000002
+17252,2014/15,All Health Authorities,All Facilities,Uterine Surgery,2551,12005,4.9,18.7,34.300000000000004,130.9
+17253,2014/15,All Health Authorities,All Facilities,Vaginal Repair,570,1482,8.9,34.0,62.300000000000004,238.0
+17254,2014/15,All Health Authorities,All Facilities,Varicose Veins Ligation/Stripping,1294,1399,16.4,66.0,114.79999999999998,462.0
+17255,2014/15,All Health Authorities,All Facilities,Vascular Bypass Graft - Non Cardiac,140,609,3.0,16.0,21.0,112.0
+17256,2014/15,All Health Authorities,All Facilities,Vascular Surgery - Other,200,1697,2.6,11.7,18.2,81.89999999999999
+17257,2014/15,All Health Authorities,All Facilities,Wound/Laceration Care,268,1000,2.7,22.0,18.900000000000002,154.0
+20585,2015/16,All Health Authorities,All Facilities,Abdominoplasty,85,165,8.7,33.9,60.89999999999999,237.29999999999998
+20586,2015/16,All Health Authorities,All Facilities,All Other Procedures,1141,4856,4.0,18.7,28.0,130.9
+20588,2015/16,All Health Authorities,All Facilities,Aortic Aneurysm Repair,64,411,3.1,9.6,21.7,67.2
+20589,2015/16,All Health Authorities,All Facilities,Appendectomy,44,198,4.6,17.9,32.199999999999996,125.29999999999998
+20590,2015/16,All Health Authorities,All Facilities,Bariatric Surgery,66,381,5.9,21.1,41.300000000000004,147.70000000000002
+20591,2015/16,All Health Authorities,All Facilities,Biopsy in OR,324,2387,2.7,11.9,18.900000000000002,83.3
+20592,2015/16,All Health Authorities,All Facilities,Bladder Surgery,1094,5268,4.0,19.6,28.0,137.20000000000002
+20593,2015/16,All Health Authorities,All Facilities,Bowel Resection,454,2970,3.3,12.9,23.099999999999998,90.3
+20594,2015/16,All Health Authorities,All Facilities,Breast Biopsy,138,1439,2.7,7.0,18.900000000000002,49.0
+20595,2015/16,All Health Authorities,All Facilities,Breast Reconstruction,608,1103,8.9,41.9,62.300000000000004,293.3
+20596,2015/16,All Health Authorities,All Facilities,Breast Reduction,1176,1638,14.6,42.8,102.2,299.59999999999997
+20597,2015/16,All Health Authorities,All Facilities,Cataract Surgery,20274,55251,10.4,35.3,72.8,247.09999999999997
+20598,2015/16,All Health Authorities,All Facilities,Cholecystectomy,1558,5351,6.0,24.0,42.0,168.0
+20599,2015/16,All Health Authorities,All Facilities,Colostomy/Ileostomy,222,747,7.3,27.7,51.1,193.9
+20600,2015/16,All Health Authorities,All Facilities,Cone Biopsy,50,407,3.7,11.3,25.900000000000002,79.10000000000001
+20601,2015/16,All Health Authorities,All Facilities,Cranial Surgery,183,944,1.6,15.4,11.200000000000001,107.8
+20602,2015/16,All Health Authorities,All Facilities,CSF Drainage,20,636,0.3,1.0,2.1,7.0
+20603,2015/16,All Health Authorities,All Facilities,Cyst/Ganglion Removal,450,1219,6.1,27.7,42.699999999999996,193.9
+20604,2015/16,All Health Authorities,All Facilities,D&C and Related Surgery,1149,5200,4.1,15.3,28.699999999999996,107.10000000000001
+20605,2015/16,All Health Authorities,All Facilities,Dental Surgery,2082,6109,7.9,28.3,55.300000000000004,198.1
+20606,2015/16,All Health Authorities,All Facilities,Endarterectomy,134,633,3.3,17.0,23.099999999999998,119.0
+20607,2015/16,All Health Authorities,All Facilities,Esophagectomy,27,141,3.1,18.9,21.7,132.29999999999998
+20608,2015/16,All Health Authorities,All Facilities,Examination Under Anaesthetic,270,906,4.9,22.6,34.300000000000004,158.20000000000002
+20609,2015/16,All Health Authorities,All Facilities,Excision Gynecomastia,103,156,7.4,33.1,51.800000000000004,231.70000000000002
+20610,2015/16,All Health Authorities,All Facilities,Excision Lesion/Tumour,535,2392,4.0,16.1,28.0,112.70000000000002
+20611,2015/16,All Health Authorities,All Facilities,Facial Bone Reconstruction,188,721,5.6,23.0,39.199999999999996,161.0
+20612,2015/16,All Health Authorities,All Facilities,Fallopian Tube/Ovarian Surgery,1226,3535,6.1,21.1,42.699999999999996,147.70000000000002
+20613,2015/16,All Health Authorities,All Facilities,Fistula Repair - Non Vascular,59,173,7.0,28.5,49.0,199.5
+20614,2015/16,All Health Authorities,All Facilities,Foot/Ankle Surgery,481,906,10.0,36.9,70.0,258.3
+20615,2015/16,All Health Authorities,All Facilities,Foreign Body Removal Surgery,53,216,2.9,13.2,20.3,92.39999999999999
+20616,2015/16,All Health Authorities,All Facilities,Fracture Repair,153,1150,0.9,10.0,6.3,70.0
+20617,2015/16,All Health Authorities,All Facilities,Free Flap Graft,17,109,3.9,20.1,27.3,140.70000000000002
+20618,2015/16,All Health Authorities,All Facilities,Gastrostomy/Jejunostomy,17,109,1.0,5.0,7.0,35.0
+20619,2015/16,All Health Authorities,All Facilities,Hand/Wrist Surgery,708,1953,6.9,25.9,48.300000000000004,181.29999999999998
+20620,2015/16,All Health Authorities,All Facilities,Hernia Repair - Abdominal,4180,11605,9.1,31.6,63.699999999999996,221.20000000000002
+20621,2015/16,All Health Authorities,All Facilities,Hernia Repair - Hiatal,164,255,13.1,45.3,91.7,317.09999999999997
+20622,2015/16,All Health Authorities,All Facilities,Hip Replacement,3511,5520,21.1,48.9,147.70000000000002,342.3
+20623,2015/16,All Health Authorities,All Facilities,Kidney/Bladder Stone Removal,327,1999,4.1,11.7,28.699999999999996,81.89999999999999
+20624,2015/16,All Health Authorities,All Facilities,Knee - ACL Repair,533,1816,7.0,28.1,49.0,196.70000000000002
+20625,2015/16,All Health Authorities,All Facilities,Knee - Meniscectomy,485,2165,7.0,27.9,49.0,195.29999999999998
+20626,2015/16,All Health Authorities,All Facilities,Knee Arthroscopy,1417,4356,7.3,29.9,51.1,209.29999999999998
+20627,2015/16,All Health Authorities,All Facilities,Knee Replacement,6927,7990,27.9,54.0,195.29999999999998,378.0
+20628,2015/16,All Health Authorities,All Facilities,Laparoscopy,258,1144,4.9,19.6,34.300000000000004,137.20000000000002
+20629,2015/16,All Health Authorities,All Facilities,Laparotomy,43,325,3.3,14.6,23.099999999999998,102.2
+20630,2015/16,All Health Authorities,All Facilities,Lens & Vitreous (non-cataract) Surgery,934,2802,5.1,24.1,35.699999999999996,168.70000000000002
+20631,2015/16,All Health Authorities,All Facilities,Ligament Surgery,40,141,5.6,19.9,39.199999999999996,139.29999999999998
+20632,2015/16,All Health Authorities,All Facilities,Lipectomy,36,120,6.1,38.7,42.699999999999996,270.90000000000003
+20633,2015/16,All Health Authorities,All Facilities,Lung Surgery,46,635,2.0,5.4,14.0,37.800000000000004
+20634,2015/16,All Health Authorities,All Facilities,Male Reproductive Surgery,675,2265,7.1,29.0,49.699999999999996,203.0
+20635,2015/16,All Health Authorities,All Facilities,Mastectomy,430,4156,2.4,7.1,16.8,49.699999999999996
+20636,2015/16,All Health Authorities,All Facilities,Mastoidectomy,165,338,10.4,32.6,72.8,228.20000000000002
+20637,2015/16,All Health Authorities,All Facilities,Myringotomy,410,1606,5.9,20.4,41.300000000000004,142.79999999999998
+20638,2015/16,All Health Authorities,All Facilities,Nasal Surgery,1702,3470,11.9,38.4,83.3,268.8
+20639,2015/16,All Health Authorities,All Facilities,Nerve Surgery,330,951,5.7,26.3,39.9,184.1
+20640,2015/16,All Health Authorities,All Facilities,Oral Cavity & Pharynx Surgery,132,459,7.9,23.4,55.300000000000004,163.79999999999998
+20641,2015/16,All Health Authorities,All Facilities,Other Ear Surgery,104,231,8.1,37.0,56.699999999999996,259.0
+20642,2015/16,All Health Authorities,All Facilities,Other Eye Surgery,1452,4869,5.1,27.0,35.699999999999996,189.0
+20643,2015/16,All Health Authorities,All Facilities,Other Joint Reconstruction,1216,1996,12.0,43.9,84.0,307.3
+20644,2015/16,All Health Authorities,All Facilities,Other Orthopaedic Surgery,2142,6530,5.9,26.9,41.300000000000004,188.29999999999998
+20645,2015/16,All Health Authorities,All Facilities,Other Urology Surgery,1126,6922,3.7,14.4,25.900000000000002,100.8
+20646,2015/16,All Health Authorities,All Facilities,Parotidectomy,193,375,11.1,44.0,77.7,308.0
+20647,2015/16,All Health Authorities,All Facilities,Prostate Surgery,1155,5093,5.0,21.0,35.0,147.0
+20648,2015/16,All Health Authorities,All Facilities,Rectal Surgery,757,1544,8.6,34.0,60.199999999999996,238.0
+20649,2015/16,All Health Authorities,All Facilities,Rib Resection,15,32,7.4,29.2,51.800000000000004,204.4
+20650,2015/16,All Health Authorities,All Facilities,Scope of Chest,69,554,2.8,7.1,19.599999999999998,49.699999999999996
+20651,2015/16,All Health Authorities,All Facilities,Shoulder Surgery,1627,3422,9.7,36.1,67.89999999999999,252.70000000000002
+20652,2015/16,All Health Authorities,All Facilities,Shunt Insertion/Removal,3,25,2.7,7.5,18.900000000000002,52.5
+20653,2015/16,All Health Authorities,All Facilities,Sinus Surgery,1107,1906,14.5,48.9,101.5,342.3
+20654,2015/16,All Health Authorities,All Facilities,Skin Surgery,313,797,6.0,30.8,42.0,215.6
+20655,2015/16,All Health Authorities,All Facilities,Skin Tumour Removal,654,2876,3.7,17.3,25.900000000000002,121.10000000000001
+20656,2015/16,All Health Authorities,All Facilities,Sphincterotomy,56,107,5.1,24.6,35.699999999999996,172.20000000000002
+20657,2015/16,All Health Authorities,All Facilities,Spinal/Back Surgery,1530,3501,8.6,34.0,60.199999999999996,238.0
+20658,2015/16,All Health Authorities,All Facilities,Tendon Surgery,288,830,4.3,24.9,30.099999999999998,174.29999999999998
+20659,2015/16,All Health Authorities,All Facilities,Thoracotomy,20,125,2.9,8.0,20.3,56.0
+20660,2015/16,All Health Authorities,All Facilities,Thyroidectomy,483,1149,8.4,36.9,58.800000000000004,258.3
+20661,2015/16,All Health Authorities,All Facilities,Tonsillectomy/Adenoidectomy,1334,3673,9.0,30.3,63.0,212.1
+20662,2015/16,All Health Authorities,All Facilities,Tympanoplasty,387,821,10.0,39.4,70.0,275.8
+20663,2015/16,All Health Authorities,All Facilities,Uterine Surgery,2835,11950,5.1,19.0,35.699999999999996,133.0
+20664,2015/16,All Health Authorities,All Facilities,Vaginal Repair,630,1490,9.9,34.2,69.3,239.40000000000003
+20665,2015/16,All Health Authorities,All Facilities,Varicose Veins Ligation/Stripping,1315,1342,18.6,69.0,130.20000000000002,483.0
+20666,2015/16,All Health Authorities,All Facilities,Vascular Bypass Graft - Non Cardiac,137,624,3.0,17.5,21.0,122.5
+20667,2015/16,All Health Authorities,All Facilities,Vascular Surgery - Other,257,1652,2.7,10.9,18.900000000000002,76.3
+20668,2015/16,All Health Authorities,All Facilities,Wound/Laceration Care,249,947,3.1,19.3,21.7,135.1
+23991,2016/17,All Health Authorities,All Facilities,Abdominoplasty,102,166,10.8,36.1,75.60000000000001,252.70000000000002
+23992,2016/17,All Health Authorities,All Facilities,All Other Procedures,1171,4741,4.1,21.0,28.699999999999996,147.0
+23994,2016/17,All Health Authorities,All Facilities,Aortic Aneurysm Repair,71,421,4.0,11.3,28.0,79.10000000000001
+23995,2016/17,All Health Authorities,All Facilities,Appendectomy,48,189,5.7,17.1,39.9,119.70000000000002
+23996,2016/17,All Health Authorities,All Facilities,Bariatric Surgery,93,367,5.9,26.4,41.300000000000004,184.79999999999998
+23997,2016/17,All Health Authorities,All Facilities,Biopsy in OR,334,2297,3.0,12.1,21.0,84.7
+23998,2016/17,All Health Authorities,All Facilities,Bladder Surgery,931,5235,4.0,18.9,28.0,132.29999999999998
+23999,2016/17,All Health Authorities,All Facilities,Bowel Resection,480,2698,3.4,13.6,23.8,95.2
+24000,2016/17,All Health Authorities,All Facilities,Breast Biopsy,132,1528,2.7,6.9,18.900000000000002,48.300000000000004
+24001,2016/17,All Health Authorities,All Facilities,Breast Reconstruction,564,1225,8.9,35.3,62.300000000000004,247.09999999999997
+24002,2016/17,All Health Authorities,All Facilities,Breast Reduction,1477,1628,17.7,46.2,123.89999999999999,323.40000000000003
+24003,2016/17,All Health Authorities,All Facilities,Cataract Surgery,22376,57612,10.9,36.9,76.3,258.3
+24004,2016/17,All Health Authorities,All Facilities,Cholecystectomy,1675,5452,6.4,23.3,44.800000000000004,163.1
+24005,2016/17,All Health Authorities,All Facilities,Colostomy/Ileostomy,235,690,8.0,28.9,56.0,202.29999999999998
+24006,2016/17,All Health Authorities,All Facilities,Cone Biopsy,52,344,4.6,11.8,32.199999999999996,82.60000000000001
+24007,2016/17,All Health Authorities,All Facilities,Cranial Surgery,172,995,1.9,11.4,13.299999999999999,79.8
+24008,2016/17,All Health Authorities,All Facilities,CSF Drainage,15,453,0.4,1.6,2.8000000000000003,11.200000000000001
+24009,2016/17,All Health Authorities,All Facilities,Cyst/Ganglion Removal,427,1188,6.7,29.5,46.9,206.5
+24010,2016/17,All Health Authorities,All Facilities,D&C and Related Surgery,1225,5434,4.3,18.5,30.099999999999998,129.5
+24011,2016/17,All Health Authorities,All Facilities,Dental Surgery,2229,6160,8.6,30.1,60.199999999999996,210.70000000000002
+24012,2016/17,All Health Authorities,All Facilities,Endarterectomy,124,595,3.4,19.3,23.8,135.1
+24013,2016/17,All Health Authorities,All Facilities,Esophagectomy,32,151,3.0,15.6,21.0,109.2
+24014,2016/17,All Health Authorities,All Facilities,Examination Under Anaesthetic,248,1010,4.7,21.9,32.9,153.29999999999998
+24015,2016/17,All Health Authorities,All Facilities,Excision Gynecomastia,108,163,9.0,38.0,63.0,266.0
+24016,2016/17,All Health Authorities,All Facilities,Excision Lesion/Tumour,533,2538,4.0,16.8,28.0,117.60000000000001
+24017,2016/17,All Health Authorities,All Facilities,Facial Bone Reconstruction,253,702,5.3,22.0,37.1,154.0
+24018,2016/17,All Health Authorities,All Facilities,Fallopian Tube/Ovarian Surgery,1285,3746,6.4,24.6,44.800000000000004,172.20000000000002
+24019,2016/17,All Health Authorities,All Facilities,Fistula Repair - Non Vascular,49,177,5.0,22.4,35.0,156.79999999999998
+24020,2016/17,All Health Authorities,All Facilities,Foot/Ankle Surgery,481,770,13.9,42.6,97.3,298.2
+24021,2016/17,All Health Authorities,All Facilities,Foreign Body Removal Surgery,48,231,3.3,13.1,23.099999999999998,91.7
+24022,2016/17,All Health Authorities,All Facilities,Fracture Repair,156,1098,0.9,13.2,6.3,92.39999999999999
+24023,2016/17,All Health Authorities,All Facilities,Free Flap Graft,24,108,3.6,16.9,25.2,118.29999999999998
+24024,2016/17,All Health Authorities,All Facilities,Gastrostomy/Jejunostomy,17,80,3.4,13.9,23.8,97.3
+24025,2016/17,All Health Authorities,All Facilities,Hand/Wrist Surgery,666,2285,6.9,26.1,48.300000000000004,182.70000000000002
+24026,2016/17,All Health Authorities,All Facilities,Hernia Repair - Abdominal,4417,12562,8.7,30.7,60.89999999999999,214.9
+24027,2016/17,All Health Authorities,All Facilities,Hernia Repair - Hiatal,144,288,11.2,38.8,78.39999999999999,271.59999999999997
+24028,2016/17,All Health Authorities,All Facilities,Hip Replacement,3544,5889,20.7,49.4,144.9,345.8
+24029,2016/17,All Health Authorities,All Facilities,Kidney/Bladder Stone Removal,322,2079,4.1,12.1,28.699999999999996,84.7
+24030,2016/17,All Health Authorities,All Facilities,Knee - ACL Repair,621,1799,6.9,27.0,48.300000000000004,189.0
+24031,2016/17,All Health Authorities,All Facilities,Knee - Meniscectomy,467,1985,6.3,24.3,44.1,170.1
+24032,2016/17,All Health Authorities,All Facilities,Knee Arthroscopy,1340,3840,6.7,27.9,46.9,195.29999999999998
+24033,2016/17,All Health Authorities,All Facilities,Knee Replacement,7542,8493,27.4,55.6,191.79999999999998,389.2
+24034,2016/17,All Health Authorities,All Facilities,Laparoscopy,273,1232,4.9,19.3,34.300000000000004,135.1
+24035,2016/17,All Health Authorities,All Facilities,Laparotomy,45,336,3.6,15.9,25.2,111.3
+24036,2016/17,All Health Authorities,All Facilities,Lens & Vitreous (non-cataract) Surgery,1329,3716,3.0,22.6,21.0,158.20000000000002
+24037,2016/17,All Health Authorities,All Facilities,Ligament Surgery,73,186,5.4,23.9,37.800000000000004,167.29999999999998
+24038,2016/17,All Health Authorities,All Facilities,Lipectomy,24,60,7.9,39.3,55.300000000000004,275.09999999999997
+24039,2016/17,All Health Authorities,All Facilities,Lung Surgery,51,630,2.0,5.3,14.0,37.1
+24040,2016/17,All Health Authorities,All Facilities,Male Reproductive Surgery,772,2217,7.1,27.0,49.699999999999996,189.0
+24041,2016/17,All Health Authorities,All Facilities,Mastectomy,532,4294,2.7,8.0,18.900000000000002,56.0
+24042,2016/17,All Health Authorities,All Facilities,Mastoidectomy,158,330,11.1,42.6,77.7,298.2
+24043,2016/17,All Health Authorities,All Facilities,Myringotomy,520,1407,6.3,21.6,44.1,151.20000000000002
+24044,2016/17,All Health Authorities,All Facilities,Nasal Surgery,2026,3161,11.0,39.3,77.0,275.09999999999997
+24045,2016/17,All Health Authorities,All Facilities,Nerve Surgery,361,1078,6.7,30.5,46.9,213.5
+24046,2016/17,All Health Authorities,All Facilities,Oral Cavity & Pharynx Surgery,141,383,7.1,30.4,49.699999999999996,212.79999999999998
+24047,2016/17,All Health Authorities,All Facilities,Other Ear Surgery,100,248,9.0,40.9,63.0,286.3
+24048,2016/17,All Health Authorities,All Facilities,Other Eye Surgery,1512,4915,5.9,25.6,41.300000000000004,179.20000000000002
+24049,2016/17,All Health Authorities,All Facilities,Other Joint Reconstruction,1217,1990,12.9,40.4,90.3,282.8
+24050,2016/17,All Health Authorities,All Facilities,Other Orthopaedic Surgery,2226,6404,6.4,28.8,44.800000000000004,201.6
+24051,2016/17,All Health Authorities,All Facilities,Other Urology Surgery,1338,6595,3.7,14.2,25.900000000000002,99.39999999999999
+24052,2016/17,All Health Authorities,All Facilities,Parotidectomy,197,400,12.1,40.3,84.7,282.09999999999997
+24053,2016/17,All Health Authorities,All Facilities,Prostate Surgery,1152,5079,4.9,20.9,34.300000000000004,146.29999999999998
+24054,2016/17,All Health Authorities,All Facilities,Rectal Surgery,740,1678,8.2,33.0,57.39999999999999,231.0
+24055,2016/17,All Health Authorities,All Facilities,Rib Resection,26,35,6.0,27.6,42.0,193.20000000000002
+24056,2016/17,All Health Authorities,All Facilities,Scope of Chest,89,580,3.9,9.4,27.3,65.8
+24057,2016/17,All Health Authorities,All Facilities,Shoulder Surgery,1625,3272,10.4,38.7,72.8,270.90000000000003
+24058,2016/17,All Health Authorities,All Facilities,Shunt Insertion/Removal,8,36,3.0,8.4,21.0,58.800000000000004
+24059,2016/17,All Health Authorities,All Facilities,Sinus Surgery,1177,1794,15.9,45.3,111.3,317.09999999999997
+24060,2016/17,All Health Authorities,All Facilities,Skin Surgery,346,797,6.0,33.1,42.0,231.70000000000002
+24061,2016/17,All Health Authorities,All Facilities,Skin Tumour Removal,779,3062,3.9,17.7,27.3,123.89999999999999
+24062,2016/17,All Health Authorities,All Facilities,Sphincterotomy,59,143,6.4,23.1,44.800000000000004,161.70000000000002
+24063,2016/17,All Health Authorities,All Facilities,Spinal/Back Surgery,1484,3523,8.7,32.9,60.89999999999999,230.29999999999998
+24064,2016/17,All Health Authorities,All Facilities,Tendon Surgery,376,853,5.1,30.3,35.699999999999996,212.1
+24065,2016/17,All Health Authorities,All Facilities,Thoracotomy,16,143,3.7,9.0,25.900000000000002,63.0
+24066,2016/17,All Health Authorities,All Facilities,Thyroidectomy,577,1131,9.4,41.1,65.8,287.7
+24067,2016/17,All Health Authorities,All Facilities,Tonsillectomy/Adenoidectomy,1648,3385,9.1,33.9,63.699999999999996,237.29999999999998
+24068,2016/17,All Health Authorities,All Facilities,Tympanoplasty,401,786,10.1,31.9,70.7,223.29999999999998
+24069,2016/17,All Health Authorities,All Facilities,Uterine Surgery,2999,12249,5.4,19.9,37.800000000000004,139.29999999999998
+24070,2016/17,All Health Authorities,All Facilities,Vaginal Repair,635,1474,9.4,35.0,65.8,245.0
+24071,2016/17,All Health Authorities,All Facilities,Varicose Veins Ligation/Stripping,1442,1282,18.9,55.8,132.29999999999998,390.59999999999997
+24072,2016/17,All Health Authorities,All Facilities,Vascular Bypass Graft - Non Cardiac,152,634,3.2,16.7,22.400000000000002,116.89999999999999
+24073,2016/17,All Health Authorities,All Facilities,Vascular Surgery - Other,299,1554,2.9,13.9,20.3,97.3
+24074,2016/17,All Health Authorities,All Facilities,Wound/Laceration Care,249,938,3.3,20.8,23.099999999999998,145.6
+27429,2017/18,All Health Authorities,All Facilities,Abdominoplasty,105,165,13.3,48.5,93.10000000000001,339.5
+27430,2017/18,All Health Authorities,All Facilities,All Other Procedures,1234,5225,4.1,20.5,28.699999999999996,143.5
+27432,2017/18,All Health Authorities,All Facilities,Aortic Aneurysm Repair,49,498,3.4,10.9,23.8,76.3
+27433,2017/18,All Health Authorities,All Facilities,Appendectomy,53,191,5.3,17.6,37.1,123.20000000000002
+27434,2017/18,All Health Authorities,All Facilities,Bariatric Surgery,62,396,4.7,13.8,32.9,96.60000000000001
+27435,2017/18,All Health Authorities,All Facilities,Biopsy in OR,327,2201,3.0,12.3,21.0,86.10000000000001
+27436,2017/18,All Health Authorities,All Facilities,Bladder Surgery,955,5081,4.0,16.4,28.0,114.79999999999998
+27437,2017/18,All Health Authorities,All Facilities,Bowel Resection,436,2679,3.4,13.3,23.8,93.10000000000001
+27438,2017/18,All Health Authorities,All Facilities,Breast Biopsy,145,1573,2.7,7.0,18.900000000000002,49.0
+27439,2017/18,All Health Authorities,All Facilities,Breast Reconstruction,691,1236,8.0,36.7,56.0,256.90000000000003
+27440,2017/18,All Health Authorities,All Facilities,Breast Reduction,1576,1819,21.0,49.7,147.0,347.90000000000003
+27441,2017/18,All Health Authorities,All Facilities,Cataract Surgery,23249,60885,11.0,36.7,77.0,256.90000000000003
+27442,2017/18,All Health Authorities,All Facilities,Cholecystectomy,1685,5398,6.0,22.3,42.0,156.1
+27443,2017/18,All Health Authorities,All Facilities,Colostomy/Ileostomy,222,696,8.5,30.1,59.5,210.70000000000002
+27444,2017/18,All Health Authorities,All Facilities,Cone Biopsy,50,318,4.6,13.9,32.199999999999996,97.3
+27445,2017/18,All Health Authorities,All Facilities,Cranial Surgery,171,879,2.0,13.6,14.0,95.2
+27446,2017/18,All Health Authorities,All Facilities,CSF Drainage,6,67,1.3,8.3,9.1,58.10000000000001
+27447,2017/18,All Health Authorities,All Facilities,Cyst/Ganglion Removal,394,1170,6.0,27.0,42.0,189.0
+27448,2017/18,All Health Authorities,All Facilities,D&C and Related Surgery,1189,5769,4.3,17.1,30.099999999999998,119.70000000000002
+27449,2017/18,All Health Authorities,All Facilities,Dental Surgery,1750,6361,8.3,29.1,58.10000000000001,203.70000000000002
+27450,2017/18,All Health Authorities,All Facilities,Endarterectomy,112,607,2.9,14.9,20.3,104.3
+27451,2017/18,All Health Authorities,All Facilities,Esophagectomy,26,147,3.1,16.0,21.7,112.0
+27452,2017/18,All Health Authorities,All Facilities,Examination Under Anaesthetic,219,945,5.1,21.7,35.699999999999996,151.9
+27453,2017/18,All Health Authorities,All Facilities,Excision Gynecomastia,96,152,13.7,50.3,95.89999999999999,352.09999999999997
+27454,2017/18,All Health Authorities,All Facilities,Excision Lesion/Tumour,518,2694,4.0,14.3,28.0,100.10000000000001
+27455,2017/18,All Health Authorities,All Facilities,Facial Bone Reconstruction,333,664,6.9,28.0,48.300000000000004,196.0
+27456,2017/18,All Health Authorities,All Facilities,Fallopian Tube/Ovarian Surgery,1200,3626,6.4,22.4,44.800000000000004,156.79999999999998
+27457,2017/18,All Health Authorities,All Facilities,Fistula Repair - Non Vascular,49,166,4.7,21.1,32.9,147.70000000000002
+27458,2017/18,All Health Authorities,All Facilities,Foot/Ankle Surgery,470,753,13.6,40.4,95.2,282.8
+27459,2017/18,All Health Authorities,All Facilities,Foreign Body Removal Surgery,34,220,3.4,20.1,23.8,140.70000000000002
+27460,2017/18,All Health Authorities,All Facilities,Fracture Repair,160,1078,0.9,11.9,6.3,83.3
+27461,2017/18,All Health Authorities,All Facilities,Free Flap Graft,16,118,3.7,20.8,25.900000000000002,145.6
+27462,2017/18,All Health Authorities,All Facilities,Gastrostomy/Jejunostomy,21,92,3.1,11.7,21.7,81.89999999999999
+27463,2017/18,All Health Authorities,All Facilities,Hand/Wrist Surgery,778,2207,6.9,25.9,48.300000000000004,181.29999999999998
+27464,2017/18,All Health Authorities,All Facilities,Hernia Repair - Abdominal,4445,12012,8.3,28.0,58.10000000000001,196.0
+27465,2017/18,All Health Authorities,All Facilities,Hernia Repair - Hiatal,167,306,8.6,35.6,60.199999999999996,249.20000000000002
+27466,2017/18,All Health Authorities,All Facilities,Hip Replacement,3704,6145,20.0,49.5,140.0,346.5
+27467,2017/18,All Health Authorities,All Facilities,Kidney/Bladder Stone Removal,432,2192,4.1,11.7,28.699999999999996,81.89999999999999
+27468,2017/18,All Health Authorities,All Facilities,Knee - ACL Repair,808,1774,7.6,31.0,53.199999999999996,217.0
+27469,2017/18,All Health Authorities,All Facilities,Knee - Meniscectomy,415,1681,6.6,24.4,46.199999999999996,170.79999999999998
+27470,2017/18,All Health Authorities,All Facilities,Knee Arthroscopy,1215,2986,7.0,29.7,49.0,207.9
+27471,2017/18,All Health Authorities,All Facilities,Knee Replacement,7303,9274,27.0,55.4,189.0,387.8
+27472,2017/18,All Health Authorities,All Facilities,Laparoscopy,238,1160,5.0,18.6,35.0,130.20000000000002
+27473,2017/18,All Health Authorities,All Facilities,Laparotomy,48,342,4.1,19.6,28.699999999999996,137.20000000000002
+27474,2017/18,All Health Authorities,All Facilities,Lens & Vitreous (non-cataract) Surgery,1170,3806,3.9,31.9,27.3,223.29999999999998
+27475,2017/18,All Health Authorities,All Facilities,Ligament Surgery,84,186,5.6,26.2,39.199999999999996,183.4
+27476,2017/18,All Health Authorities,All Facilities,Lipectomy,25,39,13.9,42.5,97.3,297.5
+27477,2017/18,All Health Authorities,All Facilities,Lung Surgery,62,662,2.9,7.7,20.3,53.9
+27478,2017/18,All Health Authorities,All Facilities,Male Reproductive Surgery,957,2031,8.0,30.4,56.0,212.79999999999998
+27479,2017/18,All Health Authorities,All Facilities,Mastectomy,440,4338,2.7,8.3,18.900000000000002,58.10000000000001
+27480,2017/18,All Health Authorities,All Facilities,Mastoidectomy,139,294,12.5,43.4,87.5,303.8
+27481,2017/18,All Health Authorities,All Facilities,Myringotomy,489,1415,5.9,20.9,41.300000000000004,146.29999999999998
+27482,2017/18,All Health Authorities,All Facilities,Nasal Surgery,2110,3328,12.3,39.0,86.10000000000001,273.0
+27483,2017/18,All Health Authorities,All Facilities,Nerve Surgery,461,1188,6.9,29.6,48.300000000000004,207.20000000000002
+27484,2017/18,All Health Authorities,All Facilities,Oral Cavity & Pharynx Surgery,135,406,8.1,28.2,56.699999999999996,197.4
+27485,2017/18,All Health Authorities,All Facilities,Other Ear Surgery,129,245,6.9,34.3,48.300000000000004,240.09999999999997
+27486,2017/18,All Health Authorities,All Facilities,Other Eye Surgery,1418,4775,5.9,28.1,41.300000000000004,196.70000000000002
+27487,2017/18,All Health Authorities,All Facilities,Other Joint Reconstruction,1159,1972,11.6,39.3,81.2,275.09999999999997
+27488,2017/18,All Health Authorities,All Facilities,Other Orthopaedic Surgery,2423,6415,6.3,29.1,44.1,203.70000000000002
+27489,2017/18,All Health Authorities,All Facilities,Other Urology Surgery,1329,6476,4.0,15.7,28.0,109.89999999999999
+27490,2017/18,All Health Authorities,All Facilities,Parotidectomy,163,383,11.1,43.0,77.7,301.0
+27491,2017/18,All Health Authorities,All Facilities,Prostate Surgery,1393,5177,5.1,21.1,35.699999999999996,147.70000000000002
+27492,2017/18,All Health Authorities,All Facilities,Rectal Surgery,819,1687,8.6,31.9,60.199999999999996,223.29999999999998
+27493,2017/18,All Health Authorities,All Facilities,Rib Resection,22,38,8.8,48.6,61.60000000000001,340.2
+27494,2017/18,All Health Authorities,All Facilities,Scope of Chest,69,578,3.9,8.8,27.3,61.60000000000001
+27495,2017/18,All Health Authorities,All Facilities,Shoulder Surgery,1653,3168,10.1,37.0,70.7,259.0
+27496,2017/18,All Health Authorities,All Facilities,Shunt Insertion/Removal,3,51,2.6,9.9,18.2,69.3
+27497,2017/18,All Health Authorities,All Facilities,Sinus Surgery,1303,1841,14.4,43.3,100.8,303.09999999999997
+27498,2017/18,All Health Authorities,All Facilities,Skin Surgery,368,822,6.9,35.9,48.300000000000004,251.29999999999998
+27499,2017/18,All Health Authorities,All Facilities,Skin Tumour Removal,797,3151,4.0,21.0,28.0,147.0
+27500,2017/18,All Health Authorities,All Facilities,Sphincterotomy,58,128,7.4,25.3,51.800000000000004,177.1
+27501,2017/18,All Health Authorities,All Facilities,Spinal/Back Surgery,1520,3551,7.7,32.0,53.9,224.0
+27502,2017/18,All Health Authorities,All Facilities,Tendon Surgery,371,840,5.1,31.9,35.699999999999996,223.29999999999998
+27503,2017/18,All Health Authorities,All Facilities,Thoracotomy,10,153,4.1,10.7,28.699999999999996,74.89999999999999
+27504,2017/18,All Health Authorities,All Facilities,Thyroidectomy,501,1211,10.1,44.6,70.7,312.2
+27505,2017/18,All Health Authorities,All Facilities,Tonsillectomy/Adenoidectomy,1765,3548,9.3,34.0,65.10000000000001,238.0
+27506,2017/18,All Health Authorities,All Facilities,Tympanoplasty,495,703,10.0,35.9,70.0,251.29999999999998
+27507,2017/18,All Health Authorities,All Facilities,Uterine Surgery,3073,12582,5.4,19.7,37.800000000000004,137.9
+27508,2017/18,All Health Authorities,All Facilities,Vaginal Repair,577,1475,10.4,34.3,72.8,240.09999999999997
+27509,2017/18,All Health Authorities,All Facilities,Varicose Veins Ligation/Stripping,1299,1273,26.9,72.0,188.29999999999998,504.0
+27510,2017/18,All Health Authorities,All Facilities,Vascular Bypass Graft - Non Cardiac,127,600,2.9,15.0,20.3,105.0
+27511,2017/18,All Health Authorities,All Facilities,Vascular Surgery - Other,243,1575,2.9,13.9,20.3,97.3
+27512,2017/18,All Health Authorities,All Facilities,Wound/Laceration Care,251,884,4.0,24.8,28.0,173.6
+30878,2018/19,All Health Authorities,All Facilities,Abdominoplasty,130,156,12.8,38.8,89.60000000000001,271.59999999999997
+30879,2018/19,All Health Authorities,All Facilities,All Other Procedures,1316,5777,4.1,18.0,28.699999999999996,126.0
+30881,2018/19,All Health Authorities,All Facilities,Aortic Aneurysm Repair,68,466,3.9,11.4,27.3,79.8
+30882,2018/19,All Health Authorities,All Facilities,Appendectomy,53,234,5.0,17.3,35.0,121.10000000000001
+30883,2018/19,All Health Authorities,All Facilities,Bariatric Surgery,60,426,5.0,13.7,35.0,95.89999999999999
+30884,2018/19,All Health Authorities,All Facilities,Biopsy in OR,303,2071,2.7,12.1,18.900000000000002,84.7
+30885,2018/19,All Health Authorities,All Facilities,Bladder Surgery,928,5040,4.0,14.7,28.0,102.89999999999999
+30886,2018/19,All Health Authorities,All Facilities,Bowel Resection,428,2521,3.3,11.6,23.099999999999998,81.2
+30887,2018/19,All Health Authorities,All Facilities,Breast Biopsy,175,1620,3.0,7.9,21.0,55.300000000000004
+30888,2018/19,All Health Authorities,All Facilities,Breast Reconstruction,776,1249,9.7,43.3,67.89999999999999,303.09999999999997
+30889,2018/19,All Health Authorities,All Facilities,Breast Reduction,1781,1976,19.4,52.0,135.79999999999998,364.0
+30890,2018/19,All Health Authorities,All Facilities,Cataract Surgery,21974,65601,9.7,36.0,67.89999999999999,252.0
+30891,2018/19,All Health Authorities,All Facilities,Cholecystectomy,1669,5646,6.3,22.6,44.1,158.20000000000002
+30892,2018/19,All Health Authorities,All Facilities,Colostomy/Ileostomy,200,713,6.9,25.7,48.300000000000004,179.9
+30893,2018/19,All Health Authorities,All Facilities,Cone Biopsy,34,318,4.6,11.1,32.199999999999996,77.7
+30894,2018/19,All Health Authorities,All Facilities,Cranial Surgery,184,933,2.0,10.0,14.0,70.0
+30895,2018/19,All Health Authorities,All Facilities,CSF Drainage,13,107,1.0,7.1,7.0,49.699999999999996
+30896,2018/19,All Health Authorities,All Facilities,Cyst/Ganglion Removal,408,1177,6.0,24.0,42.0,168.0
+30897,2018/19,All Health Authorities,All Facilities,D&C and Related Surgery,1321,5863,4.6,17.4,32.199999999999996,121.79999999999998
+30898,2018/19,All Health Authorities,All Facilities,Dental Surgery,2027,7153,7.3,24.4,51.1,170.79999999999998
+30899,2018/19,All Health Authorities,All Facilities,Endarterectomy,108,671,2.9,12.9,20.3,90.3
+30900,2018/19,All Health Authorities,All Facilities,Esophagectomy,29,145,3.9,15.4,27.3,107.8
+30901,2018/19,All Health Authorities,All Facilities,Examination Under Anaesthetic,245,1019,4.0,20.1,28.0,140.70000000000002
+30902,2018/19,All Health Authorities,All Facilities,Excision Gynecomastia,98,158,11.4,42.4,79.8,296.8
+30903,2018/19,All Health Authorities,All Facilities,Excision Lesion/Tumour,615,2829,4.3,15.9,30.099999999999998,111.3
+30904,2018/19,All Health Authorities,All Facilities,Facial Bone Reconstruction,348,650,12.1,34.5,84.7,241.5
+30905,2018/19,All Health Authorities,All Facilities,Fallopian Tube/Ovarian Surgery,1236,3503,7.0,22.0,49.0,154.0
+30906,2018/19,All Health Authorities,All Facilities,Fistula Repair - Non Vascular,63,202,5.1,21.0,35.699999999999996,147.0
+30907,2018/19,All Health Authorities,All Facilities,Foot/Ankle Surgery,460,796,13.5,40.7,94.5,284.90000000000003
+30908,2018/19,All Health Authorities,All Facilities,Foreign Body Removal Surgery,43,268,2.3,13.3,16.099999999999998,93.10000000000001
+30909,2018/19,All Health Authorities,All Facilities,Fracture Repair,195,1167,0.9,10.7,6.3,74.89999999999999
+30910,2018/19,All Health Authorities,All Facilities,Free Flap Graft,20,105,3.9,12.3,27.3,86.10000000000001
+30911,2018/19,All Health Authorities,All Facilities,Gastrostomy/Jejunostomy,11,122,2.0,10.0,14.0,70.0
+30912,2018/19,All Health Authorities,All Facilities,Hand/Wrist Surgery,827,2316,6.4,26.3,44.800000000000004,184.1
+30913,2018/19,All Health Authorities,All Facilities,Hernia Repair - Abdominal,4482,12102,9.0,29.4,63.0,205.79999999999998
+30914,2018/19,All Health Authorities,All Facilities,Hernia Repair - Hiatal,179,340,9.0,36.8,63.0,257.59999999999997
+30915,2018/19,All Health Authorities,All Facilities,Hip Replacement,3287,7477,16.9,43.9,118.29999999999998,307.3
+30916,2018/19,All Health Authorities,All Facilities,Kidney/Bladder Stone Removal,430,2303,5.1,15.0,35.699999999999996,105.0
+30917,2018/19,All Health Authorities,All Facilities,Knee - ACL Repair,823,1986,8.0,30.8,56.0,215.6
+30918,2018/19,All Health Authorities,All Facilities,Knee - Meniscectomy,451,1631,8.0,27.9,56.0,195.29999999999998
+30919,2018/19,All Health Authorities,All Facilities,Knee Arthroscopy,1271,2819,6.3,26.2,44.1,183.4
+30920,2018/19,All Health Authorities,All Facilities,Knee Replacement,6738,11276,20.0,48.9,140.0,342.3
+30921,2018/19,All Health Authorities,All Facilities,Laparoscopy,259,1123,5.1,19.4,35.699999999999996,135.79999999999998
+30922,2018/19,All Health Authorities,All Facilities,Laparotomy,44,354,4.3,16.9,30.099999999999998,118.29999999999998
+30923,2018/19,All Health Authorities,All Facilities,Lens & Vitreous (non-cataract) Surgery,1110,3614,4.1,22.2,28.699999999999996,155.4
+30924,2018/19,All Health Authorities,All Facilities,Ligament Surgery,80,209,4.3,29.7,30.099999999999998,207.9
+30925,2018/19,All Health Authorities,All Facilities,Lipectomy,42,38,18.5,51.3,129.5,359.09999999999997
+30926,2018/19,All Health Authorities,All Facilities,Lung Surgery,87,739,2.4,6.9,16.8,48.300000000000004
+30927,2018/19,All Health Authorities,All Facilities,Male Reproductive Surgery,844,2409,7.6,30.4,53.199999999999996,212.79999999999998
+30928,2018/19,All Health Authorities,All Facilities,Mastectomy,445,4173,2.7,7.0,18.900000000000002,49.0
+30929,2018/19,All Health Authorities,All Facilities,Mastoidectomy,151,309,9.4,34.5,65.8,241.5
+30930,2018/19,All Health Authorities,All Facilities,Myringotomy,481,1471,5.1,18.1,35.699999999999996,126.70000000000002
+30931,2018/19,All Health Authorities,All Facilities,Nasal Surgery,2140,3258,12.4,42.1,86.8,294.7
+30932,2018/19,All Health Authorities,All Facilities,Nerve Surgery,536,1130,5.0,36.4,35.0,254.79999999999998
+30933,2018/19,All Health Authorities,All Facilities,Oral Cavity & Pharynx Surgery,174,410,7.4,28.1,51.800000000000004,196.70000000000002
+30934,2018/19,All Health Authorities,All Facilities,Other Ear Surgery,115,240,9.0,42.3,63.0,296.09999999999997
+30935,2018/19,All Health Authorities,All Facilities,Other Eye Surgery,1505,4954,5.7,25.0,39.9,175.0
+30936,2018/19,All Health Authorities,All Facilities,Other Joint Reconstruction,1273,2008,11.7,36.5,81.89999999999999,255.5
+30937,2018/19,All Health Authorities,All Facilities,Other Orthopaedic Surgery,2419,6301,6.3,28.9,44.1,202.29999999999998
+30938,2018/19,All Health Authorities,All Facilities,Other Urology Surgery,1221,6762,4.1,16.0,28.699999999999996,112.0
+30939,2018/19,All Health Authorities,All Facilities,Parotidectomy,210,372,10.4,39.7,72.8,277.90000000000003
+30940,2018/19,All Health Authorities,All Facilities,Prostate Surgery,1453,5651,5.7,22.0,39.9,154.0
+30941,2018/19,All Health Authorities,All Facilities,Rectal Surgery,796,1744,9.0,33.9,63.0,237.29999999999998
+30942,2018/19,All Health Authorities,All Facilities,Rib Resection,30,39,4.1,41.9,28.699999999999996,293.3
+30943,2018/19,All Health Authorities,All Facilities,Scope of Chest,87,503,3.7,9.4,25.900000000000002,65.8
+30944,2018/19,All Health Authorities,All Facilities,Shoulder Surgery,1963,3285,11.7,35.9,81.89999999999999,251.29999999999998
+30945,2018/19,All Health Authorities,All Facilities,Shunt Insertion/Removal,5,47,3.3,11.9,23.099999999999998,83.3
+30946,2018/19,All Health Authorities,All Facilities,Sinus Surgery,1522,1865,16.1,46.9,112.70000000000002,328.3
+30947,2018/19,All Health Authorities,All Facilities,Skin Surgery,401,842,5.9,38.0,41.300000000000004,266.0
+30948,2018/19,All Health Authorities,All Facilities,Skin Tumour Removal,785,3213,4.6,20.9,32.199999999999996,146.29999999999998
+30949,2018/19,All Health Authorities,All Facilities,Sphincterotomy,49,124,6.2,34.2,43.4,239.40000000000003
+30950,2018/19,All Health Authorities,All Facilities,Spinal/Back Surgery,1838,3679,7.1,33.0,49.699999999999996,231.0
+30951,2018/19,All Health Authorities,All Facilities,Tendon Surgery,354,813,5.6,33.1,39.199999999999996,231.70000000000002
+30952,2018/19,All Health Authorities,All Facilities,Thoracotomy,17,119,3.0,9.6,21.0,67.2
+30953,2018/19,All Health Authorities,All Facilities,Thyroidectomy,485,1171,8.7,36.3,60.89999999999999,254.09999999999997
+30954,2018/19,All Health Authorities,All Facilities,Tonsillectomy/Adenoidectomy,1782,3344,10.0,35.0,70.0,245.0
+30955,2018/19,All Health Authorities,All Facilities,Tympanoplasty,526,691,11.9,46.0,83.3,322.0
+30956,2018/19,All Health Authorities,All Facilities,Uterine Surgery,3348,13177,5.7,20.0,39.9,140.0
+30957,2018/19,All Health Authorities,All Facilities,Vaginal Repair,576,1416,9.7,30.3,67.89999999999999,212.1
+30958,2018/19,All Health Authorities,All Facilities,Varicose Veins Ligation/Stripping,1438,1254,24.7,69.2,172.9,484.40000000000003
+30959,2018/19,All Health Authorities,All Facilities,Vascular Bypass Graft - Non Cardiac,142,570,2.8,12.9,19.599999999999998,90.3
+30960,2018/19,All Health Authorities,All Facilities,Vascular Surgery - Other,259,1549,2.7,12.0,18.900000000000002,84.0
+30961,2018/19,All Health Authorities,All Facilities,Wound/Laceration Care,262,999,3.3,21.6,23.099999999999998,151.20000000000002
+34273,2019/20,All Health Authorities,All Facilities,Abdominoplasty,126,171,15.0,53.9,105.0,377.3
+34274,2019/20,All Health Authorities,All Facilities,All Other Procedures,1593,5890,4.0,18.7,28.0,130.9
+34276,2019/20,All Health Authorities,All Facilities,Aortic Aneurysm Repair,70,459,3.7,11.6,25.900000000000002,81.2
+34277,2019/20,All Health Authorities,All Facilities,Appendectomy,66,266,5.2,14.9,36.4,104.3
+34278,2019/20,All Health Authorities,All Facilities,Bariatric Surgery,108,422,6.1,15.0,42.699999999999996,105.0
+34279,2019/20,All Health Authorities,All Facilities,Biopsy in OR,426,2232,2.7,12.0,18.900000000000002,84.0
+34280,2019/20,All Health Authorities,All Facilities,Bladder Surgery,945,5063,3.9,14.9,27.3,104.3
+34281,2019/20,All Health Authorities,All Facilities,Bowel Resection,375,2792,3.3,11.6,23.099999999999998,81.2
+34282,2019/20,All Health Authorities,All Facilities,Breast Biopsy,183,1677,3.0,7.9,21.0,55.300000000000004
+34283,2019/20,All Health Authorities,All Facilities,Breast Reconstruction,856,1384,9.4,47.0,65.8,329.0
+34284,2019/20,All Health Authorities,All Facilities,Breast Reduction,1771,1948,21.1,56.3,147.70000000000002,394.09999999999997
+34285,2019/20,All Health Authorities,All Facilities,Cataract Surgery,24736,63551,9.7,34.0,67.89999999999999,238.0
+34286,2019/20,All Health Authorities,All Facilities,Cholecystectomy,1679,5301,5.9,22.4,41.300000000000004,156.79999999999998
+34287,2019/20,All Health Authorities,All Facilities,Colostomy/Ileostomy,191,666,6.5,22.9,45.5,160.29999999999998
+34288,2019/20,All Health Authorities,All Facilities,Cone Biopsy,29,269,4.3,11.4,30.099999999999998,79.8
+34289,2019/20,All Health Authorities,All Facilities,Cranial Surgery,160,983,2.0,13.2,14.0,92.39999999999999
+34290,2019/20,All Health Authorities,All Facilities,CSF Drainage,11,88,1.6,8.2,11.200000000000001,57.39999999999999
+34291,2019/20,All Health Authorities,All Facilities,Cyst/Ganglion Removal,443,1161,5.9,24.9,41.300000000000004,174.29999999999998
+34292,2019/20,All Health Authorities,All Facilities,D&C and Related Surgery,1402,5507,4.9,20.1,34.300000000000004,140.70000000000002
+34293,2019/20,All Health Authorities,All Facilities,Dental Surgery,2285,7086,7.4,24.1,51.800000000000004,168.70000000000002
+34294,2019/20,All Health Authorities,All Facilities,Endarterectomy,126,646,2.9,14.9,20.3,104.3
+34295,2019/20,All Health Authorities,All Facilities,Esophagectomy,24,158,2.7,12.9,18.900000000000002,90.3
+34296,2019/20,All Health Authorities,All Facilities,Examination Under Anaesthetic,296,1056,5.0,21.0,35.0,147.0
+34297,2019/20,All Health Authorities,All Facilities,Excision Gynecomastia,94,119,13.0,61.6,91.0,431.2
+34298,2019/20,All Health Authorities,All Facilities,Excision Lesion/Tumour,697,2886,4.1,15.4,28.699999999999996,107.8
+34299,2019/20,All Health Authorities,All Facilities,Facial Bone Reconstruction,330,667,13.1,38.2,91.7,267.40000000000003
+34300,2019/20,All Health Authorities,All Facilities,Fallopian Tube/Ovarian Surgery,1420,3329,7.3,26.0,51.1,182.0
+34301,2019/20,All Health Authorities,All Facilities,Fistula Repair - Non Vascular,65,204,6.6,23.9,46.199999999999996,167.29999999999998
+34302,2019/20,All Health Authorities,All Facilities,Foot/Ankle Surgery,484,774,13.1,38.0,91.7,266.0
+34303,2019/20,All Health Authorities,All Facilities,Foreign Body Removal Surgery,47,280,3.1,14.0,21.7,98.0
+34304,2019/20,All Health Authorities,All Facilities,Fracture Repair,191,1587,0.7,8.1,4.8999999999999995,56.699999999999996
+34305,2019/20,All Health Authorities,All Facilities,Free Flap Graft,25,106,3.2,12.4,22.400000000000002,86.8
+34306,2019/20,All Health Authorities,All Facilities,Gastrostomy/Jejunostomy,13,136,2.0,10.5,14.0,73.5
+34307,2019/20,All Health Authorities,All Facilities,Hand/Wrist Surgery,895,2432,6.0,25.9,42.0,181.29999999999998
+34308,2019/20,All Health Authorities,All Facilities,Hernia Repair - Abdominal,4676,12491,8.4,28.0,58.800000000000004,196.0
+34309,2019/20,All Health Authorities,All Facilities,Hernia Repair - Hiatal,168,319,8.4,39.5,58.800000000000004,276.5
+34310,2019/20,All Health Authorities,All Facilities,Hip Replacement,3307,7430,14.1,40.7,98.7,284.90000000000003
+34311,2019/20,All Health Authorities,All Facilities,Kidney/Bladder Stone Removal,492,2344,4.9,13.9,34.300000000000004,97.3
+34312,2019/20,All Health Authorities,All Facilities,Knee - ACL Repair,878,1878,8.9,32.1,62.300000000000004,224.70000000000002
+34313,2019/20,All Health Authorities,All Facilities,Knee - Meniscectomy,429,1623,7.7,29.5,53.9,206.5
+34314,2019/20,All Health Authorities,All Facilities,Knee Arthroscopy,1361,2738,7.2,29.0,50.4,203.0
+34315,2019/20,All Health Authorities,All Facilities,Knee Replacement,6499,11207,17.1,45.9,119.70000000000002,321.3
+34316,2019/20,All Health Authorities,All Facilities,Laparoscopy,299,973,5.9,21.3,41.300000000000004,149.1
+34317,2019/20,All Health Authorities,All Facilities,Laparotomy,45,309,3.0,11.6,21.0,81.2
+34318,2019/20,All Health Authorities,All Facilities,Lens & Vitreous (non-cataract) Surgery,1344,3779,4.0,24.3,28.0,170.1
+34319,2019/20,All Health Authorities,All Facilities,Ligament Surgery,138,286,3.8,30.3,26.599999999999998,212.1
+34320,2019/20,All Health Authorities,All Facilities,Lipectomy,59,48,12.6,44.0,88.2,308.0
+34321,2019/20,All Health Authorities,All Facilities,Lung Surgery,80,768,2.1,5.9,14.700000000000001,41.300000000000004
+34322,2019/20,All Health Authorities,All Facilities,Male Reproductive Surgery,945,2376,6.4,25.6,44.800000000000004,179.20000000000002
+34323,2019/20,All Health Authorities,All Facilities,Mastectomy,475,4292,2.9,7.0,20.3,49.0
+34324,2019/20,All Health Authorities,All Facilities,Mastoidectomy,145,261,10.7,50.6,74.89999999999999,354.2
+34325,2019/20,All Health Authorities,All Facilities,Myringotomy,450,1379,5.3,18.1,37.1,126.70000000000002
+34326,2019/20,All Health Authorities,All Facilities,Nasal Surgery,2397,3093,14.1,50.1,98.7,350.7
+34327,2019/20,All Health Authorities,All Facilities,Nerve Surgery,576,987,5.0,34.6,35.0,242.20000000000002
+34328,2019/20,All Health Authorities,All Facilities,Oral Cavity & Pharynx Surgery,145,413,7.3,34.4,51.1,240.79999999999998
+34329,2019/20,All Health Authorities,All Facilities,Other Ear Surgery,153,206,9.7,55.9,67.89999999999999,391.3
+34330,2019/20,All Health Authorities,All Facilities,Other Eye Surgery,2080,5284,5.7,24.1,39.9,168.70000000000002
+34331,2019/20,All Health Authorities,All Facilities,Other Joint Reconstruction,1352,2070,12.0,39.0,84.0,273.0
+34332,2019/20,All Health Authorities,All Facilities,Other Orthopaedic Surgery,2481,6320,7.0,32.0,49.0,224.0
+34333,2019/20,All Health Authorities,All Facilities,Other Urology Surgery,1339,6731,4.0,15.4,28.0,107.8
+34334,2019/20,All Health Authorities,All Facilities,Parotidectomy,246,395,9.7,39.3,67.89999999999999,275.09999999999997
+34335,2019/20,All Health Authorities,All Facilities,Prostate Surgery,1429,5481,5.6,23.6,39.199999999999996,165.20000000000002
+34336,2019/20,All Health Authorities,All Facilities,Rectal Surgery,819,1699,8.9,32.4,62.300000000000004,226.79999999999998
+34337,2019/20,All Health Authorities,All Facilities,Rib Resection,6,35,14.0,116.9,98.0,818.3000000000001
+34338,2019/20,All Health Authorities,All Facilities,Scope of Chest,45,570,3.0,8.3,21.0,58.10000000000001
+34339,2019/20,All Health Authorities,All Facilities,Shoulder Surgery,2194,3335,11.9,40.1,83.3,280.7
+34340,2019/20,All Health Authorities,All Facilities,Shunt Insertion/Removal,6,28,4.0,10.6,28.0,74.2
+34341,2019/20,All Health Authorities,All Facilities,Sinus Surgery,1657,1921,18.0,52.1,126.0,364.7
+34342,2019/20,All Health Authorities,All Facilities,Skin Surgery,443,798,7.1,40.9,49.699999999999996,286.3
+34343,2019/20,All Health Authorities,All Facilities,Skin Tumour Removal,954,3470,4.0,18.3,28.0,128.1
+34344,2019/20,All Health Authorities,All Facilities,Sphincterotomy,45,109,6.4,29.3,44.800000000000004,205.1
+34345,2019/20,All Health Authorities,All Facilities,Spinal/Back Surgery,2104,3745,8.1,38.1,56.699999999999996,266.7
+34346,2019/20,All Health Authorities,All Facilities,Tendon Surgery,374,902,4.1,32.8,28.699999999999996,229.59999999999997
+34347,2019/20,All Health Authorities,All Facilities,Thoracotomy,23,136,1.9,8.1,13.299999999999999,56.699999999999996
+34348,2019/20,All Health Authorities,All Facilities,Thyroidectomy,439,1160,8.3,31.4,58.10000000000001,219.79999999999998
+34349,2019/20,All Health Authorities,All Facilities,Tonsillectomy/Adenoidectomy,1602,3289,10.9,38.5,76.3,269.5
+34350,2019/20,All Health Authorities,All Facilities,Tympanoplasty,543,583,14.1,52.7,98.7,368.90000000000003
+34351,2019/20,All Health Authorities,All Facilities,Uterine Surgery,3688,13859,5.9,20.9,41.300000000000004,146.29999999999998
+34352,2019/20,All Health Authorities,All Facilities,Vaginal Repair,660,1426,8.4,29.8,58.800000000000004,208.6
+34353,2019/20,All Health Authorities,All Facilities,Varicose Veins Ligation/Stripping,1444,1368,18.7,73.0,130.9,511.0
+34354,2019/20,All Health Authorities,All Facilities,Vascular Bypass Graft - Non Cardiac,116,547,2.7,15.0,18.900000000000002,105.0
+34355,2019/20,All Health Authorities,All Facilities,Vascular Surgery - Other,350,1627,2.9,13.3,20.3,93.10000000000001
+34356,2019/20,All Health Authorities,All Facilities,Wound/Laceration Care,279,1078,3.0,22.3,21.0,156.1

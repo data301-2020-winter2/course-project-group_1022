@@ -1,0 +1,643 @@
+,year,h_a,hosp,prcd,waiting,comp,wait_med,wait_90,wait_median_d,wait_90_d
+87,2009/10,Fraser,Abbotsford Regional Hospital And Cancer Centre,All Procedures,2376,5041,7.3,30.3,51.1,212.1
+241,2009/10,Fraser,Burnaby Hospital,All Procedures,2881,7173,6.4,33.0,44.800000000000004,231.0
+310,2009/10,Fraser,Chilliwack General Hospital,All Procedures,2473,7830,10.0,28.0,70.0,196.0
+372,2009/10,Fraser,Delta Hospital,All Procedures,981,4431,2.7,17.0,18.900000000000002,119.0
+428,2009/10,Fraser,Eagle Ridge Hospital,All Procedures,2671,5328,6.7,24.4,46.9,170.79999999999998
+496,2009/10,Fraser,Langley Memorial Hospital,All Procedures,1510,6234,6.0,28.3,42.0,198.1
+555,2009/10,Fraser,Mission Memorial Hospital,All Procedures,0,405,6.0,36.1,42.0,252.70000000000002
+590,2009/10,Fraser,Peace Arch Hospital,All Procedures,1846,3101,8.7,41.1,60.89999999999999,287.7
+650,2009/10,Fraser,Ridge Meadows Hospital,All Procedures,2194,6487,6.9,31.6,48.300000000000004,221.20000000000002
+706,2009/10,Fraser,Royal Columbian Hospital,All Procedures,1135,3976,2.1,13.5,14.700000000000001,94.5
+776,2009/10,Fraser,Surrey Memorial Hospital,All Procedures,4801,11929,5.3,24.7,37.1,172.9
+854,2009/10,Interior,100 Mile District General Hospital,All Procedures,11,33,14.1,26.5,98.7,185.5
+943,2009/10,Interior,Cariboo Memorial Hospital,All Procedures,73,1404,2.3,6.0,16.099999999999998,42.0
+980,2009/10,Interior,Creston Valley Hospital,All Procedures,8,44,4.5,15.6,31.5,109.2
+990,2009/10,Interior,East Kootenay Regional Hospital,All Procedures,1001,3573,5.4,19.0,37.800000000000004,133.0
+1051,2009/10,Interior,Elk Valley Hospital,All Procedures,44,135,6.7,17.7,46.9,123.89999999999999
+1071,2009/10,Interior,Golden And District General Hospital,All Procedures,25,187,1.1,2.4,7.700000000000001,16.8
+1089,2009/10,Interior,Kelowna General Hospital,All Procedures,4053,10397,6.0,26.3,42.0,184.1
+1172,2009/10,Interior,Kootenay Boundary Regional Hospital,All Procedures,1252,3179,7.1,27.3,49.699999999999996,191.1
+1237,2009/10,Interior,Kootenay Lake Hospital,All Procedures,129,737,5.7,14.8,39.9,103.60000000000001
+1267,2009/10,Interior,Lillooet Hospital And Health Centre,All Procedures,8,33,6.9,32.3,48.300000000000004,226.09999999999997
+1275,2009/10,Interior,Penticton Regional Hospital,All Procedures,923,3412,3.6,22.0,25.2,154.0
+1337,2009/10,Interior,Pleasant Valley Health Centre,All Procedures,402,1822,7.0,17.4,49.0,121.79999999999998
+1343,2009/10,Interior,Queen Victoria Hospital,All Procedures,23,140,6.0,16.7,42.0,116.89999999999999
+1367,2009/10,Interior,Royal Inland Hospital,All Procedures,5046,8011,10.3,37.0,72.10000000000001,259.0
+1444,2009/10,Interior,Shuswap Lake General Hospital,All Procedures,252,954,6.3,16.1,44.1,112.70000000000002
+1485,2009/10,Interior,Summerland Memorial Health Centre,All Procedures,368,1898,2.0,8.3,14.0,58.10000000000001
+1504,2009/10,Interior,Vernon Jubilee Hospital,All Procedures,1205,4412,6.6,25.4,46.199999999999996,177.79999999999998
+1643,2009/10,Northern,Bulkley Valley District Hospital,All Procedures,151,356,8.7,35.2,60.89999999999999,246.40000000000003
+1680,2009/10,Northern,Dawson Creek And District Hospital,All Procedures,311,1081,5.0,21.0,35.0,147.0
+1731,2009/10,Northern,Fort Nelson General Hospital,All Procedures,0,20,0.1,0.5,0.7000000000000001,3.5
+1737,2009/10,Northern,Fort St John General Hospital,All Procedures,492,1795,5.9,27.3,41.300000000000004,191.1
+1789,2009/10,Northern,G.R. Baker Memorial Hospital,All Procedures,421,1955,3.1,22.1,21.7,154.70000000000002
+1838,2009/10,Northern,Kitimat General Hospital,All Procedures,92,529,5.7,29.7,39.9,207.9
+1877,2009/10,Northern,Lakes District Hospital And Health Centre,All Procedures,0,6,0.0,0.0,0.0,0.0
+1880,2009/10,Northern,Mills Memorial Hospital,All Procedures,128,997,2.4,11.5,16.8,80.5
+1919,2009/10,Northern,Prince Rupert Regional Hospital,All Procedures,16,588,2.4,7.7,16.8,53.9
+1963,2009/10,Northern,St. John Hospital,All Procedures,264,1007,8.7,26.6,60.89999999999999,186.20000000000002
+2002,2009/10,Northern,The University Hospital Of Northern British Columbia,All Procedures,2625,5428,6.4,46.9,44.800000000000004,328.3
+2075,2009/10,Northern,Wrinch Memorial Hospital,All Procedures,25,88,8.1,20.9,56.699999999999996,146.29999999999998
+2123,2009/10,Provincial Health Services Authority,B.C. Cancer Agency,All Procedures,38,511,2.3,8.3,16.099999999999998,58.10000000000001
+2158,2009/10,Provincial Health Services Authority,B.C. Women'S Hospital,All Procedures,283,1511,5.7,14.0,39.9,98.0
+2256,2009/10,Vancouver Coastal,Lions Gate Hospital,All Procedures,2074,9188,3.9,16.9,27.3,118.29999999999998
+2324,2009/10,Vancouver Coastal,Mount Saint Joseph Hospital,All Procedures,1923,10458,3.7,12.9,25.900000000000002,90.3
+2380,2009/10,Vancouver Coastal,Powell River General Hospital,All Procedures,155,962,5.9,14.7,41.300000000000004,102.89999999999999
+2419,2009/10,Vancouver Coastal,Richmond Hospital,All Procedures,2241,5912,6.1,27.3,42.699999999999996,191.1
+2485,2009/10,Vancouver Coastal,Sechelt Hospital,All Procedures,48,681,3.1,17.0,21.7,119.0
+2518,2009/10,Vancouver Coastal,Squamish General Hospital,All Procedures,254,712,3.9,19.1,27.3,133.70000000000002
+2565,2009/10,Vancouver Coastal,St. Paul'S Hospital,All Procedures,2574,6761,3.9,20.1,27.3,140.70000000000002
+2636,2009/10,Vancouver Coastal,Ubc Health Sciences Centre,All Procedures,3353,10048,5.0,21.7,35.0,151.9
+2704,2009/10,Vancouver Coastal,Vancouver General Hospital,All Procedures,2888,12574,4.1,20.1,28.699999999999996,140.70000000000002
+2867,2009/10,Vancouver Island,Campbell River And District General Hospital,All Procedures,729,2680,7.4,24.7,51.800000000000004,172.9
+2929,2009/10,Vancouver Island,Cowichan District Hospital,All Procedures,805,3560,6.1,19.9,42.699999999999996,139.29999999999998
+2990,2009/10,Vancouver Island,Nanaimo Regional General Hospital,All Procedures,3135,9084,7.6,26.4,53.199999999999996,184.79999999999998
+3059,2009/10,Vancouver Island,Royal Jubilee Hospital,All Procedures,3541,10847,4.9,19.9,34.300000000000004,139.29999999999998
+3130,2009/10,Vancouver Island,Saanich Peninsula Hospital,All Procedures,570,2405,6.6,20.9,46.199999999999996,146.29999999999998
+3182,2009/10,Vancouver Island,St. Joseph'S General Hospital,All Procedures,1682,4543,5.4,21.0,37.800000000000004,147.0
+3243,2009/10,Vancouver Island,Victoria General Hospital,All Procedures,3105,9699,5.3,20.9,37.1,146.29999999999998
+3313,2009/10,Vancouver Island,West Coast General Hospital,All Procedures,255,992,5.9,25.0,41.300000000000004,175.0
+3441,2010/11,Fraser,Abbotsford Regional Hospital And Cancer Centre,All Procedures,2051,5901,7.3,37.9,51.1,265.3
+3595,2010/11,Fraser,Burnaby Hospital,All Procedures,3637,7017,9.6,32.0,67.2,224.0
+3661,2010/11,Fraser,Chilliwack General Hospital,All Procedures,2465,8127,9.0,25.1,63.0,175.70000000000002
+3724,2010/11,Fraser,Delta Hospital,All Procedures,778,4571,2.7,16.1,18.900000000000002,112.70000000000002
+3781,2010/11,Fraser,Eagle Ridge Hospital,All Procedures,2503,5426,8.7,33.1,60.89999999999999,231.70000000000002
+3848,2010/11,Fraser,Langley Memorial Hospital,All Procedures,1874,5153,8.9,26.7,62.300000000000004,186.9
+3943,2010/11,Fraser,Peace Arch Hospital,All Procedures,2160,3295,9.9,39.9,69.3,279.3
+4003,2010/11,Fraser,Ridge Meadows Hospital,All Procedures,2567,6762,7.0,28.0,49.0,196.0
+4062,2010/11,Fraser,Royal Columbian Hospital,All Procedures,1230,3900,2.4,19.7,16.8,137.9
+4130,2010/11,Fraser,Surrey Memorial Hospital,All Procedures,5399,12305,7.7,28.3,53.9,198.1
+4207,2010/11,Interior,100 Mile District General Hospital,All Procedures,14,31,13.3,23.3,93.10000000000001,163.1
+4297,2010/11,Interior,Cariboo Memorial Hospital,All Procedures,92,1396,2.4,6.0,16.8,42.0
+4335,2010/11,Interior,Creston Valley Hospital,All Procedures,12,53,5.0,17.0,35.0,119.0
+4344,2010/11,Interior,East Kootenay Regional Hospital,All Procedures,955,3620,4.6,22.1,32.199999999999996,154.70000000000002
+4404,2010/11,Interior,Elk Valley Hospital,All Procedures,57,176,9.2,23.7,64.39999999999999,165.9
+4424,2010/11,Interior,Golden And District General Hospital,All Procedures,3,174,1.9,9.0,13.299999999999999,63.0
+4442,2010/11,Interior,Kelowna General Hospital,All Procedures,3650,11144,6.4,30.1,44.800000000000004,210.70000000000002
+4525,2010/11,Interior,Kootenay Boundary Regional Hospital,All Procedures,1254,3132,6.6,32.9,46.199999999999996,230.29999999999998
+4589,2010/11,Interior,Kootenay Lake Hospital,All Procedures,87,909,3.7,12.9,25.900000000000002,90.3
+4624,2010/11,Interior,Lillooet Hospital And Health Centre,All Procedures,11,31,11.1,27.0,77.7,189.0
+4632,2010/11,Interior,Penticton Regional Hospital,All Procedures,831,3404,4.0,20.5,28.0,143.5
+4692,2010/11,Interior,Pleasant Valley Health Centre,All Procedures,325,1900,6.3,12.3,44.1,86.10000000000001
+4698,2010/11,Interior,Queen Victoria Hospital,All Procedures,29,142,4.7,13.3,32.9,93.10000000000001
+4719,2010/11,Interior,Royal Inland Hospital,All Procedures,4436,8963,9.9,46.0,69.3,322.0
+4795,2010/11,Interior,Shuswap Lake General Hospital,All Procedures,183,1012,6.0,17.3,42.0,121.10000000000001
+4843,2010/11,Interior,Summerland Memorial Health Centre,All Procedures,384,1883,3.3,16.1,23.099999999999998,112.70000000000002
+4859,2010/11,Interior,Vernon Jubilee Hospital,All Procedures,1559,4306,6.1,27.4,42.699999999999996,191.79999999999998
+5000,2010/11,Northern,Bulkley Valley District Hospital,All Procedures,141,398,8.9,35.4,62.300000000000004,247.79999999999998
+5039,2010/11,Northern,Dawson Creek And District Hospital,All Procedures,297,1098,7.1,21.0,49.699999999999996,147.0
+5088,2010/11,Northern,Fort Nelson General Hospital,All Procedures,0,17,0.1,0.3,0.7000000000000001,2.1
+5094,2010/11,Northern,Fort St John General Hospital,All Procedures,448,1391,7.9,31.6,55.300000000000004,221.20000000000002
+5146,2010/11,Northern,G.R. Baker Memorial Hospital,All Procedures,341,2110,4.1,20.1,28.699999999999996,140.70000000000002
+5192,2010/11,Northern,Kitimat General Hospital,All Procedures,107,538,5.1,24.1,35.699999999999996,168.70000000000002
+5230,2010/11,Northern,Mills Memorial Hospital,All Procedures,115,1360,0.0,8.9,0.0,62.300000000000004
+5275,2010/11,Northern,Prince Rupert Regional Hospital,All Procedures,51,704,1.3,7.7,9.1,53.9
+5322,2010/11,Northern,St. John Hospital,All Procedures,247,1040,8.9,24.7,62.300000000000004,172.9
+5368,2010/11,Northern,The University Hospital Of Northern British Columbia,All Procedures,1982,5586,6.3,50.1,44.1,350.7
+5444,2010/11,Northern,Wrinch Memorial Hospital,All Procedures,18,100,6.4,21.9,44.800000000000004,153.29999999999998
+5524,2010/11,Provincial Health Services Authority,B.C. Cancer Agency,All Procedures,58,534,2.6,7.4,18.2,51.800000000000004
+5587,2010/11,Provincial Health Services Authority,B.C. Women'S Hospital,All Procedures,329,1601,4.9,13.0,34.300000000000004,91.0
+5685,2010/11,Vancouver Coastal,Lions Gate Hospital,All Procedures,2636,9306,5.6,18.6,39.199999999999996,130.20000000000002
+5755,2010/11,Vancouver Coastal,Mount Saint Joseph Hospital,All Procedures,1739,10642,3.0,12.4,21.0,86.8
+5813,2010/11,Vancouver Coastal,Powell River General Hospital,All Procedures,145,911,4.1,10.1,28.699999999999996,70.7
+5854,2010/11,Vancouver Coastal,Richmond Hospital,All Procedures,1974,6009,7.9,26.6,55.300000000000004,186.20000000000002
+5920,2010/11,Vancouver Coastal,Sechelt Hospital,All Procedures,65,580,2.6,7.0,18.2,49.0
+5953,2010/11,Vancouver Coastal,Squamish General Hospital,All Procedures,265,805,3.9,15.6,27.3,109.2
+5998,2010/11,Vancouver Coastal,St. Paul'S Hospital,All Procedures,3161,6765,3.3,21.6,23.099999999999998,151.20000000000002
+6066,2010/11,Vancouver Coastal,Ubc Health Sciences Centre,All Procedures,3911,9610,4.9,23.3,34.300000000000004,163.1
+6133,2010/11,Vancouver Coastal,Vancouver General Hospital,All Procedures,2701,13553,4.0,18.3,28.0,128.1
+6298,2010/11,Vancouver Island,Campbell River And District General Hospital,All Procedures,561,2771,6.9,22.9,48.300000000000004,160.29999999999998
+6361,2010/11,Vancouver Island,Cowichan District Hospital,All Procedures,1094,3551,6.1,20.6,42.699999999999996,144.20000000000002
+6418,2010/11,Vancouver Island,Nanaimo Regional General Hospital,All Procedures,2677,9799,8.0,28.6,56.0,200.20000000000002
+6489,2010/11,Vancouver Island,Royal Jubilee Hospital,All Procedures,4376,11898,5.1,22.4,35.699999999999996,156.79999999999998
+6564,2010/11,Vancouver Island,Saanich Peninsula Hospital,All Procedures,644,2549,6.1,18.9,42.699999999999996,132.29999999999998
+6619,2010/11,Vancouver Island,St. Joseph'S General Hospital,All Procedures,1443,5152,8.3,29.0,58.10000000000001,203.0
+6681,2010/11,Vancouver Island,Victoria General Hospital,All Procedures,3396,9598,6.0,25.0,42.0,175.0
+6752,2010/11,Vancouver Island,West Coast General Hospital,All Procedures,265,965,6.0,23.0,42.0,161.0
+6877,2011/12,Fraser,Abbotsford Regional Hospital And Cancer Centre,All Procedures,1793,5636,7.9,35.6,55.300000000000004,249.20000000000002
+7027,2011/12,Fraser,Burnaby Hospital,All Procedures,3961,6957,12.3,39.0,86.10000000000001,273.0
+7091,2011/12,Fraser,Chilliwack General Hospital,All Procedures,1515,8305,6.0,22.4,42.0,156.79999999999998
+7153,2011/12,Fraser,Delta Hospital,All Procedures,880,4727,2.6,12.7,18.2,88.89999999999999
+7204,2011/12,Fraser,Eagle Ridge Hospital,All Procedures,2062,5313,6.4,28.9,44.800000000000004,202.29999999999998
+7270,2011/12,Fraser,Langley Memorial Hospital,All Procedures,1744,5493,8.4,28.3,58.800000000000004,198.1
+7331,2011/12,Fraser,Pattison Outpatient Centre,All Procedures,1253,1814,6.1,30.3,42.699999999999996,212.1
+7381,2011/12,Fraser,Peace Arch Hospital,All Procedures,1752,3320,8.6,44.9,60.199999999999996,314.3
+7440,2011/12,Fraser,Ridge Meadows Hospital,All Procedures,1578,6751,7.4,32.1,51.800000000000004,224.70000000000002
+7495,2011/12,Fraser,Royal Columbian Hospital,All Procedures,1101,3263,3.6,18.6,25.2,130.20000000000002
+7563,2011/12,Fraser,Surrey Memorial Hospital,All Procedures,5092,9979,7.9,30.4,55.300000000000004,212.79999999999998
+7638,2011/12,Interior,100 Mile District General Hospital,All Procedures,11,40,16.3,33.6,114.10000000000001,235.20000000000002
+7727,2011/12,Interior,Cariboo Memorial Hospital,All Procedures,113,1395,2.6,6.0,18.2,42.0
+7763,2011/12,Interior,Creston Valley Hospital,All Procedures,17,66,3.4,9.8,23.8,68.60000000000001
+7772,2011/12,Interior,East Kootenay Regional Hospital,All Procedures,1003,3708,4.0,23.1,28.0,161.70000000000002
+7834,2011/12,Interior,Elk Valley Hospital,All Procedures,57,178,7.7,17.6,53.9,123.20000000000002
+7857,2011/12,Interior,Golden And District General Hospital,All Procedures,3,152,1.3,2.8,9.1,19.599999999999998
+7874,2011/12,Interior,Kelowna General Hospital,All Procedures,3578,11330,6.3,26.9,44.1,188.29999999999998
+7955,2011/12,Interior,Kootenay Boundary Regional Hospital,All Procedures,1522,3138,6.7,31.6,46.9,221.20000000000002
+8021,2011/12,Interior,Kootenay Lake Hospital,All Procedures,168,741,4.3,16.7,30.099999999999998,116.89999999999999
+8052,2011/12,Interior,Lillooet Hospital And Health Centre,All Procedures,16,26,11.0,20.6,77.0,144.20000000000002
+8062,2011/12,Interior,Penticton Regional Hospital,All Procedures,826,3396,4.1,21.8,28.699999999999996,152.6
+8123,2011/12,Interior,Pleasant Valley Health Centre,All Procedures,254,1940,5.1,13.9,35.699999999999996,97.3
+8129,2011/12,Interior,Queen Victoria Hospital,All Procedures,35,136,6.0,12.1,42.0,84.7
+8152,2011/12,Interior,Royal Inland Hospital,All Procedures,4119,9063,8.7,41.1,60.89999999999999,287.7
+8228,2011/12,Interior,Shuswap Lake General Hospital,All Procedures,223,971,6.0,18.9,42.0,132.29999999999998
+8276,2011/12,Interior,Summerland Memorial Health Centre,All Procedures,305,2182,2.7,13.0,18.900000000000002,91.0
+8294,2011/12,Interior,Vernon Jubilee Hospital,All Procedures,2213,3784,7.9,32.9,55.300000000000004,230.29999999999998
+8435,2011/12,Northern,Bulkley Valley District Hospital,All Procedures,103,427,5.4,24.4,37.800000000000004,170.79999999999998
+8476,2011/12,Northern,Dawson Creek And District Hospital,All Procedures,305,1138,7.1,24.6,49.699999999999996,172.20000000000002
+8525,2011/12,Northern,Fort Nelson General Hospital,All Procedures,0,8,1.1,3.3,7.700000000000001,23.099999999999998
+8530,2011/12,Northern,Fort St John General Hospital,All Procedures,308,1315,5.9,26.9,41.300000000000004,188.29999999999998
+8582,2011/12,Northern,G.R. Baker Memorial Hospital,All Procedures,285,1895,4.4,14.9,30.800000000000004,104.3
+8627,2011/12,Northern,Kitimat General Hospital,All Procedures,133,624,5.3,21.7,37.1,151.9
+8663,2011/12,Northern,Mills Memorial Hospital,All Procedures,315,1695,4.9,12.7,34.300000000000004,88.89999999999999
+8710,2011/12,Northern,Prince Rupert Regional Hospital,All Procedures,164,1467,2.1,8.1,14.700000000000001,56.699999999999996
+8761,2011/12,Northern,St. John Hospital,All Procedures,263,1135,6.7,17.6,46.9,123.20000000000002
+8806,2011/12,Northern,The University Hospital Of Northern British Columbia,All Procedures,1827,5429,7.0,34.0,49.0,238.0
+8883,2011/12,Northern,Wrinch Memorial Hospital,All Procedures,21,73,8.3,21.8,58.10000000000001,152.6
+8972,2011/12,Provincial Health Services Authority,B.C. Cancer Agency,All Procedures,46,535,2.1,7.3,14.700000000000001,51.1
+8984,2011/12,Provincial Health Services Authority,B.C. Children'S Hospital,All Procedures,1541,6145,5.1,25.3,35.699999999999996,177.1
+9050,2011/12,Provincial Health Services Authority,B.C. Women'S Hospital,All Procedures,460,1635,5.0,14.2,35.0,99.39999999999999
+9149,2011/12,Vancouver Coastal,Lions Gate Hospital,All Procedures,2481,9967,6.1,22.7,42.699999999999996,158.9
+9218,2011/12,Vancouver Coastal,Mount Saint Joseph Hospital,All Procedures,1918,10412,3.1,12.0,21.7,84.0
+9273,2011/12,Vancouver Coastal,Powell River General Hospital,All Procedures,96,889,4.1,10.3,28.699999999999996,72.10000000000001
+9313,2011/12,Vancouver Coastal,Richmond Hospital,All Procedures,2141,6352,6.9,24.4,48.300000000000004,170.79999999999998
+9378,2011/12,Vancouver Coastal,Sechelt Hospital,All Procedures,101,670,2.1,7.9,14.700000000000001,55.300000000000004
+9411,2011/12,Vancouver Coastal,Squamish General Hospital,All Procedures,251,844,3.1,13.0,21.7,91.0
+9456,2011/12,Vancouver Coastal,St. Paul'S Hospital,All Procedures,3719,7021,4.0,26.7,28.0,186.9
+9527,2011/12,Vancouver Coastal,Ubc Health Sciences Centre,All Procedures,4090,9405,5.9,26.6,41.300000000000004,186.20000000000002
+9595,2011/12,Vancouver Coastal,Vancouver General Hospital,All Procedures,2960,13813,3.7,16.0,25.900000000000002,112.0
+9759,2011/12,Vancouver Island,Campbell River And District General Hospital,All Procedures,845,2620,7.0,18.9,49.0,132.29999999999998
+9824,2011/12,Vancouver Island,Cowichan District Hospital,All Procedures,979,3662,7.6,27.6,53.199999999999996,193.20000000000002
+9888,2011/12,Vancouver Island,Nanaimo Regional General Hospital,All Procedures,2851,9650,8.0,25.1,56.0,175.70000000000002
+9960,2011/12,Vancouver Island,Royal Jubilee Hospital,All Procedures,4345,12149,6.3,24.9,44.1,174.29999999999998
+10034,2011/12,Vancouver Island,Saanich Peninsula Hospital,All Procedures,870,2459,7.6,22.0,53.199999999999996,154.0
+10089,2011/12,Vancouver Island,St. Joseph'S General Hospital,All Procedures,1141,5090,6.7,27.1,46.9,189.70000000000002
+10153,2011/12,Vancouver Island,Victoria General Hospital,All Procedures,3700,9581,6.3,25.7,44.1,179.9
+10223,2011/12,Vancouver Island,West Coast General Hospital,All Procedures,246,1013,5.1,21.0,35.699999999999996,147.0
+10347,2012/13,Fraser,Abbotsford Regional Hospital And Cancer Centre,All Procedures,1999,4689,5.9,28.7,41.300000000000004,200.9
+10499,2012/13,Fraser,Burnaby Hospital,All Procedures,3953,6610,12.7,40.3,88.89999999999999,282.09999999999997
+10566,2012/13,Fraser,Chilliwack General Hospital,All Procedures,1533,8053,4.3,15.9,30.099999999999998,111.3
+10631,2012/13,Fraser,Delta Hospital,All Procedures,1127,4483,3.7,16.0,25.900000000000002,112.0
+10683,2012/13,Fraser,Eagle Ridge Hospital,All Procedures,2216,5612,6.6,24.9,46.199999999999996,174.29999999999998
+10750,2012/13,Fraser,Langley Memorial Hospital,All Procedures,1649,5383,6.1,28.0,42.699999999999996,196.0
+10809,2012/13,Fraser,Pattison Outpatient Centre,All Procedures,1317,2992,7.9,31.3,55.300000000000004,219.1
+10864,2012/13,Fraser,Peace Arch Hospital,All Procedures,1778,3251,7.6,38.1,53.199999999999996,266.7
+10926,2012/13,Fraser,Ridge Meadows Hospital,All Procedures,1540,5967,5.1,24.0,35.699999999999996,168.0
+10981,2012/13,Fraser,Royal Columbian Hospital,All Procedures,1043,3068,3.7,16.9,25.900000000000002,118.29999999999998
+11050,2012/13,Fraser,Surrey Memorial Hospital,All Procedures,4195,9243,8.3,36.4,58.10000000000001,254.79999999999998
+11127,2012/13,Interior,100 Mile District General Hospital,All Procedures,20,38,8.4,30.5,58.800000000000004,213.5
+11219,2012/13,Interior,Cariboo Memorial Hospital,All Procedures,97,1328,2.6,6.3,18.2,44.1
+11258,2012/13,Interior,Creston Valley Hospital,All Procedures,10,83,3.3,9.0,23.099999999999998,63.0
+11268,2012/13,Interior,East Kootenay Regional Hospital,All Procedures,980,3240,4.6,28.1,32.199999999999996,196.70000000000002
+11327,2012/13,Interior,Elk Valley Hospital,All Procedures,40,173,6.9,19.5,48.300000000000004,136.5
+11343,2012/13,Interior,Golden And District General Hospital,All Procedures,8,135,1.0,1.9,7.0,13.299999999999999
+11357,2012/13,Interior,Kelowna General Hospital,All Procedures,3327,11360,6.4,26.6,44.800000000000004,186.20000000000002
+11439,2012/13,Interior,Kootenay Boundary Regional Hospital,All Procedures,1450,2604,7.9,38.9,55.300000000000004,272.3
+11507,2012/13,Interior,Kootenay Lake Hospital,All Procedures,582,1052,5.0,15.7,35.0,109.89999999999999
+11536,2012/13,Interior,Lillooet Hospital And Health Centre,All Procedures,14,37,7.3,23.6,51.1,165.20000000000002
+11546,2012/13,Interior,Penticton Regional Hospital,All Procedures,651,3231,4.7,19.7,32.9,137.9
+11608,2012/13,Interior,Pleasant Valley Health Centre,All Procedures,533,1971,2.9,11.7,20.3,81.89999999999999
+11614,2012/13,Interior,Queen Victoria Hospital,All Procedures,36,156,4.1,13.3,28.699999999999996,93.10000000000001
+11638,2012/13,Interior,Royal Inland Hospital,All Procedures,3768,8999,7.4,40.9,51.800000000000004,286.3
+11714,2012/13,Interior,Shuswap Lake General Hospital,All Procedures,230,1050,6.0,16.2,42.0,113.39999999999999
+11756,2012/13,Interior,Summerland Memorial Health Centre,All Procedures,253,2029,1.7,9.9,11.9,69.3
+11775,2012/13,Interior,Vernon Jubilee Hospital,All Procedures,1982,4009,9.7,42.4,67.89999999999999,296.8
+11914,2012/13,Northern,Bulkley Valley District Hospital,All Procedures,52,426,5.1,21.6,35.699999999999996,151.20000000000002
+11954,2012/13,Northern,Dawson Creek And District Hospital,All Procedures,240,1269,5.9,17.0,41.300000000000004,119.0
+12000,2012/13,Northern,Fort Nelson General Hospital,All Procedures,0,9,0.1,0.1,0.7000000000000001,0.7000000000000001
+12005,2012/13,Northern,Fort St John General Hospital,All Procedures,470,1096,7.7,22.3,53.9,156.1
+12058,2012/13,Northern,G.R. Baker Memorial Hospital,All Procedures,291,1627,4.0,13.3,28.0,93.10000000000001
+12105,2012/13,Northern,Kitimat General Hospital,All Procedures,111,630,5.4,22.3,37.800000000000004,156.1
+12147,2012/13,Northern,Mills Memorial Hospital,All Procedures,264,1554,4.4,16.0,30.800000000000004,112.0
+12186,2012/13,Northern,Prince Rupert Regional Hospital,All Procedures,152,1558,2.1,7.4,14.700000000000001,51.800000000000004
+12240,2012/13,Northern,St. John Hospital,All Procedures,250,1041,8.7,20.1,60.89999999999999,140.70000000000002
+12285,2012/13,Northern,The University Hospital Of Northern British Columbia,All Procedures,1701,5294,6.6,37.0,46.199999999999996,259.0
+12360,2012/13,Northern,Wrinch Memorial Hospital,All Procedures,31,40,31.9,59.1,223.29999999999998,413.7
+12445,2012/13,Provincial Health Services Authority,B.C. Cancer Agency,All Procedures,47,427,1.9,6.0,13.299999999999999,42.0
+12458,2012/13,Provincial Health Services Authority,B.C. Children'S Hospital,All Procedures,1521,6478,3.6,20.0,25.2,140.0
+12521,2012/13,Provincial Health Services Authority,B.C. Women'S Hospital,All Procedures,600,1733,4.0,12.6,28.0,88.2
+12619,2012/13,Vancouver Coastal,Lions Gate Hospital,All Procedures,2535,9532,5.9,20.0,41.300000000000004,140.0
+12690,2012/13,Vancouver Coastal,Mount Saint Joseph Hospital,All Procedures,1728,10688,3.0,10.1,21.0,70.7
+12747,2012/13,Vancouver Coastal,Powell River General Hospital,All Procedures,90,777,4.1,9.5,28.699999999999996,66.5
+12786,2012/13,Vancouver Coastal,Richmond Hospital,All Procedures,1628,5824,6.9,25.9,48.300000000000004,181.29999999999998
+12852,2012/13,Vancouver Coastal,Sechelt Hospital,All Procedures,104,676,2.7,11.6,18.900000000000002,81.2
+12885,2012/13,Vancouver Coastal,Squamish General Hospital,All Procedures,238,869,4.0,16.3,28.0,114.10000000000001
+12931,2012/13,Vancouver Coastal,St. Paul'S Hospital,All Procedures,3263,6580,4.1,30.6,28.699999999999996,214.20000000000002
+13001,2012/13,Vancouver Coastal,Ubc Health Sciences Centre,All Procedures,2857,9932,5.1,27.3,35.699999999999996,191.1
+13066,2012/13,Vancouver Coastal,Vancouver General Hospital,All Procedures,2873,13658,3.9,15.7,27.3,109.89999999999999
+13229,2012/13,Vancouver Island,Campbell River And District General Hospital,All Procedures,1118,2592,9.1,27.1,63.699999999999996,189.70000000000002
+13294,2012/13,Vancouver Island,Cowichan District Hospital,All Procedures,1029,3670,5.1,23.4,35.699999999999996,163.79999999999998
+13358,2012/13,Vancouver Island,Nanaimo Regional General Hospital,All Procedures,3153,9187,8.4,26.9,58.800000000000004,188.29999999999998
+13429,2012/13,Vancouver Island,Royal Jubilee Hospital,All Procedures,4688,12183,6.6,25.9,46.199999999999996,181.29999999999998
+13504,2012/13,Vancouver Island,Saanich Peninsula Hospital,All Procedures,928,2438,9.1,27.7,63.699999999999996,193.9
+13558,2012/13,Vancouver Island,St. Joseph'S General Hospital,All Procedures,1408,4711,5.9,24.3,41.300000000000004,170.1
+13620,2012/13,Vancouver Island,Victoria General Hospital,All Procedures,3515,9773,6.1,27.0,42.699999999999996,189.0
+13691,2012/13,Vancouver Island,West Coast General Hospital,All Procedures,151,935,4.6,20.2,32.199999999999996,141.4
+13812,2013/14,Fraser,Abbotsford Regional Hospital And Cancer Centre,All Procedures,1705,5289,5.9,35.9,41.300000000000004,251.29999999999998
+13965,2013/14,Fraser,Burnaby Hospital,All Procedures,3609,6744,11.3,44.8,79.10000000000001,313.59999999999997
+14030,2013/14,Fraser,Chilliwack General Hospital,All Procedures,1740,8069,5.1,15.6,35.699999999999996,109.2
+14094,2013/14,Fraser,Delta Hospital,All Procedures,1038,4558,4.0,18.9,28.0,132.29999999999998
+14150,2013/14,Fraser,Eagle Ridge Hospital,All Procedures,2026,5771,6.9,24.9,48.300000000000004,174.29999999999998
+14217,2013/14,Fraser,Langley Memorial Hospital,All Procedures,1674,5172,6.9,30.6,48.300000000000004,214.20000000000002
+14276,2013/14,Fraser,Pattison Outpatient Centre,All Procedures,1569,4015,4.6,21.4,32.199999999999996,149.79999999999998
+14333,2013/14,Fraser,Peace Arch Hospital,All Procedures,1547,3131,8.4,30.6,58.800000000000004,214.20000000000002
+14390,2013/14,Fraser,Ridge Meadows Hospital,All Procedures,1591,5937,6.1,22.1,42.699999999999996,154.70000000000002
+14440,2013/14,Fraser,Royal Columbian Hospital,All Procedures,924,3068,3.3,17.0,23.099999999999998,119.0
+14505,2013/14,Fraser,Surrey Memorial Hospital,All Procedures,4564,8464,9.9,33.9,69.3,237.29999999999998
+14582,2013/14,Interior,100 Mile District General Hospital,All Procedures,16,29,22.3,41.2,156.1,288.40000000000003
+14671,2013/14,Interior,Cariboo Memorial Hospital,All Procedures,86,1176,2.0,5.4,14.0,37.800000000000004
+14706,2013/14,Interior,Creston Valley Hospital,All Procedures,10,84,3.9,10.4,27.3,72.8
+14715,2013/14,Interior,East Kootenay Regional Hospital,All Procedures,925,3415,3.9,27.5,27.3,192.5
+14775,2013/14,Interior,Elk Valley Hospital,All Procedures,51,128,6.1,18.3,42.699999999999996,128.1
+14791,2013/14,Interior,Golden And District General Hospital,All Procedures,3,149,1.3,3.7,9.1,25.900000000000002
+14807,2013/14,Interior,Kelowna General Hospital,All Procedures,3611,11061,6.4,25.1,44.800000000000004,175.70000000000002
+14889,2013/14,Interior,Kootenay Boundary Regional Hospital,All Procedures,864,2654,7.1,48.4,49.699999999999996,338.8
+14955,2013/14,Interior,Kootenay Lake Hospital,All Procedures,607,1337,5.3,33.5,37.1,234.5
+14981,2013/14,Interior,Lillooet Hospital And Health Centre,All Procedures,10,26,11.4,29.6,79.8,207.20000000000002
+14989,2013/14,Interior,Penticton Regional Hospital,All Procedures,843,3156,4.4,20.2,30.800000000000004,141.4
+15046,2013/14,Interior,Pleasant Valley Health Centre,All Procedures,759,2042,3.9,18.0,27.3,126.0
+15052,2013/14,Interior,Queen Victoria Hospital,All Procedures,47,163,5.1,17.7,35.699999999999996,123.89999999999999
+15075,2013/14,Interior,Royal Inland Hospital,All Procedures,3432,8572,7.9,43.3,55.300000000000004,303.09999999999997
+15152,2013/14,Interior,Shuswap Lake General Hospital,All Procedures,212,1112,5.9,17.1,41.300000000000004,119.70000000000002
+15195,2013/14,Interior,Summerland Memorial Health Centre,All Procedures,538,2222,4.0,15.0,28.0,105.0
+15211,2013/14,Interior,Vernon Jubilee Hospital,All Procedures,2024,4071,7.7,42.1,53.9,294.7
+15350,2013/14,Northern,Bulkley Valley District Hospital,All Procedures,51,411,4.1,15.0,28.699999999999996,105.0
+15391,2013/14,Northern,Dawson Creek And District Hospital,All Procedures,349,1182,4.1,10.3,28.699999999999996,72.10000000000001
+15443,2013/14,Northern,Fort St John General Hospital,All Procedures,289,1291,5.9,32.1,41.300000000000004,224.70000000000002
+15497,2013/14,Northern,G.R. Baker Memorial Hospital,All Procedures,175,1416,5.0,16.0,35.0,112.0
+15546,2013/14,Northern,Kitimat General Hospital,All Procedures,101,720,4.7,20.9,32.9,146.29999999999998
+15585,2013/14,Northern,Mills Memorial Hospital,All Procedures,265,1412,4.4,19.1,30.800000000000004,133.70000000000002
+15631,2013/14,Northern,Prince Rupert Regional Hospital,All Procedures,48,1295,2.6,8.9,18.2,62.300000000000004
+15683,2013/14,Northern,St. John Hospital,All Procedures,195,839,9.3,20.9,65.10000000000001,146.29999999999998
+15724,2013/14,Northern,The University Hospital Of Northern British Columbia,All Procedures,1504,5946,5.5,30.1,38.5,210.70000000000002
+15800,2013/14,Northern,Wrinch Memorial Hospital,All Procedures,16,89,8.9,52.8,62.300000000000004,369.59999999999997
+15884,2013/14,Provincial Health Services Authority,B.C. Cancer Agency,All Procedures,33,476,1.7,6.1,11.9,42.699999999999996
+15897,2013/14,Provincial Health Services Authority,B.C. Children'S Hospital,All Procedures,1462,6521,3.9,21.0,27.3,147.0
+15963,2013/14,Provincial Health Services Authority,B.C. Women'S Hospital,All Procedures,245,1645,4.1,12.9,28.699999999999996,90.3
+16062,2013/14,Vancouver Coastal,Lions Gate Hospital,All Procedures,2827,9247,6.0,22.1,42.0,154.70000000000002
+16132,2013/14,Vancouver Coastal,Mount Saint Joseph Hospital,All Procedures,2276,11126,3.1,12.2,21.7,85.39999999999999
+16188,2013/14,Vancouver Coastal,Powell River General Hospital,All Procedures,84,802,4.1,10.3,28.699999999999996,72.10000000000001
+16226,2013/14,Vancouver Coastal,Richmond Hospital,All Procedures,1833,5466,6.3,22.9,44.1,160.29999999999998
+16291,2013/14,Vancouver Coastal,Sechelt Hospital,All Procedures,176,651,2.9,11.4,20.3,79.8
+16320,2013/14,Vancouver Coastal,Squamish General Hospital,All Procedures,176,792,3.9,15.1,27.3,105.7
+16366,2013/14,Vancouver Coastal,St. Paul'S Hospital,All Procedures,2876,6532,4.9,44.7,34.300000000000004,312.90000000000003
+16437,2013/14,Vancouver Coastal,Ubc Health Sciences Centre,All Procedures,2484,9215,6.0,25.7,42.0,179.9
+16504,2013/14,Vancouver Coastal,Vancouver General Hospital,All Procedures,3972,12895,4.6,18.0,32.199999999999996,126.0
+16668,2013/14,Vancouver Island,Campbell River And District General Hospital,All Procedures,1283,2369,11.0,35.7,77.0,249.90000000000003
+16733,2013/14,Vancouver Island,Cowichan District Hospital,All Procedures,1233,3738,5.0,24.0,35.0,168.0
+16797,2013/14,Vancouver Island,Nanaimo Regional General Hospital,All Procedures,3921,9296,8.0,30.3,56.0,212.1
+16868,2013/14,Vancouver Island,Royal Jubilee Hospital,All Procedures,5210,11631,6.9,29.7,48.300000000000004,207.9
+16946,2013/14,Vancouver Island,Saanich Peninsula Hospital,All Procedures,1091,2379,14.6,32.0,102.2,224.0
+17000,2013/14,Vancouver Island,St. Joseph'S General Hospital,All Procedures,1506,4846,6.1,32.9,42.699999999999996,230.29999999999998
+17062,2013/14,Vancouver Island,Victoria General Hospital,All Procedures,3695,9177,6.4,30.7,44.800000000000004,214.9
+17135,2013/14,Vancouver Island,West Coast General Hospital,All Procedures,158,778,3.9,17.9,27.3,125.29999999999998
+17260,2014/15,Fraser,Abbotsford Regional Hospital And Cancer Centre,All Procedures,1377,5589,5.0,27.0,35.0,189.0
+17411,2014/15,Fraser,Burnaby Hospital,All Procedures,3237,6754,10.4,44.9,72.8,314.3
+17474,2014/15,Fraser,Chilliwack General Hospital,All Procedures,1950,8129,7.1,19.0,49.699999999999996,133.0
+17536,2014/15,Fraser,Delta Hospital,All Procedures,958,4627,4.3,18.8,30.099999999999998,131.6
+17592,2014/15,Fraser,Eagle Ridge Hospital,All Procedures,1963,5665,7.7,26.1,53.9,182.70000000000002
+17658,2014/15,Fraser,Langley Memorial Hospital,All Procedures,1766,5372,6.7,34.0,46.9,238.0
+17719,2014/15,Fraser,Pattison Outpatient Centre,All Procedures,1869,4027,5.1,26.3,35.699999999999996,184.1
+17778,2014/15,Fraser,Peace Arch Hospital,All Procedures,1466,3256,9.1,37.9,63.699999999999996,265.3
+17838,2014/15,Fraser,Ridge Meadows Hospital,All Procedures,1867,5770,6.0,26.4,42.0,184.79999999999998
+17890,2014/15,Fraser,Royal Columbian Hospital,All Procedures,729,2889,3.9,21.5,27.3,150.5
+17953,2014/15,Fraser,Surrey Memorial Hospital,All Procedures,4948,8616,12.0,38.0,84.0,266.0
+18029,2014/15,Interior,100 Mile District General Hospital,All Procedures,8,26,21.4,42.7,149.79999999999998,298.90000000000003
+18117,2014/15,Interior,Cariboo Memorial Hospital,All Procedures,83,1216,2.3,7.0,16.099999999999998,49.0
+18152,2014/15,Interior,Creston Valley Hospital,All Procedures,3,68,3.4,10.0,23.8,70.0
+18161,2014/15,Interior,East Kootenay Regional Hospital,All Procedures,1030,3863,5.4,23.3,37.800000000000004,163.1
+18222,2014/15,Interior,Elk Valley Hospital,All Procedures,39,190,6.3,18.5,44.1,129.5
+18244,2014/15,Interior,Golden And District General Hospital,All Procedures,12,158,1.3,3.9,9.1,27.3
+18258,2014/15,Interior,Kelowna General Hospital,All Procedures,3884,10932,7.3,29.9,51.1,209.29999999999998
+18340,2014/15,Interior,Kootenay Boundary Regional Hospital,All Procedures,1048,2400,8.0,32.9,56.0,230.29999999999998
+18404,2014/15,Interior,Kootenay Lake Hospital,All Procedures,630,1357,6.0,37.7,42.0,263.90000000000003
+18427,2014/15,Interior,Lillooet Hospital And Health Centre,All Procedures,7,23,11.1,38.3,77.7,268.09999999999997
+18433,2014/15,Interior,Penticton Regional Hospital,All Procedures,1073,2995,6.1,28.3,42.699999999999996,198.1
+18492,2014/15,Interior,Pleasant Valley Health Centre,All Procedures,1077,2046,8.4,30.6,58.800000000000004,214.20000000000002
+18497,2014/15,Interior,Queen Victoria Hospital,All Procedures,40,195,5.7,15.8,39.9,110.60000000000001
+18521,2014/15,Interior,Royal Inland Hospital,All Procedures,3348,8814,7.1,44.3,49.699999999999996,310.09999999999997
+18596,2014/15,Interior,Shuswap Lake General Hospital,All Procedures,274,1071,5.9,17.1,41.300000000000004,119.70000000000002
+18640,2014/15,Interior,Summerland Memorial Health Centre,All Procedures,578,2222,7.0,19.7,49.0,137.9
+18657,2014/15,Interior,Vernon Jubilee Hospital,All Procedures,1883,4003,7.9,43.1,55.300000000000004,301.7
+18799,2014/15,Northern,Bulkley Valley District Hospital,All Procedures,32,376,4.0,17.1,28.0,119.70000000000002
+18836,2014/15,Northern,Dawson Creek And District Hospital,All Procedures,439,1080,5.7,31.0,39.9,217.0
+18889,2014/15,Northern,Fort St John General Hospital,All Procedures,314,1180,5.0,16.9,35.0,118.29999999999998
+18940,2014/15,Northern,G.R. Baker Memorial Hospital,All Procedures,171,1045,3.0,14.0,21.0,98.0
+18989,2014/15,Northern,Kitimat General Hospital,All Procedures,105,578,4.5,17.9,31.5,125.29999999999998
+19025,2014/15,Northern,Mills Memorial Hospital,All Procedures,52,1837,2.0,22.9,14.0,160.29999999999998
+19072,2014/15,Northern,Prince Rupert Regional Hospital,All Procedures,44,804,1.6,7.1,11.200000000000001,49.699999999999996
+19120,2014/15,Northern,St. John Hospital,All Procedures,169,549,7.9,18.0,55.300000000000004,126.0
+19163,2014/15,Northern,The University Hospital Of Northern British Columbia,All Procedures,1871,5737,5.1,26.4,35.699999999999996,184.79999999999998
+19236,2014/15,Northern,Wrinch Memorial Hospital,All Procedures,20,127,3.0,15.5,21.0,108.5
+19321,2014/15,Provincial Health Services Authority,B.C. Cancer Agency,All Procedures,24,420,2.3,6.4,16.099999999999998,44.800000000000004
+19334,2014/15,Provincial Health Services Authority,B.C. Children'S Hospital,All Procedures,1407,6619,3.0,22.1,21.0,154.70000000000002
+19399,2014/15,Provincial Health Services Authority,B.C. Women'S Hospital,All Procedures,206,1491,4.3,12.4,30.099999999999998,86.8
+19497,2014/15,Vancouver Coastal,Lions Gate Hospital,All Procedures,3008,9406,5.9,26.0,41.300000000000004,182.0
+19570,2014/15,Vancouver Coastal,Mount Saint Joseph Hospital,All Procedures,2901,11318,4.3,16.2,30.099999999999998,113.39999999999999
+19621,2014/15,Vancouver Coastal,Powell River General Hospital,All Procedures,118,905,4.4,11.0,30.800000000000004,77.0
+19661,2014/15,Vancouver Coastal,Richmond Hospital,All Procedures,1645,6090,5.7,24.3,39.9,170.1
+19727,2014/15,Vancouver Coastal,Sechelt Hospital,All Procedures,310,713,5.0,24.6,35.0,172.20000000000002
+19757,2014/15,Vancouver Coastal,Squamish General Hospital,All Procedures,200,716,4.0,17.2,28.0,120.39999999999999
+19795,2014/15,Vancouver Coastal,St. Paul'S Hospital,All Procedures,2635,6435,6.7,32.7,46.9,228.90000000000003
+19864,2014/15,Vancouver Coastal,Ubc Health Sciences Centre,All Procedures,2463,8090,6.1,27.3,42.699999999999996,191.1
+19933,2014/15,Vancouver Coastal,Vancouver General Hospital,All Procedures,4128,12907,6.0,28.4,42.0,198.79999999999998
+20095,2014/15,Vancouver Island,Campbell River And District General Hospital,All Procedures,867,2722,11.0,41.1,77.0,287.7
+20157,2014/15,Vancouver Island,Cowichan District Hospital,All Procedures,1160,3758,5.9,31.6,41.300000000000004,221.20000000000002
+20219,2014/15,Vancouver Island,Nanaimo Regional General Hospital,All Procedures,3709,9702,9.9,38.3,69.3,268.09999999999997
+20291,2014/15,Vancouver Island,Royal Jubilee Hospital,All Procedures,5540,11949,8.6,40.6,60.199999999999996,284.2
+20367,2014/15,Vancouver Island,Saanich Peninsula Hospital,All Procedures,760,2421,14.4,36.0,100.8,252.0
+20417,2014/15,Vancouver Island,St. Joseph'S General Hospital,All Procedures,1598,4743,7.0,33.3,49.0,233.09999999999997
+20478,2014/15,Vancouver Island,Victoria General Hospital,All Procedures,3532,9678,7.3,35.3,51.1,247.09999999999997
+20551,2014/15,Vancouver Island,West Coast General Hospital,All Procedures,195,740,4.6,17.9,32.199999999999996,125.29999999999998
+20671,2015/16,Fraser,Abbotsford Regional Hospital And Cancer Centre,All Procedures,1721,5176,6.4,26.0,44.800000000000004,182.0
+20824,2015/16,Fraser,Burnaby Hospital,All Procedures,2412,7243,10.0,42.3,70.0,296.09999999999997
+20891,2015/16,Fraser,Chilliwack General Hospital,All Procedures,1929,8260,6.3,21.3,44.1,149.1
+20955,2015/16,Fraser,Delta Hospital,All Procedures,1004,4575,3.9,17.0,27.3,119.0
+21009,2015/16,Fraser,Eagle Ridge Hospital,All Procedures,2068,5588,7.9,29.0,55.300000000000004,203.0
+21075,2015/16,Fraser,Langley Memorial Hospital,All Procedures,1582,5184,7.0,31.0,49.0,217.0
+21136,2015/16,Fraser,Pattison Outpatient Centre,All Procedures,2147,4572,6.1,32.0,42.699999999999996,224.0
+21196,2015/16,Fraser,Peace Arch Hospital,All Procedures,1562,3426,9.7,42.3,67.89999999999999,296.09999999999997
+21253,2015/16,Fraser,Ridge Meadows Hospital,All Procedures,2100,5977,8.4,31.1,58.800000000000004,217.70000000000002
+21308,2015/16,Fraser,Royal Columbian Hospital,All Procedures,602,2909,3.7,20.9,25.900000000000002,146.29999999999998
+21372,2015/16,Fraser,Surrey Memorial Hospital,All Procedures,5553,8157,14.1,46.8,98.7,327.59999999999997
+21442,2015/16,Interior,100 Mile District General Hospital,All Procedures,11,25,17.4,34.8,121.79999999999998,243.59999999999997
+21529,2015/16,Interior,Cariboo Memorial Hospital,All Procedures,75,1157,2.0,5.9,14.0,41.300000000000004
+21570,2015/16,Interior,Creston Valley Hospital,All Procedures,11,46,4.8,11.0,33.6,77.0
+21576,2015/16,Interior,East Kootenay Regional Hospital,All Procedures,890,4064,5.4,21.3,37.800000000000004,149.1
+21637,2015/16,Interior,Elk Valley Hospital,All Procedures,37,168,6.9,22.4,48.300000000000004,156.79999999999998
+21657,2015/16,Interior,Golden And District General Hospital,All Procedures,12,145,1.7,4.0,11.9,28.0
+21676,2015/16,Interior,Kelowna General Hospital,All Procedures,4274,11190,8.3,36.6,58.10000000000001,256.2
+21756,2015/16,Interior,Kootenay Boundary Regional Hospital,All Procedures,842,2520,10.1,37.0,70.7,259.0
+21817,2015/16,Interior,Kootenay Lake Hospital,All Procedures,387,1360,8.6,28.0,60.199999999999996,196.0
+21840,2015/16,Interior,Lillooet Hospital And Health Centre,All Procedures,3,34,9.0,27.6,63.0,193.20000000000002
+21850,2015/16,Interior,Penticton Regional Hospital,All Procedures,1129,2899,7.0,39.6,49.0,277.2
+21908,2015/16,Interior,Pleasant Valley Health Centre,All Procedures,1062,2403,17.7,40.7,123.89999999999999,284.90000000000003
+21914,2015/16,Interior,Queen Victoria Hospital,All Procedures,45,195,5.1,12.0,35.699999999999996,84.0
+21937,2015/16,Interior,Royal Inland Hospital,All Procedures,3083,9105,8.0,37.9,56.0,265.3
+22013,2015/16,Interior,Shuswap Lake General Hospital,All Procedures,411,1191,8.0,22.1,56.0,154.70000000000002
+22058,2015/16,Interior,Summerland Memorial Health Centre,All Procedures,777,2299,8.6,25.9,60.199999999999996,181.29999999999998
+22076,2015/16,Interior,Vernon Jubilee Hospital,All Procedures,1536,3931,7.3,48.3,51.1,338.09999999999997
+22217,2015/16,Northern,Bulkley Valley District Hospital,All Procedures,46,366,2.7,13.7,18.900000000000002,95.89999999999999
+22256,2015/16,Northern,Dawson Creek And District Hospital,All Procedures,272,995,6.0,39.0,42.0,273.0
+22303,2015/16,Northern,Fort St John General Hospital,All Procedures,225,1169,6.6,22.1,46.199999999999996,154.70000000000002
+22354,2015/16,Northern,G.R. Baker Memorial Hospital,All Procedures,196,1090,3.3,12.1,23.099999999999998,84.7
+22405,2015/16,Northern,Kitimat General Hospital,All Procedures,116,634,4.9,15.0,34.300000000000004,105.0
+22442,2015/16,Northern,Mills Memorial Hospital,All Procedures,147,1717,0.9,4.3,6.3,30.099999999999998
+22489,2015/16,Northern,Prince Rupert Regional Hospital,All Procedures,51,833,1.1,7.1,7.700000000000001,49.699999999999996
+22537,2015/16,Northern,St. John Hospital,All Procedures,154,443,8.3,18.6,58.10000000000001,130.20000000000002
+22573,2015/16,Northern,The University Hospital Of Northern British Columbia,All Procedures,1973,5611,7.3,32.4,51.1,226.79999999999998
+22647,2015/16,Northern,Wrinch Memorial Hospital,All Procedures,8,125,2.9,11.5,20.3,80.5
+22729,2015/16,Provincial Health Services Authority,B.C. Cancer Agency,All Procedures,27,441,2.3,5.6,16.099999999999998,39.199999999999996
+22741,2015/16,Provincial Health Services Authority,B.C. Children'S Hospital,All Procedures,1211,6582,2.9,21.0,20.3,147.0
+22807,2015/16,Provincial Health Services Authority,B.C. Women'S Hospital,All Procedures,412,1387,4.7,14.0,32.9,98.0
+22905,2015/16,Vancouver Coastal,Lions Gate Hospital,All Procedures,2969,9636,6.3,27.4,44.1,191.79999999999998
+22975,2015/16,Vancouver Coastal,Mount Saint Joseph Hospital,All Procedures,3092,12338,6.0,20.1,42.0,140.70000000000002
+23028,2015/16,Vancouver Coastal,Powell River General Hospital,All Procedures,124,858,5.0,12.0,35.0,84.0
+23066,2015/16,Vancouver Coastal,Richmond Hospital,All Procedures,1664,6235,5.3,22.7,37.1,158.9
+23131,2015/16,Vancouver Coastal,Sechelt Hospital,All Procedures,398,845,7.0,32.0,49.0,224.0
+23161,2015/16,Vancouver Coastal,Squamish General Hospital,All Procedures,159,636,4.0,20.1,28.0,140.70000000000002
+23196,2015/16,Vancouver Coastal,St. Paul'S Hospital,All Procedures,3218,6576,7.9,33.9,55.300000000000004,237.29999999999998
+23267,2015/16,Vancouver Coastal,Ubc Health Sciences Centre,All Procedures,3152,8302,6.7,28.9,46.9,202.29999999999998
+23336,2015/16,Vancouver Coastal,Vancouver General Hospital,All Procedures,3269,13170,6.0,28.0,42.0,196.0
+23498,2015/16,Vancouver Island,Campbell River And District General Hospital,All Procedures,1188,2337,10.6,37.1,74.2,259.7
+23569,2015/16,Vancouver Island,Cowichan District Hospital,All Procedures,1275,3756,6.6,29.3,46.199999999999996,205.1
+23632,2015/16,Vancouver Island,Nanaimo Regional General Hospital,All Procedures,4548,9556,8.3,39.9,58.10000000000001,279.3
+23703,2015/16,Vancouver Island,Royal Jubilee Hospital,All Procedures,6034,12763,9.3,43.0,65.10000000000001,301.0
+23780,2015/16,Vancouver Island,Saanich Peninsula Hospital,All Procedures,740,2364,9.0,28.6,63.0,200.20000000000002
+23828,2015/16,Vancouver Island,St. Joseph'S General Hospital,All Procedures,1877,4626,8.4,35.7,58.800000000000004,249.90000000000003
+23888,2015/16,Vancouver Island,Victoria General Hospital,All Procedures,3414,9241,7.1,33.3,49.699999999999996,233.09999999999997
+23959,2015/16,Vancouver Island,West Coast General Hospital,All Procedures,121,850,5.5,24.0,38.5,168.0
+24077,2016/17,Fraser,Abbotsford Regional Hospital And Cancer Centre,All Procedures,1997,5726,6.6,27.3,46.199999999999996,191.1
+24229,2016/17,Fraser,Burnaby Hospital,All Procedures,2071,7510,7.3,29.9,51.1,209.29999999999998
+24295,2016/17,Fraser,Chilliwack General Hospital,All Procedures,2643,7539,8.9,23.6,62.300000000000004,165.20000000000002
+24357,2016/17,Fraser,Delta Hospital,All Procedures,1034,4720,4.1,19.3,28.699999999999996,135.1
+24411,2016/17,Fraser,Eagle Ridge Hospital,All Procedures,2433,5941,8.3,29.7,58.10000000000001,207.9
+24476,2016/17,Fraser,Langley Memorial Hospital,All Procedures,1842,5336,6.3,31.1,44.1,217.70000000000002
+24535,2016/17,Fraser,Pattison Outpatient Centre,All Procedures,2651,4989,7.3,33.1,51.1,231.70000000000002
+24593,2016/17,Fraser,Peace Arch Hospital,All Procedures,1532,3572,9.7,42.0,67.89999999999999,294.0
+24651,2016/17,Fraser,Ridge Meadows Hospital,All Procedures,2580,6076,10.1,33.6,70.7,235.20000000000002
+24703,2016/17,Fraser,Royal Columbian Hospital,All Procedures,569,3098,3.0,16.7,21.0,116.89999999999999
+24766,2016/17,Fraser,Surrey Memorial Hospital,All Procedures,5246,9379,16.1,50.0,112.70000000000002,350.0
+24839,2016/17,Interior,100 Mile District General Hospital,All Procedures,5,23,19.6,41.6,137.20000000000002,291.2
+24927,2016/17,Interior,Cariboo Memorial Hospital,All Procedures,98,1199,1.9,5.9,13.299999999999999,41.300000000000004
+24969,2016/17,Interior,Creston Valley Hospital,All Procedures,14,81,4.3,12.9,30.099999999999998,90.3
+24979,2016/17,Interior,East Kootenay Regional Hospital,All Procedures,859,3730,5.2,21.7,36.4,151.9
+25041,2016/17,Interior,Elk Valley Hospital,All Procedures,35,181,5.7,15.9,39.9,111.3
+25060,2016/17,Interior,Golden And District General Hospital,All Procedures,7,191,1.3,6.1,9.1,42.699999999999996
+25079,2016/17,Interior,Kelowna General Hospital,All Procedures,4295,11365,8.9,36.7,62.300000000000004,256.90000000000003
+25160,2016/17,Interior,Kootenay Boundary Regional Hospital,All Procedures,881,2331,10.9,31.7,76.3,221.9
+25222,2016/17,Interior,Kootenay Lake Hospital,All Procedures,347,1363,7.0,19.3,49.0,135.1
+25247,2016/17,Interior,Lillooet Hospital And Health Centre,All Procedures,9,30,5.8,11.1,40.6,77.7
+25259,2016/17,Interior,Penticton Regional Hospital,All Procedures,843,2946,6.6,36.1,46.199999999999996,252.70000000000002
+25317,2016/17,Interior,Pleasant Valley Health Centre,All Procedures,795,2306,12.6,44.0,88.2,308.0
+25323,2016/17,Interior,Queen Victoria Hospital,All Procedures,66,211,6.0,16.7,42.0,116.89999999999999
+25348,2016/17,Interior,Royal Inland Hospital,All Procedures,3252,9188,7.1,37.3,49.699999999999996,261.09999999999997
+25424,2016/17,Interior,Shuswap Lake General Hospital,All Procedures,330,1103,8.9,35.4,62.300000000000004,247.79999999999998
+25465,2016/17,Interior,Summerland Memorial Health Centre,All Procedures,348,2535,9.6,25.1,67.2,175.70000000000002
+25480,2016/17,Interior,Vernon Jubilee Hospital,All Procedures,1725,4018,8.0,39.3,56.0,275.09999999999997
+25617,2016/17,Northern,Bulkley Valley District Hospital,All Procedures,118,366,5.1,15.9,35.699999999999996,111.3
+25657,2016/17,Northern,Dawson Creek And District Hospital,All Procedures,426,1024,7.9,30.6,55.300000000000004,214.20000000000002
+25703,2016/17,Northern,Fort Nelson General Hospital,All Procedures,0,5,0.1,1.2,0.7000000000000001,8.4
+25708,2016/17,Northern,Fort St John General Hospital,All Procedures,283,1314,4.0,19.7,28.0,137.9
+25759,2016/17,Northern,G.R. Baker Memorial Hospital,All Procedures,253,1146,3.8,11.5,26.599999999999998,80.5
+25814,2016/17,Northern,Kitimat General Hospital,All Procedures,82,575,3.3,13.3,23.099999999999998,93.10000000000001
+25848,2016/17,Northern,Mills Memorial Hospital,All Procedures,462,2204,1.7,9.4,11.9,65.8
+25894,2016/17,Northern,Prince Rupert Regional Hospital,All Procedures,48,835,1.6,8.2,11.200000000000001,57.39999999999999
+25951,2016/17,Northern,St. John Hospital,All Procedures,168,561,10.7,24.1,74.89999999999999,168.70000000000002
+25993,2016/17,Northern,The University Hospital Of Northern British Columbia,All Procedures,2262,5951,8.1,32.9,56.699999999999996,230.29999999999998
+26066,2016/17,Northern,Wrinch Memorial Hospital,All Procedures,8,145,1.9,7.2,13.299999999999999,50.4
+26143,2016/17,Provincial Health Services Authority,B.C. Cancer Agency,All Procedures,31,393,2.0,5.8,14.0,40.6
+26156,2016/17,Provincial Health Services Authority,B.C. Children'S Hospital,All Procedures,1885,5094,6.0,24.0,42.0,168.0
+26216,2016/17,Provincial Health Services Authority,B.C. Women'S Hospital,All Procedures,394,1408,6.3,17.1,44.1,119.70000000000002
+26313,2016/17,Vancouver Coastal,Lions Gate Hospital,All Procedures,3404,9546,6.4,25.7,44.800000000000004,179.9
+26386,2016/17,Vancouver Coastal,Mount Saint Joseph Hospital,All Procedures,3152,12527,6.1,21.9,42.699999999999996,153.29999999999998
+26437,2016/17,Vancouver Coastal,Powell River General Hospital,All Procedures,351,910,6.1,15.1,42.699999999999996,105.7
+26472,2016/17,Vancouver Coastal,Richmond Hospital,All Procedures,2799,6023,6.1,26.0,42.699999999999996,182.0
+26536,2016/17,Vancouver Coastal,Sechelt Hospital,All Procedures,600,975,12.9,36.6,90.3,256.2
+26565,2016/17,Vancouver Coastal,Squamish General Hospital,All Procedures,343,761,3.9,18.3,27.3,128.1
+26606,2016/17,Vancouver Coastal,St. Paul'S Hospital,All Procedures,3168,6277,8.9,39.0,62.300000000000004,273.0
+26677,2016/17,Vancouver Coastal,Ubc Health Sciences Centre,All Procedures,3669,10233,5.7,28.6,39.9,200.20000000000002
+26749,2016/17,Vancouver Coastal,Vancouver General Hospital,All Procedures,4132,11217,6.4,26.0,44.800000000000004,182.0
+26909,2016/17,Vancouver Island,Campbell River And District General Hospital,All Procedures,769,2523,9.7,39.0,67.89999999999999,273.0
+27006,2016/17,Vancouver Island,Cowichan District Hospital,All Procedures,1252,3899,6.4,30.2,44.800000000000004,211.4
+27070,2016/17,Vancouver Island,Nanaimo Regional General Hospital,All Procedures,4726,9565,10.7,47.3,74.89999999999999,331.09999999999997
+27141,2016/17,Vancouver Island,Royal Jubilee Hospital,All Procedures,6153,13560,9.0,40.0,63.0,280.0
+27214,2016/17,Vancouver Island,Saanich Peninsula Hospital,All Procedures,803,2580,6.0,25.0,42.0,175.0
+27263,2016/17,Vancouver Island,St. Joseph'S General Hospital,All Procedures,1217,5163,8.6,41.0,60.199999999999996,287.0
+27324,2016/17,Vancouver Island,Victoria General Hospital,All Procedures,3048,9185,7.6,30.9,53.199999999999996,216.29999999999998
+27397,2016/17,Vancouver Island,West Coast General Hospital,All Procedures,112,770,4.1,12.0,28.699999999999996,84.0
+27515,2017/18,Fraser,Abbotsford Regional Hospital And Cancer Centre,All Procedures,1980,5561,7.3,32.9,51.1,230.29999999999998
+27668,2017/18,Fraser,Burnaby Hospital,All Procedures,2397,7772,6.7,24.1,46.9,168.70000000000002
+27733,2017/18,Fraser,Chilliwack General Hospital,All Procedures,2603,7660,10.0,28.0,70.0,196.0
+27793,2017/18,Fraser,Delta Hospital,All Procedures,1032,4691,4.3,22.0,30.099999999999998,154.0
+27847,2017/18,Fraser,Eagle Ridge Hospital,All Procedures,2339,5689,8.0,31.0,56.0,217.0
+27913,2017/18,Fraser,Langley Memorial Hospital,All Procedures,1838,5587,8.3,33.0,58.10000000000001,231.0
+27973,2017/18,Fraser,Pattison Outpatient Centre,All Procedures,3168,4750,7.4,37.4,51.800000000000004,261.8
+28031,2017/18,Fraser,Peace Arch Hospital,All Procedures,1604,3421,10.1,41.1,70.7,287.7
+28090,2017/18,Fraser,Ridge Meadows Hospital,All Procedures,3196,6470,12.1,42.0,84.7,294.0
+28142,2017/18,Fraser,Royal Columbian Hospital,All Procedures,542,3193,2.9,15.3,20.3,107.10000000000001
+28204,2017/18,Fraser,Surrey Memorial Hospital,All Procedures,4602,10088,9.3,45.1,65.10000000000001,315.7
+28279,2017/18,Interior,100 Mile District General Hospital,All Procedures,0,14,13.5,34.3,94.5,240.09999999999997
+28364,2017/18,Interior,Cariboo Memorial Hospital,All Procedures,67,1085,2.1,7.1,14.700000000000001,49.699999999999996
+28404,2017/18,Interior,Creston Valley Hospital,All Procedures,15,92,4.6,16.9,32.199999999999996,118.29999999999998
+28416,2017/18,Interior,East Kootenay Regional Hospital,All Procedures,1115,3427,5.4,22.7,37.800000000000004,158.9
+28477,2017/18,Interior,Elk Valley Hospital,All Procedures,8,97,5.7,14.7,39.9,102.89999999999999
+28488,2017/18,Interior,Golden And District General Hospital,All Procedures,27,187,1.3,6.1,9.1,42.699999999999996
+28513,2017/18,Interior,Kelowna General Hospital,All Procedures,4520,11131,8.9,35.1,62.300000000000004,245.70000000000002
+28593,2017/18,Interior,Kootenay Boundary Regional Hospital,All Procedures,822,2270,8.3,29.9,58.10000000000001,209.29999999999998
+28653,2017/18,Interior,Kootenay Lake Hospital,All Procedures,772,1191,8.1,25.9,56.699999999999996,181.29999999999998
+28675,2017/18,Interior,Lillooet Hospital And Health Centre,All Procedures,3,44,8.2,17.0,57.39999999999999,119.0
+28687,2017/18,Interior,Penticton Regional Hospital,All Procedures,869,2802,6.4,30.0,44.800000000000004,210.0
+28744,2017/18,Interior,Pleasant Valley Health Centre,All Procedures,739,2325,12.0,33.0,84.0,231.0
+28750,2017/18,Interior,Queen Victoria Hospital,All Procedures,46,239,6.0,17.6,42.0,123.20000000000002
+28776,2017/18,Interior,Royal Inland Hospital,All Procedures,3049,9410,6.9,34.3,48.300000000000004,240.09999999999997
+28850,2017/18,Interior,Shuswap Lake General Hospital,All Procedures,304,1119,9.9,24.0,69.3,168.0
+28890,2017/18,Interior,Summerland Memorial Health Centre,All Procedures,297,2412,4.1,12.9,28.699999999999996,90.3
+28907,2017/18,Interior,Vernon Jubilee Hospital,All Procedures,1607,4051,9.6,38.6,67.2,270.2
+29045,2017/18,Northern,Bulkley Valley District Hospital,All Procedures,69,454,5.0,18.3,35.0,128.1
+29082,2017/18,Northern,Dawson Creek And District Hospital,All Procedures,462,978,11.6,30.8,81.2,215.6
+29129,2017/18,Northern,Fort Nelson General Hospital,All Procedures,0,8,0.2,1.0,1.4000000000000001,7.0
+29136,2017/18,Northern,Fort St John General Hospital,All Procedures,277,1235,4.3,22.9,30.099999999999998,160.29999999999998
+29184,2017/18,Northern,G.R. Baker Memorial Hospital,All Procedures,226,1160,4.9,18.7,34.300000000000004,130.9
+29234,2017/18,Northern,Kitimat General Hospital,All Procedures,96,630,3.0,9.2,21.0,64.39999999999999
+29264,2017/18,Northern,Mills Memorial Hospital,All Procedures,541,2470,4.3,20.0,30.099999999999998,140.0
+29311,2017/18,Northern,Prince Rupert Regional Hospital,All Procedures,75,869,1.3,7.9,9.1,55.300000000000004
+29362,2017/18,Northern,St. John Hospital,All Procedures,166,546,7.4,20.1,51.800000000000004,140.70000000000002
+29406,2017/18,Northern,The University Hospital Of Northern British Columbia,All Procedures,2407,6538,10.0,35.1,70.0,245.70000000000002
+29479,2017/18,Northern,Wrinch Memorial Hospital,All Procedures,17,122,1.4,7.9,9.799999999999999,55.300000000000004
+29560,2017/18,Provincial Health Services Authority,B.C. Cancer Agency,All Procedures,49,651,2.6,6.1,18.2,42.699999999999996
+29574,2017/18,Provincial Health Services Authority,B.C. Children'S Hospital,All Procedures,1686,5041,8.6,31.9,60.199999999999996,223.29999999999998
+29636,2017/18,Provincial Health Services Authority,B.C. Women'S Hospital,All Procedures,450,2447,3.4,14.3,23.8,100.10000000000001
+29736,2017/18,Vancouver Coastal,Lions Gate Hospital,All Procedures,4088,9082,7.3,30.9,51.1,216.29999999999998
+29808,2017/18,Vancouver Coastal,Mount Saint Joseph Hospital,All Procedures,2729,12860,4.6,18.0,32.199999999999996,126.0
+29858,2017/18,Vancouver Coastal,Powell River General Hospital,All Procedures,235,1104,11.4,25.1,79.8,175.70000000000002
+29896,2017/18,Vancouver Coastal,Richmond Hospital,All Procedures,2558,6495,8.0,30.6,56.0,214.20000000000002
+29961,2017/18,Vancouver Coastal,Sechelt Hospital,All Procedures,843,1212,17.9,47.7,125.29999999999998,333.90000000000003
+29991,2017/18,Vancouver Coastal,Squamish General Hospital,All Procedures,444,1270,4.0,22.3,28.0,156.1
+30040,2017/18,Vancouver Coastal,St. Paul'S Hospital,All Procedures,3047,6469,7.4,40.5,51.800000000000004,283.5
+30110,2017/18,Vancouver Coastal,Ubc Health Sciences Centre,All Procedures,4337,9847,6.9,29.7,48.300000000000004,207.9
+30183,2017/18,Vancouver Coastal,Vancouver General Hospital,All Procedures,3972,11639,7.1,29.1,49.699999999999996,203.70000000000002
+30342,2017/18,Vancouver Island,Campbell River And District General Hospital,All Procedures,698,2321,7.7,26.0,53.9,182.0
+30403,2017/18,Vancouver Island,Comox Valley Hospital,All Procedures,2574,2438,9.0,51.9,63.0,363.3
+30462,2017/18,Vancouver Island,Cowichan District Hospital,All Procedures,1252,3845,6.7,34.8,46.9,243.59999999999997
+30522,2017/18,Vancouver Island,Nanaimo Regional General Hospital,All Procedures,4601,9730,12.1,47.9,84.7,335.3
+30592,2017/18,Vancouver Island,Royal Jubilee Hospital,All Procedures,5459,14339,8.4,40.1,58.800000000000004,280.7
+30672,2017/18,Vancouver Island,Saanich Peninsula Hospital,All Procedures,799,2390,9.6,31.6,67.2,221.20000000000002
+30718,2017/18,Vancouver Island,St. Joseph'S General Hospital,All Procedures,0,2375,7.0,43.7,49.0,305.90000000000003
+30772,2017/18,Vancouver Island,Victoria General Hospital,All Procedures,2676,8764,6.4,30.0,44.800000000000004,210.0
+30844,2017/18,Vancouver Island,West Coast General Hospital,All Procedures,173,836,4.1,10.9,28.699999999999996,76.3
+30964,2018/19,Fraser,Abbotsford Regional Hospital And Cancer Centre,All Procedures,2234,5715,8.3,33.9,58.10000000000001,237.29999999999998
+31119,2018/19,Fraser,Burnaby Hospital,All Procedures,2883,8178,8.3,25.2,58.10000000000001,176.4
+31184,2018/19,Fraser,Chilliwack General Hospital,All Procedures,2531,8131,10.3,28.1,72.10000000000001,196.70000000000002
+31244,2018/19,Fraser,Delta Hospital,All Procedures,1208,4429,5.7,22.1,39.9,154.70000000000002
+31294,2018/19,Fraser,Eagle Ridge Hospital,All Procedures,1914,6201,7.3,28.9,51.1,202.29999999999998
+31358,2018/19,Fraser,Langley Memorial Hospital,All Procedures,2168,5876,8.3,28.1,58.10000000000001,196.70000000000002
+31418,2018/19,Fraser,Pattison Outpatient Centre,All Procedures,3449,4334,9.4,41.1,65.8,287.7
+31475,2018/19,Fraser,Peace Arch Hospital,All Procedures,1548,3506,11.1,38.0,77.7,266.0
+31532,2018/19,Fraser,Ridge Meadows Hospital,All Procedures,3099,6987,10.9,42.4,76.3,296.8
+31587,2018/19,Fraser,Royal Columbian Hospital,All Procedures,511,3256,2.3,11.7,16.099999999999998,81.89999999999999
+31649,2018/19,Fraser,Surrey Memorial Hospital,All Procedures,4668,10104,6.0,37.7,42.0,263.90000000000003
+31806,2018/19,Interior,Cariboo Memorial Hospital,All Procedures,89,1143,2.0,5.9,14.0,41.300000000000004
+31842,2018/19,Interior,Creston Valley Hospital,All Procedures,19,130,4.5,13.1,31.5,91.7
+31853,2018/19,Interior,East Kootenay Regional Hospital,All Procedures,1298,3670,8.1,31.0,56.699999999999996,217.0
+31915,2018/19,Interior,Elk Valley Hospital,All Procedures,14,155,3.9,11.3,27.3,79.10000000000001
+31930,2018/19,Interior,Golden And District General Hospital,All Procedures,35,248,2.0,12.0,14.0,84.0
+31959,2018/19,Interior,Kelowna General Hospital,All Procedures,4272,12308,8.7,36.9,60.89999999999999,258.3
+32041,2018/19,Interior,Kootenay Boundary Regional Hospital,All Procedures,520,2433,7.4,29.1,51.800000000000004,203.70000000000002
+32104,2018/19,Interior,Kootenay Lake Hospital,All Procedures,556,1709,6.4,33.1,44.800000000000004,231.70000000000002
+32130,2018/19,Interior,Lillooet Hospital And Health Centre,All Procedures,5,40,6.9,18.2,48.300000000000004,127.39999999999999
+32139,2018/19,Interior,Penticton Regional Hospital,All Procedures,1164,2811,7.4,32.9,51.800000000000004,230.29999999999998
+32194,2018/19,Interior,Pleasant Valley Health Centre,All Procedures,624,2593,9.3,32.7,65.10000000000001,228.90000000000003
+32201,2018/19,Interior,Queen Victoria Hospital,All Procedures,29,226,4.0,11.3,28.0,79.10000000000001
+32228,2018/19,Interior,Royal Inland Hospital,All Procedures,3456,9435,8.3,31.7,58.10000000000001,221.9
+32303,2018/19,Interior,Shuswap Lake General Hospital,All Procedures,227,1087,7.9,20.8,55.300000000000004,145.6
+32346,2018/19,Interior,Summerland Memorial Health Centre,All Procedures,487,2527,3.3,14.3,23.099999999999998,100.10000000000001
+32363,2018/19,Interior,Vernon Jubilee Hospital,All Procedures,1887,3766,10.7,40.1,74.89999999999999,280.7
+32499,2018/19,Northern,Bulkley Valley District Hospital,All Procedures,92,472,4.7,15.7,32.9,109.89999999999999
+32540,2018/19,Northern,Dawson Creek And District Hospital,All Procedures,429,1043,10.9,33.6,76.3,235.20000000000002
+32590,2018/19,Northern,Fort Nelson General Hospital,All Procedures,0,6,0.1,0.9,0.7000000000000001,6.3
+32595,2018/19,Northern,Fort St John General Hospital,All Procedures,284,1349,5.0,19.1,35.0,133.70000000000002
+32641,2018/19,Northern,G.R. Baker Memorial Hospital,All Procedures,206,1057,4.6,17.1,32.199999999999996,119.70000000000002
+32688,2018/19,Northern,Kitimat General Hospital,All Procedures,74,666,2.1,9.4,14.700000000000001,65.8
+32718,2018/19,Northern,Mills Memorial Hospital,All Procedures,400,2678,6.7,18.1,46.9,126.70000000000002
+32764,2018/19,Northern,Prince Rupert Regional Hospital,All Procedures,97,933,1.9,8.6,13.299999999999999,60.199999999999996
+32820,2018/19,Northern,St. John Hospital,All Procedures,147,634,8.8,20.0,61.60000000000001,140.0
+32862,2018/19,Northern,The University Hospital Of Northern British Columbia,All Procedures,2603,6699,9.0,33.0,63.0,231.0
+32934,2018/19,Northern,Wrinch Memorial Hospital,All Procedures,12,142,3.0,13.4,21.0,93.8
+33011,2018/19,Provincial Health Services Authority,B.C. Cancer Agency,All Procedures,49,731,2.6,7.0,18.2,49.0
+33025,2018/19,Provincial Health Services Authority,B.C. Children'S Hospital,All Procedures,1213,6217,4.7,24.7,32.9,172.9
+33084,2018/19,Provincial Health Services Authority,B.C. Women'S Hospital,All Procedures,640,3134,3.9,13.3,27.3,93.10000000000001
+33185,2018/19,Vancouver Coastal,Lions Gate Hospital,All Procedures,4427,9768,7.3,34.6,51.1,242.20000000000002
+33254,2018/19,Vancouver Coastal,Mount Saint Joseph Hospital,All Procedures,3606,14047,4.1,18.6,28.699999999999996,130.20000000000002
+33306,2018/19,Vancouver Coastal,Powell River General Hospital,All Procedures,298,924,4.3,20.9,30.099999999999998,146.29999999999998
+33344,2018/19,Vancouver Coastal,Richmond Hospital,All Procedures,2165,6684,7.7,31.1,53.9,217.70000000000002
+33408,2018/19,Vancouver Coastal,Sechelt Hospital,All Procedures,887,1372,15.9,60.6,111.3,424.2
+33437,2018/19,Vancouver Coastal,Squamish General Hospital,All Procedures,442,1066,5.0,26.9,35.0,188.29999999999998
+33482,2018/19,Vancouver Coastal,St. Paul'S Hospital,All Procedures,3381,6721,7.7,33.9,53.9,237.29999999999998
+33550,2018/19,Vancouver Coastal,Ubc Health Sciences Centre,All Procedures,4345,9758,9.7,33.4,67.89999999999999,233.79999999999998
+33622,2018/19,Vancouver Coastal,Vancouver General Hospital,All Procedures,3305,12112,6.9,30.1,48.300000000000004,210.70000000000002
+33784,2018/19,Vancouver Island,Campbell River And District General Hospital,All Procedures,732,2374,7.9,24.0,55.300000000000004,168.0
+33846,2018/19,Vancouver Island,Comox Valley Hospital,All Procedures,2575,5244,11.0,57.1,77.0,399.7
+33904,2018/19,Vancouver Island,Cowichan District Hospital,All Procedures,1399,4073,6.0,26.6,42.0,186.20000000000002
+33967,2018/19,Vancouver Island,Nanaimo Regional General Hospital,All Procedures,3766,10369,11.9,46.1,83.3,322.7
+34038,2018/19,Vancouver Island,Royal Jubilee Hospital,All Procedures,5301,15744,7.1,28.6,49.699999999999996,200.20000000000002
+34118,2018/19,Vancouver Island,Saanich Peninsula Hospital,All Procedures,597,2311,9.6,24.0,67.2,168.0
+34169,2018/19,Vancouver Island,Victoria General Hospital,All Procedures,2591,8694,6.1,23.9,42.699999999999996,167.29999999999998
+34241,2018/19,Vancouver Island,West Coast General Hospital,All Procedures,103,881,5.6,14.0,39.199999999999996,98.0
+34359,2019/20,Fraser,Abbotsford Regional Hospital And Cancer Centre,All Procedures,2831,5129,9.1,35.0,63.699999999999996,245.0
+34512,2019/20,Fraser,Burnaby Hospital,All Procedures,3377,8246,9.0,30.0,63.0,210.0
+34577,2019/20,Fraser,Chilliwack General Hospital,All Procedures,2091,8157,8.1,27.3,56.699999999999996,191.1
+34636,2019/20,Fraser,Delta Hospital,All Procedures,1479,4451,5.9,26.0,41.300000000000004,182.0
+34689,2019/20,Fraser,Eagle Ridge Hospital,All Procedures,1959,6082,6.4,26.6,44.800000000000004,186.20000000000002
+34755,2019/20,Fraser,Langley Memorial Hospital,All Procedures,2082,5691,9.0,33.4,63.0,233.79999999999998
+34812,2019/20,Fraser,Pattison Outpatient Centre,All Procedures,3188,4629,9.3,49.9,65.10000000000001,349.3
+34868,2019/20,Fraser,Peace Arch Hospital,All Procedures,1487,3546,12.3,36.3,86.10000000000001,254.09999999999997
+34922,2019/20,Fraser,Ridge Meadows Hospital,All Procedures,2452,7587,9.1,37.9,63.699999999999996,265.3
+34976,2019/20,Fraser,Royal Columbian Hospital,All Procedures,652,3571,2.9,13.0,20.3,91.0
+35041,2019/20,Fraser,Surrey Memorial Hospital,All Procedures,4811,9407,7.3,38.1,51.1,266.7
+35198,2019/20,Interior,Cariboo Memorial Hospital,All Procedures,40,1099,2.1,6.0,14.700000000000001,42.0
+35236,2019/20,Interior,Creston Valley Hospital,All Procedures,41,186,4.1,10.1,28.699999999999996,70.7
+35252,2019/20,Interior,East Kootenay Regional Hospital,All Procedures,1255,3498,5.7,36.9,39.9,258.3
+35314,2019/20,Interior,Elk Valley Hospital,All Procedures,39,214,3.0,11.7,21.0,81.89999999999999
+35333,2019/20,Interior,Golden And District General Hospital,All Procedures,37,347,1.9,9.7,13.299999999999999,67.89999999999999
+35362,2019/20,Interior,Kelowna General Hospital,All Procedures,4239,12212,8.0,35.1,56.0,245.70000000000002
+35444,2019/20,Interior,Kootenay Boundary Regional Hospital,All Procedures,868,2142,6.9,20.3,48.300000000000004,142.1
+35505,2019/20,Interior,Kootenay Lake Hospital,All Procedures,909,2013,7.0,19.1,49.0,133.70000000000002
+35536,2019/20,Interior,Lillooet Hospital And Health Centre,All Procedures,7,32,9.6,15.8,67.2,110.60000000000001
+35543,2019/20,Interior,Penticton Regional Hospital,All Procedures,1223,2882,10.1,41.3,70.7,289.09999999999997
+35597,2019/20,Interior,Pleasant Valley Health Centre,All Procedures,250,2381,6.0,20.6,42.0,144.20000000000002
+35604,2019/20,Interior,Queen Victoria Hospital,All Procedures,65,351,3.1,7.6,21.7,53.199999999999996
+35636,2019/20,Interior,Royal Inland Hospital,All Procedures,4488,8956,9.3,33.7,65.10000000000001,235.90000000000003
+35710,2019/20,Interior,Shuswap Lake General Hospital,All Procedures,221,982,6.3,17.7,44.1,123.89999999999999
+35752,2019/20,Interior,Summerland Memorial Health Centre,All Procedures,381,2445,3.1,18.5,21.7,129.5
+35769,2019/20,Interior,Vernon Jubilee Hospital,All Procedures,1594,4351,11.9,38.9,83.3,272.3
+35906,2019/20,Northern,Bulkley Valley District Hospital,All Procedures,121,480,4.1,14.6,28.699999999999996,102.2
+35944,2019/20,Northern,Dawson Creek And District Hospital,All Procedures,254,1007,11.0,31.1,77.0,217.70000000000002
+35992,2019/20,Northern,Fort St John General Hospital,All Procedures,387,1158,5.6,21.3,39.199999999999996,149.1
+36037,2019/20,Northern,G.R. Baker Memorial Hospital,All Procedures,236,1284,4.0,14.7,28.0,102.89999999999999
+36088,2019/20,Northern,Kitimat General Hospital,All Procedures,83,698,2.0,8.4,14.0,58.800000000000004
+36119,2019/20,Northern,Mills Memorial Hospital,All Procedures,455,2521,7.1,16.3,49.699999999999996,114.10000000000001
+36164,2019/20,Northern,Prince Rupert Regional Hospital,All Procedures,116,761,2.1,10.9,14.700000000000001,76.3
+36217,2019/20,Northern,St. John Hospital,All Procedures,170,644,6.4,16.4,44.800000000000004,114.79999999999998
+36263,2019/20,Northern,The University Hospital Of Northern British Columbia,All Procedures,2618,6824,10.1,37.3,70.7,261.09999999999997
+36337,2019/20,Northern,Wrinch Memorial Hospital,All Procedures,17,113,3.9,11.3,27.3,79.10000000000001
+36414,2019/20,Provincial Health Services Authority,B.C. Cancer Agency,All Procedures,26,718,2.8,6.3,19.599999999999998,44.1
+36426,2019/20,Provincial Health Services Authority,B.C. Children'S Hospital,All Procedures,1747,6054,5.3,19.6,37.1,137.20000000000002
+36485,2019/20,Provincial Health Services Authority,B.C. Women'S Hospital,All Procedures,807,3515,4.9,15.7,34.300000000000004,109.89999999999999
+36585,2019/20,Vancouver Coastal,Lions Gate Hospital,All Procedures,4460,9717,7.7,34.7,53.9,242.90000000000003
+36653,2019/20,Vancouver Coastal,Mount Saint Joseph Hospital,All Procedures,5732,14427,5.3,22.9,37.1,160.29999999999998
+36703,2019/20,Vancouver Coastal,Powell River General Hospital,All Procedures,234,1024,7.1,20.0,49.699999999999996,140.0
+36740,2019/20,Vancouver Coastal,Richmond Hospital,All Procedures,2029,5837,6.7,27.9,46.9,195.29999999999998
+36805,2019/20,Vancouver Coastal,Sechelt Hospital,All Procedures,966,1631,13.6,57.0,95.2,399.0
+36834,2019/20,Vancouver Coastal,Squamish General Hospital,All Procedures,685,1092,4.0,29.1,28.0,203.70000000000002
+36879,2019/20,Vancouver Coastal,St. Paul'S Hospital,All Procedures,3393,7980,5.4,33.9,37.800000000000004,237.29999999999998
+36950,2019/20,Vancouver Coastal,Ubc Health Sciences Centre,All Procedures,4525,9141,8.9,35.0,62.300000000000004,245.0
+37021,2019/20,Vancouver Coastal,Vancouver General Hospital,All Procedures,3220,12030,5.3,23.6,37.1,165.20000000000002
+37183,2019/20,Vancouver Island,Campbell River And District General Hospital,All Procedures,858,2202,7.7,28.6,53.9,200.20000000000002
+37241,2019/20,Vancouver Island,Comox Valley Hospital,All Procedures,2905,5679,11.7,47.9,81.89999999999999,335.3
+37300,2019/20,Vancouver Island,Cowichan District Hospital,All Procedures,1476,4101,6.6,31.9,46.199999999999996,223.29999999999998
+37361,2019/20,Vancouver Island,Nanaimo Regional General Hospital,All Procedures,4376,9985,8.4,40.9,58.800000000000004,286.3
+37434,2019/20,Vancouver Island,Royal Jubilee Hospital,All Procedures,5910,15636,7.0,26.4,49.0,184.79999999999998
+37512,2019/20,Vancouver Island,Saanich Peninsula Hospital,All Procedures,654,2347,7.9,25.0,55.300000000000004,175.0
+37558,2019/20,Vancouver Island,Victoria General Hospital,All Procedures,3290,8469,6.9,25.6,48.300000000000004,179.20000000000002
+37629,2019/20,Vancouver Island,West Coast General Hospital,All Procedures,125,796,3.6,9.4,25.2,65.8
