@@ -14,5 +14,7 @@
 
 **April 9th:** Fixed git merge problems. Beginning to work on milestone4. 
 
+**April 10th** Lab 7 completed as a group. 
+
 
 
