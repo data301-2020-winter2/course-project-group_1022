@@ -55,4 +55,10 @@ April 10
 April 11
 1) Practiced Zoom, movie splicing and youtube uploading in preparation for Zoom recording tomorrow.
 2) Created first draft Powerpoint presenation to address Intro and Conclusion parts of presentation.
-
+April 12
+1) Recorded takes 1- 12 of Dashboard tour
+2) Attached to repo in misc folder for Akshaj to amalgamate in anticipation of Rynelle's return from her family situation
+April 13
+1) Recorded takes 13-22 of Dashboard tour
+2) Forwarded to Akshaj for video assembly and submission
+3) Finalized README, attached Video to Repo
